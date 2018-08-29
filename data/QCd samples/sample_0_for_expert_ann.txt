@@ -1,0 +1,31 @@
+	concept_pair	counts	cpmid	pmid	refid1	refid1_type	refid2	refid2_type	reltype	conclusion	notes
+7	D014361_x_D008232	15	1299347_D014361_x_D008232	1299347	D014361	c	D008232	d	c_d	c1_broken	"C1 is trypsin inhibitors, but only trypsin mentioned"
+31	5443_x_C536009	14	1659963_5443_x_C536009	1659963	5443	g	C536009	d	g_d	g_related_d	alterations in gene response affects symptom of disease
+122	5443_x_D004931	19	3014426_5443_x_D004931	3014426	5443	g	D004931	d	g_d	g_related_d	alterations in gene response affects symptom of syndrome containing this disease
+683	D007854_x_D009369	15	11018092_D007854_x_D009369	11018092	D007854	c	D009369	d	c_d	c1_broken	"C1 is lead, abstract about lead (verb)"
+761	4158_x_D004931	28	11353896_4158_x_D004931	11353896	4158	g	D004931	d	g_d	g_unrelated_d	"ACTH receptor mutations linked to ACTH insensitivity in familial glucocorticoid deficiency, but NOT the insensitivity seen in Triple A, disease in this case is achalasia"
+774	5443_x_D020022	29	11353896_5443_x_D020022	11353896	5443	g	D020022	d	g_d	g_related_d	"Paper is about mutations in ACTH receptor, not ACTH (in question), as it relates to genetic disease"
+837	C056752_x_D000742	15	11836161_C056752_x_D000742	11836161	C056752	c	D000742	d	c_d	c1_broken	"drug is CDA, text is CDA disease"
+1197	D006497_x_D001768	16	14675190_D006497_x_D001768	14675190	D006497	c	D001768	d	c_d	c_unrelated_d	"drug is heparitin sulfate, text is heparitinase I, used as a reagent"
+1327	300259_x_C536008	15	15680696_300259_x_C536008	15680696	300259	g	C536008	d	g_d	g_mutation_d	AAAS gene vs triple A syndrome
+1683	8086_x_D009461	24	16970037_8086_x_D009461	16970037	8086	g	D009461	d	g_d	g_mutation_d	gene causes syndrome of which the disease is a symptom
+1766	C115717_x_D000544	15	17255094_C115717_x_D000544	17255094	C115717	c	D000544	d	c_d	c_unrelated_d	Abstract discusses histidine amino acid residue on APP in relation to Alzheimer's
+2047	8086_x_C562827	15	18628786_8086_x_C562827	18628786	8086	g	C562827	d	g_d	g_mutation_d	gene causes syndrome of which the disease is a symptom
+2110	8086_x_C566307	15	19078797_8086_x_C566307	19078797	8086	g	C566307	d	g_d	g_mutation_d	gene causes syndrome of which the disease is a symptom
+2129	D006493_x_D013927	15	19101627_D006493_x_D013927	19101627	D006493	c	D013927	d	c_d	c_unrelated_d	heparin drug can treat enteropathy which is a symptom of a syndrome (CDG) that includes the disease (thrombosis)
+2305	D019087_x_D010538	15	19996411_D019087_x_D010538	19996411	D019087	c	D010538	d	c_d	c1_broken	C1 is selectins
+2434	8086_x_C536008	16	20499090_8086_x_C536008	20499090	8086	g	C536008	d	g_d	g_mutation_d	AAAS gene vs triple A syndrome
+2537	D010100_x_D057165	15	20965426_D010100_x_D057165	20965426	D010100	c	D057165	d	c_d	c2_broken	"C1 (Oxygen) questionable as a drug, Proteostasis not a disease"
+2763	8086_x_D030342	15	21565631_8086_x_D030342	21565631	8086	g	D030342	d	g_d	g_mutation_d	AAAS gene vs genetic disease
+2805	8086_x_D000224	15	21686524_8086_x_D000224	21686524	8086	g	D000224	d	g_d	g_mutation_d	gene causes syndrome of which the disease is a symptom
+2804	8086_x_C562827	16	21686524_8086_x_C562827	21686524	8086	g	C562827	d	g_d	g_mutation_d	gene causes syndrome of which the disease is a symptom
+3099	8086_x_D004931	14	22584989_8086_x_D004931	22584989	8086	g	D004931	d	g_d	g_mutation_d	gene causes syndrome of which the disease is a symptom
+3101	8086_x_D006471	15	22584989_8086_x_D006471	22584989	8086	g	D006471	d	g_d	g_unrelated_d	Adrenal crisis triggered by disease (gastrointestinal bleeding)
+3214	D003348_x_D003680	17	23012188_D003348_x_D003680	23012188	D003348	c	D003680	d	c_d	c_treats_d	cortisone treates dysphagia
+3251	D010100_x_D009410	15	23077033_D010100_x_D009410	23077033	D010100	c	D009410	d	c_d	c1_broken	Oxygen marked in context of reactive oxygen species
+3277	D004967_x_D004715	15	23139742_D004967_x_D004715	23139742	D004967	c	D004715	d	c_d	c_related_d	estrogen vs endometriosis
+3462	8086_x_D001342	15	23861206_8086_x_D001342	23861206	8086	g	D001342	d	g_d	c2_broken	autonomic nervous system marked as autonomic nervous system disease
+3522	C004848_x_D000544	15	24094038_C004848_x_D000544	24094038	C004848	c	D000544	d	c_d	c1_broken	dithiol (C1) marked as part of dithiol-disulfide isomerase
+3747	55768_x_D012640	15	24651605_55768_x_D012640	24651605	55768	g	D012640	d	g_d	g_mutation_d	gene causes syndrome of which the disease is a symptom
+3740	55768_x_D003677	14	24651605_55768_x_D003677	24651605	55768	g	D003677	d	g_d	g_mutation_d	gene causes a disease which belongs to the C2 disease class
+3957	None_x_D000544	15	25639459_None_x_D000544	25639459	None	c	D000544	d	c_d	c1_broken	"no identifier for C1, assumed broken"

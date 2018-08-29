@@ -1,0 +1,31 @@
+	concept_pair	counts	cpmid	pmid	refid1	refid1_type	refid2	refid2_type	reltype	conclusion	notes
+2370	8086_x_C536008	15	20200814_8086_x_C536008	20200814	8086	g	C536008	d	g_d	g_mutation_d	AAAS gene vs triple A syndrome
+2092	D010100_x_D006467	16	19011102_D010100_x_D006467	19011102	D010100	c	D006467	d	c_d	c1_broken	oxygen highlighted in context of reactive oxygen species
+2886	8086_x_D000310	15	22000320_8086_x_D000310	22000320	8086	g	D000310	d	g_d	c2_broken	Adrenal failure marked as adrenal cancer
+2371	8086_x_C536009	15	20200814_8086_x_C536009	20200814	8086	g	C536009	d	g_d	g_mutation_d	AAAS gene vs triple A syndrome (old identifier)
+2051	8086_x_D009422	15	18628786_8086_x_D009422	18628786	8086	g	D009422	d	g_d	g_mutation_d	gene mutation causes syndrome of which disease is a symptom
+243	D005227_x_D000326	15	8006362_D005227_x_D000326	8006362	D005227	c	D000326	d	c_d	c1_broken	fatty acids is not a drug
+3699	C009091_x_D019636	15	24517367_C009091_x_D019636	24517367	C009091	c	D019636	d	c_d	c_unrelated_d	"Drug class 3,4-dihydroxybenzoic acid (derivatives) vs neurodegeneration. Drug chelates metals which play an important role in neurodegeneration (but unclear if more metals or less is a problem)"
+15	5443_x_None	15	1325164_5443_x_None	1325164	5443	g	None	d	g_d	c2_broken	"C2 identifier missing, assumed broken"
+3455	8086_x_C536008	15	23861206_8086_x_C536008	23861206	8086	g	C536008	d	g_d	g_mutation_d	AAAS gene vs Triple A syndrome
+9	5443_x_C536008	15	1325164_5443_x_C536008	1325164	5443	g	C536008	d	g_d	g_related_d	ACTH insensitivity is a symptom of the disease
+3174	D002241_x_D018981	15	22827796_D002241_x_D018981	22827796	D002241	c	D018981	d	c_d	c1_broken	carbohydrates not a drug
+539	D009711_x_D018981	15	10429369_D009711_x_D018981	10429369	D009711	c	D018981	d	c_d	c1_broken	Nucleotides not a drug
+2777	8086_x_D012021	15	21626165_8086_x_D012021	21626165	8086	g	D012021	d	g_d	c2_broken	"C2 is abnormal reflex, text has no mention of this concept (closest is 'visual evoked response' test)"
+2150	8086_x_C562827	14	19172511_8086_x_C562827	19172511	8086	g	C562827	d	g_d	g_mutation_d	gene mutation causes syndrome of which disease is a symptom
+3982	8086_x_D018908	15	25781531_8086_x_D018908	25781531	8086	g	D018908	d	g_d	g_mutation_d	gene mutation causes syndrome of which disease is a symptom
+1315	D000255_x_D016506	16	15623514_D000255_x_D016506	15623514	D000255	c	D016506	d	c_d	c1_broken	ATP2C1 gene partially marked as ATP (adenosine triphosphate)
+3159	C457213_x_C535436	15	22781125_C457213_x_C535436	22781125	C457213	c	C535436	d	c_d	c1_broken	Alpha dystroglycan (a-DG) marked as alpha dihydroxy beta (4-DG cpd)
+2547	C084077_x_D003920	15	21029306_C084077_x_D003920	21029306	C084077	c	D003920	d	c_d	c1_broken	Cannot locate any matching text between concept 1 and abstract
+749	D011134_x_D018981	15	11308015_D011134_x_D018981	11308015	D011134	c	D018981	d	c_d	c1_broken	glycans (polysaccharides) not a drug
+1527	351_x_D000309	15	16528113_351_x_D000309	16528113	351	g	D000309	d	g_d	c1_broken	AAA from AAA syndrome marked as AAA (APP gene)
+658	D000596_x_D004403	14	10858229_D000596_x_D004403	10858229	D000596	c	D004403	d	c_d	c1_broken	Amino acid not a drug
+3539	D004121_x_D000860	15	24115865_D004121_x_D000860	24115865	D004121	c	D000860	d	c_d	c_prevents_d	DMSO protective against oxidative stress caused by disease (hypoxia)
+1126	C097320_x_D000544	15	12882516_C097320_x_D000544	12882516	C097320	c	D000544	d	c_d	c1_broken	C1 is GlcNAc-1-4-GlcNAc that was mapped to O-GlcNAc. Document is about how O-GlcNAcase maps to locus related to late-onset Alzheimers (disease)
+3929	None_x_D017772	15	25478884_None_x_D017772	25478884	None	c	D017772	d	c_d	c1_broken	"no identifier for C1, assumed broken"
+3488	28911_x_D003929	15	23956580_28911_x_D003929	23956580	28911	g	D003929	d	g_d	c1_broken	A22 gene mapped to 'A 22 year-old' in text
+3561	5443_x_D009422	15	24139699_5443_x_D009422	24139699	5443	g	D009422	d	g_d	g_related_d	gene insensitivity is a symptom of a syndrome of which this disease class (neurological disease) is parent
+1698	D014614_x_D012769	16	16980445_D014614_x_D012769	16980445	D014614	c	D012769	d	c_d	"c1_broken,_c2_broken"	"C1 is vaccine, which cannot be found in the text, C2 is broken (shock was marked as part of heat shock)"
+830	D006854_x_D004931	16	11807674_D006854_x_D004931	11807674	D006854	c	D004931	d	c_d	c_unrelated_d	drug (hydrocortisone) used to treat adrenal insufficiency a symptom of the syndrome which covers the disease (achalasia)
+2511	8086_x_C535883	15	20931227_8086_x_C535883	20931227	8086	g	C535883	d	g_d	g_mutation_d	gene mutations causes syndrome of which disease (hyperkeratosis) is a symptom
+3897	C049568_x_D018981	14	25331899_C049568_x_D018981	25331899	C049568	c	D018981	d	c_d	c1_broken	multisubunit tethering (MTC) marked as 3-(methylthio)catechol

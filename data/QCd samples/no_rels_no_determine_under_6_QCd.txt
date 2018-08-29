@@ -1,0 +1,126 @@
+	concept_pair	pmid	reltype	counts	rand value	pair description	actual relationship	Type	Notes	Note Type	meta_path	directionality	meta_path_length
+222	55768_x_D009069	24651605	g_d	1	446	N-glycanase 1 vs movement disorder	mutation in NGLY1 gene causes disease	0			Gene-Disease-Symptom	side-down	3
+504	C014088_x_D024801	24113653	c_d	2	730	n-acetylglucosamine vs tauopathies	chemical post-translationally modifies a protein which may prevent taupathies	0			Drug-Disease	side	2
+359	8086_x_D004941	23861206	g_d	2	280	AAAS gene vs esophageal achalasia	gene causes disease with this symptom ergo causes this disease	0	identifier is for esophogitis NOT esophogeal achalasia	2	Gene-Disease-Symptom	side-down	3
+695	C403564_x_D064420	22809627	c_d	4	475	aspartic acid vs cytotoxicity	aspartic acid taken out of context of mutation	2	identifier is for esophogitis NOT esophogeal achalasia	2	concept wrong	concept wrong	-1
+307	8086_x_D000168	22538409	g_d	1	343	AAAS gene vs dermatological abnormalities	gene mutation causes disease of which includes the symptom	0			Gene-Disease-Symptom	side-down	3
+342	8086_x_D003711	20931227	g_d	4	826	AAAS gene vs sensory demyelinating neuropathy	mutation in AAAS causes Triple A of which demyelination is a symptom	0			Gene-Disease-Symptom	side-down	3
+907	D003981_x_C535739	19396570	c_d	3	664	diazoxide vs phosphomannomutase deficiency	diazoxide treats hyperinsulinaemic hypoclycaemia a symptom of phosphomannomutase deficiency	0			Drug-Symptom-Disease	side-up	3
+382	8086_x_D009422	19172511	g_d	2	630	AAAS gene vs neurologic abnormalities	AAAS gene mutations causes Triple A syndrome which has symptom neurologic abnormalities	0			Gene-Disease-Symptom	side-down	3
+263	8086_x_C535922	19172511	g_d	4	130	AAAS gene vs opthalmic abnormalisities	AAAS gene mutations causes Triple A syndrome which has symptom opthalamic abnormalities	0			Gene-Disease-Symptom	side-down	3
+1034	D006493_x_D013927	19101627	c_d	4	119	heparin vs inconstant thrombosis	heparin can substitute mannose which treats CDG-Ib of which enteropathy is a symptom	0			Drug-Drug-Disease-Symptom	side-side-down	4
+1029	D006493_x_D006946	19101627	c_d	5	261	heparin vs hyperinsulism	heparin can substitute mannose which treats CDG-Ib of which hyperinsulism is a symptom	0			Drug-Drug-Disease-Symptom	side-side-down	4
+1035	D006493_x_D015746	18285818	c_d	4	739	Heparin vs abdominal pain	heparin is used to treat/manage CDGIb which symptoms include abdominal pain	0			Drug-Disease-Symptom	side-down	3
+1023	D006493_x_C535740	18285818	c_d	2	293	Heparin vs congenital disorder of glycosylation type Ib	heparin is used to treat/manage CDGIb	0			Drug-Disease	side	2
+1256	D012402_x_D010300	17079513	c_d	1	445	rotenone vs parkinson disease	rotenone linked to PD	0			Drug-Disease	side	2
+397	8086_x_D012021	16970037	g_d	3	366	AAAS gene vs hyperreflexia	gene mutation causes disease of which includes the symptom	0			Gene-Disease-Symptom	side-down	3
+370	8086_x_D009133	16970037	g_d	3	714	AAAS gene vs muscular atrophy	gene mutation causes disease of which includes the symptom	0			Gene-Disease-Symptom	side-down	3
+293	8086_x_C562827	16970037	g_d	3	562	AAAS gene vs alacrima	gene mutation causes disease of which includes the symptom	0			Gene-Disease-Symptom	side-down	3
+1366	D015242_x_D003318	16915903	c_d	4	131	ofloxacin vs corneal opacity	oflaxacin treats alacrima of which corneal opacity is a symptom	0			Drug-Disease-Symptom	side-down	3
+1364	D015242_x_C536009	16915903	c_d	5	46	ofloxacin vs congenital alacrima (Triple A syndrome)	oflaxacin treats alacrima	0	"identifier is for triple A, not alacrima"	2	Drug-Disease	side	2
+614	C057651_x_D018981	15669673	c_d	1	293	transferrin vs congenital disorders of glycosylation	post-translational modification of this gene is associated with the disease (and therefore levels of PTM protein used as a marker)	0			Gene-Disease	side	2
+968	D005947_x_D000419	1397717	c_d	3	287	glucose vs albuminuria	glucose increases glycosylation of albumin which increases its permeability leading to albuminuria (therefore glucose increases risk of albuminuria)	0			Drug-Disease	side	2
+758	D000324_x_C536009	11907967	c_d	1	479	ACTH vs alacrima (triple A syndrome)	ACTH levels were high in Triple A syndrome patient (altered gene expression associated with disease)	0			Gene-Disease-Disease-Symptom	side-up-down	4
+788	D000431_x_C566005	11766638	c_d	1	986	alcohol vs ASH	"alcohol causes ASH (alcoholic steatohepatitis, but identifier is for cardiac stenosis)"	0	identifier is wrong	2	Drug-Disease	side	2
+71	4158_x_D004931	11084394	g_d	5	135	ACTH receptor vs achalasia	ACTH receptors are NOT mutated in adrenal insufficiency in Triple A syndrome of which achalasia is a symptom (no relation)	0	states no relation	AC	Gene-Disease-Disease-Disease	side-up-down	4
+66	4158_x_C536008	11084394	g_d	5	829	ACTH receptor vs Triple A syndrome	"no relation, absence of mutation distinguishes subdisease of Triple A syndrome from other related disease"	0	states no relation	AD	Gene-Disease-Disease	side-up	3
+895	D003348_x_D003680	23012188	c_d	4	46	cortisone vs dysphagia	cortisone treats adrenal insufficiency which is co-morbid with achalasia of which dysphagia is a symptom	A			Drug-Disease-Disease-Disease-Symptom	side-up-down-down	5
+75	5443_x_202200	1325164	g_d	4	741	ACTH vs glucocorticoid insufficiency	ACTH insensitivity used interchangeably with glucocorticoid insufficiency	AB			Gene-Disease	side	2
+800	D000450_x_D010024	10426592	c_d	3	576	aldosterone vs osteoporosis	aldosterone abnormal in 3A of which osteoporosis is a symptom in this case	AE	also case study	3	Drug-Disease-Symptom	side-down	3
+794	D000450_x_C536009	10426592	c_d	5	389	aldosterone vs alacrima (Triple A syndrome)	aldosterone abnormal in 3A of which alacrima is a symptom	AE			Drug-Disease-Symptom	side-down	3
+787	D000324_x_D030342	20051279	c_d	2	945	ACTH (chem) vs autosomal recessive disorder	resistance to ACTH causes disease which is a subdisease of an autosomal recessive disease	CH			Drug-Disease-Disease-DiseaseClass	side-up-up	4
+776	D000324_x_D004931	24834210	c_d	1	334	ACTH chem vs achalasia	Resistance to mentioned chem causes a disease that is comorbid with mentioned disease	CJ			Drug-Disease-Disease-Disease	side-up-down	4
+175	5443_x_D009410	4075537	g_d	4	784	ACTH vs parasympathetic degeneration	Resistance to ACTH may cause parasympathetic neurodegeration	D			Gene-Disease	side	2
+126	5443_x_D000309	20499090	g_d	2	396	ACTH vs adrenal insufficiency	resistance to ACTH causes adrenal insufficiency	D			Gene-Disease	side	2
+128	5443_x_D000310	12530689	g_d	1	789	ACTH vs adrenal failure	ACTH resistance causes adrenal failure	D			Gene-Disease	side	2
+604	C057620_x_D018981	21722633	c_d	2	911	bafilomycin vs congenital disorders of glycosylation	CDG patients are COG-deficient. COG deficiency associated with resistance to BFA. Bafilomycin used to test effect resistance to understand mechanism	DA			Disease-Drug	side	2
+1414	D020126_x_D018981	16510524	c_d	1	218	brefeldin A vs congenital disorders of glycosylation	befeldin A effects are slower in cells from patients with CDG	DA			Disease-Drug	side	2
+1311	D013739_x_None	21334936	c_d	4	621	testosterone vs ALG6 deficiency	ALG6 deficiency had no effect on testosterone levels	DB			Disease-Drug	side	2
+1209	D010656_x_D006949	16970929	c_d	1	322	phenylphrine vs hyperlipidemia	"hyperlipidemia is a symptom of diabetes linked to HBP flux, increased HBP flux is linked to lower effect of phenylephrine"	DC			Disease-Drug	side	2
+106	5443_x_C536009	20499090	g_d	2	760	ACTH vs Triple A syndrome	"resistance to ACTH causes adrenal insufficiency, a symptom of Triple A syndrome"	G			Gene-Disease-Disease	side-up	3
+205	5443_x_D025063	16937455	g_d	5	139	ACTH vs autosomal recessive disorder	ACTH resistance causes subdisease of Triple A which is a type of autosomal recessive disorders	H			Gene-Disease-Disease-DiseaseClass	side-up-up	4
+204	5443_x_D025063	12530689	g_d	4	650	ACTH vs autosomal recessive disorder	ACTH resistance causes disease which is a subdisease of a syndrome of type autosomal recessive disorder	H			Gene-Disease-Disease-DiseaseClass	side-up-up	4
+183	5443_x_D009422	20200814	g_d	5	205	ACTH vs neurological and autonomic dysfunction	ACTH resistance causes subdisease of Triple A of which autonomic symptoms is a symptom	J			Gene-Disease-Disease-Symptom	side-up-down	4
+198	5443_x_D020361	20051279	g_d	5	601	ACTH vs autonomic dysfunction	Resistance to ACTH gene causes subdisease of disease of which autonomic dysfunction is a symptom	J			Gene-Disease-Disease-Symptom	side-up-down	4
+143	5443_x_D003929	20051279	g_d	5	79	ACTH vs neuropathy	Resistance to ACTH gene causes subdisease of disease of which autonomic dysfunction is a symptom	J			Gene-Disease-Disease-Symptom	side-up-down	4
+100	5443_x_C536009	12793312	g_d	5	429	ACTH vs alacrima (triple A syndrome)	ACTH insensitivity/resistance causes adrenal insufficiency that is co-morbid with alacrima in Triple A syndrome	J			Gene-Disease-Disease-Disease	side-up-down	4
+111	5443_x_C562827	12530689	g_d	3	268	ACTH vs alacrima	ACTH resistance causes disease which is co-morbid with alacrima	J			Gene-Disease-Disease-Disease	side-up-down	4
+186	5443_x_D009461	12150219	g_d	3	511	ACTH vs neurological abnormalities	ACTH causes adrenal insufficiency a subdisease of Triple A syndrome of which neurological abrnomalities is a symptom	J			Gene-Disease-Disease-Symptom	side-up-down	4
+242	7345_x_C562827	12717251	g_d	3	187	PGP9.5 vs alacrima	PGP9.5 is a marker for neurons which were inspected in patient cells	L			Drug-Sample-Source	missing concept	-1
+112	5443_x_C563776	4075537	g_d	2	983	ACTH vs glucorticoid deficiency (familial)	resistance to ACTH causes a type of glucocorticoid deficiency	M	"identifier is for familial glucorticoid deficiency, not glucorticoid deficiency"	1	Gene-Disease-DiseaseClass	side-up	3
+574	C046669_x_D003920	21494549	c_d	2	864	UDP-GlcNAc vs diabetes	UDP-GlcNAc = precursor to GlcNAc which modulates heart symptoms in diabetes	N			Drug-Drug-Symptom-Disease	down-side-up	4
+151	5443_x_D004931	8253654	g_d	3	474	ACTH vs achalasia	resistance/insensitivity to ACTH is comorbid to achalasia	O			Gene-Disease-Disease-Disease	side-up-down	4
+148	5443_x_D004931	3014426	g_d	5	220	ACTH vs achalasia	resistance/insensitivity toACTH is comorbid to achalasia	O			Gene-Disease-Disease-Disease	side-up-down	4
+160	5443_x_D004931	17880786	g_d	5	51	ACTH vs achalasia	ACTH resistance co-morbid with achalasia	O			Gene-Disease-Disease-Disease	side-up-down	4
+218	5443_x_D056587	4075537	g_d	2	163	ACTH vs multisystem disorder	resistance/insensitivity to ACTH is a symptom of multisystem disorder	P	identifier is actually for Cryopyrin-Associated Periodic Syndromes not multisystem disorder	1	Gene-Disease-Disease-DiseaseClass	side-up-up	4
+85	5443_x_C536008	11353896	g_d	2	781	ACTH vs Triple A syndrome	ACTH insensitivity is a symptom of this disease	P			Gene-Disease-Disease	side-up	3
+1045	D006632_x_D004402	2854735	c_d	5	645	histamine vs familial dysautonomia	histamine used to test for the disease	Q			Drug-Disease	side	2
+1362	D015100_x_D018981	12763243	c_d	3	124	diaminobenzidene vs congenital disorders of glycosylation	diaminobenzidene is a reagent used to test for CDG in western blots	Q			Drug-Disease	side	2
+1403	D019793_x_C562827	8740696	c_d	5	682	fluorescein vs alacrima	"Fluorescein used to test for dry eye, a symptom alacrima"	S			Drug-Symptom-Disease	side-up	3
+1321	D014508_x_D005693	3384185	c_d	1	511	Urea vs galactosemia	urea is a reagent used to test for tail tendon breaking time in galactosemia	S			Drug-Sample-Source	missing concept	-1
+1380	D016210_x_D019846	2854735	c_d	5	862	melocholyl vs areflexia	melocholyl used to test for familial dysautonomia of which areflexia is a symptom	T	"identifier is actually for miller-fischer syndrome, not areflexia"	1	Drug-Disease-Symptom	side-down	3
+1284	D013256_x_D018981	18571450	c_d	3	361	steroids vs congenital disorders of glycosylation	steroids failed to treat symptoms of congenital disorders of glycosylation	U			Drug-Disease	side	2
+1279	D013256_x_D004487	18571450	c_d	5	111	steroids vs oedema	"steroids failed to treat oedema, a symptom of congenital disorders of glycosylation"	U			Drug-Symptom-Disease	side-side	3
+1274	D013256_x_C535744	18571450	c_d	5	7	steroids vs CDG syndrome	steroids failed to treat symptoms of congenital disorders of glycosylation syndrome	U			Drug-Disease	side	2
+1369	D015655_x_D010300	24741456	c_d	5	74	1-methyl-4-phenylpyridinium vs parkinson disease	MPP induces oxidative stress which is used to test Parkin gene which is associated with Parkinson disease	V			Drug-Gene-Disease	side-side	3
+534	C026560_x_D020734	24741456	c_d	4	786	MPP vs autosomal recessive juvenile parkinsonism	MPP induces oxidative stress which is used to test Parkin gene which is associated with Parkinson disease	V	identifier is for a more specific form of parkinson than text describes	2	Drug-Gene-Disease	side-side	3
+533	C026560_x_D010300	24741456	c_d	3	147	MPP vs parkinson disease	MPP induces oxidative stress which is used to test Parkin gene which is associated with Parkinson disease	V	identifier is for a different chemical than the one mentioned in abstract	2	Drug-Gene-Disease	side-side	3
+1441	None_x_D008268	24667411	c_d	1	402	CS vs macular degeneration	cigarette smoke used to test role of p62 in macular degeneration	V			Drug-Gene-Disease	side-side	3
+844	D001629_x_D008661	24206932	c_d	1	397	bezafibrate vs inborn errors of metabolism	"bezafibrate used as a reagent to test role of FAO enzymes in FAO defects, a type of inborn errors of metabolism"	V			Drug-Gene-Disease	side-side	3
+1368	D015655_x_D010300	21131360	c_d	2	169	1-methyl-4-phenylpyridinium vs parkinson disease	MPP induces oxidative stress which is used to test ATF6a and p38MAPK in neurotoxicity model of parkinson disease	V			Drug-Gene-Disease	side-side	3
+1319	D014415_x_D020244	15485913	c_d	3	956	tunicamycin vs middle cerebral artery occlusion	"tunicamycin used to test STC2 gene expression, STC2 gene expression is upregulated in cerebral artery occlusion"	V			Drug-Gene-Disease	side-side	3
+1071	D006861_x_D000544	24523414	c_d	3	616	hydrogen peroxide vs alzheimer disease	H2O2 is a byproduct from a test investigating the role of Cu in Alzheimer's Disease	W			Drug-Sample-Source	missing concept	-1
+807	D000496_x_D015427	23301939	c_d	2	79	alloxan vs ischemia-reperfusion injury	drug does not interfere with effects of cardioprotective treatment in ischemia-reperfusion injury	Y			Drug-Drug-Disease	side-side	3
+507	C015473_x_D018981	22717794	c_d	1	480	polyprenol vs congenital disorders of glycosylation	GlcNAc assembly on polyprenol carrier compromised in congenitol disorders of glycosylation	Z			Drug-Drug-Disease	side-side	3
+903	D003545_x_D000544	25485856	c_d	1	228	cysteine vs alzheimer's disease	cysteine is not a drug	2			concept wrong	concept wrong	-1
+1196	D010100_x_D019636	24517367	c_d	2	418	oxygen vs neurodegeneration process	Oxygen is partially highlighted from reactive oxygen species	2			concept wrong	concept wrong	-1
+940	D004958_x_D020964	23242014	c_d	1	34	E2 vs embryonic kidney	embryonic kidney cells is not a disease	2			concept wrong	concept wrong	-1
+1192	D010100_x_D010300	23077033	c_d	3	274	oxygen vs parkinson disease	Oxygen is partially highlighted from reactive oxygen species	2			concept wrong	concept wrong	-1
+819	D000596_x_D009369	21967333	c_d	2	672	amino acids vs cancer	amino acids are not a drug concept	2			concept wrong	concept wrong	-1
+379	8086_x_D009386	20931227	g_d	1	381	AAAS gene vs A syndrome	A syndrome is incorrectly highlighted	2			concept wrong	concept wrong	-1
+641	C075773_x_D007938	20813146	c_d	3	769	phenylbutyric acid vs leukemia	leukemia from leukemia virus incorrectly highlighted	2			concept wrong	concept wrong	-1
+1096	D007501_x_D064420	19880638	c_d	2	437	iron vs toxicity	Iron not a drug	2			concept wrong	concept wrong	-1
+815	D000596_x_D006069	19251655	c_d	3	931	amino acid vs gonorhrea	amino acids are not a drug concept	2			concept wrong	concept wrong	-1
+1141	D009711_x_D020734	19172511	c_d	4	752	nucleotide vs autosomal recessive disease	nuclelotide is not a drug concept	2			concept wrong	concept wrong	-1
+1137	D009711_x_D009422	19172511	c_d	3	408	nucleotide vs neurologic abnormalities	nuclelotide is not a drug concept	2			concept wrong	concept wrong	-1
+1136	D009711_x_D009384	19172511	c_d	5	520	nucleotide vs adrenocorticotrophic hormone	nuclelotide is not a drug concept	2			concept wrong	concept wrong	-1
+1129	D009711_x_C536008	19172511	c_d	3	175	nucleotide vs AAAS disease	nuclelotide is not a drug concept	2			concept wrong	concept wrong	-1
+389	8086_x_D009711	19172511	g_c	3	886	AAAS gene vs nucleotide	nuclelotide is not a drug concept	2			concept wrong	concept wrong	-1
+5	16414_x_D009386	18172684	c_d	1	441	Val vs A syndrome	valine not a drug in this context	2			concept wrong	concept wrong	-1
+2	16414_x_C536009	18172684	c_d	2	780	Val vs Triple A syndrome	valine not a drug in this context	2			concept wrong	concept wrong	-1
+24	226641_x_D020964	17765679	g_d	2	375	ATF6alpha vs embryonic	embryonic is not a disease	2			concept wrong	concept wrong	-1
+570	C039522_x_D018981	17197096	c_d	2	597	N-glycosylated (n-glycosylated insulin) vs congenital disorders of glycosylation	N-glycosylated is NOT a drug concept	2			concept wrong	concept wrong	-1
+1392	D017308_x_D010300	17079513	c_d	1	75	E3 vs parkinson disease	E3 (from ubiquitin E3 ligase) is not a drug concept	2			concept wrong	concept wrong	-1
+1230	D011134_x_D007674	17050773	c_d	1	33	N-glycans (polysaccharides) vs nephropathy	N-glycans is not a drug concept	2			concept wrong	concept wrong	-1
+1460	None_x_D019636	16860504	c_d	1	56	Chaperone vs neurodegenerative disorders	chaperone is not a drug	2			concept wrong	concept wrong	-1
+1324	D014529_x_D005693	15701638	c_d	1	251	uridine vs galactose metabolism	"uridine is not a drug, galactose metabolism is not a disease"	2			concept wrong	concept wrong	-1
+41	300259_x_D009841	15680696	g_c	1	568	AAAS gene vs oligonucleotide	nuclelotide is not a drug concept	2			concept wrong	concept wrong	-1
+1153	D009844_x_D001327	14675190	c_d	1	333	oligosaccharides vs autoimmune disease	oligosaccharides are not a drug concept	2			concept wrong	concept wrong	-1
+1036	D006497_x_D001768	14675190	c_d	5	370	heparin sulfate vs autoimmune subepidermal blistering (blister)	"heparin sulfate is not a drug in this context, but a functional group on a molecule"	2			concept wrong	concept wrong	-1
+888	D002712_x_D003550	12164788	c_d	2	770	M guanidinium chloride vs cystic fibrosis	Not a drug concept (but a reagent used for processing samples)	2			concept wrong	concept wrong	-1
+912	D003981_x_D018149	11916319	c_d	4	347	diazoxide vs glucose homeostasis	glucose homeostasis is not a disease concept	2			concept wrong	concept wrong	-1
+1282	D013256_x_D009369	11018092	c_d	4	635	steroid vs cancer	steroid is not a drug concept in this context 'steroid aporeceptors'--protein class	2			concept wrong	concept wrong	-1
+1281	D013256_x_D007511	11018092	c_d	5	533	steroid vs ischemia	steroid is not a drug concept in this context 'steroid aporeceptors'--protein class	2			concept wrong	concept wrong	-1
+1280	D013256_x_D007249	11018092	c_d	3	810	steroid vs inflammation	steroid is not a drug concept in this context 'steroid aporeceptors'--protein class	2			concept wrong	concept wrong	-1
+1101	D007854_x_D007249	11018092	c_d	2	284	lead vs inflammation	"lead is not a drug concept in this context, but a verb"	2			concept wrong	concept wrong	-1
+35	28925_x_D010182	10714761	g_d	4	296	a 2-8 vs pancreatic disease	a 2-8 is not a gene concept in this context ('a 2-8/12 year old)	2			concept wrong	concept wrong	-1
+34	28925_x_D004931	10714761	g_d	2	243	a 2-8 vs achalasia	a 2-8 is not a gene concept in this context ('a 2-8/12 year old)	2			concept wrong	concept wrong	-1
+12	17996_x_D004931	10714761	c_d	4	425	chloride vs achalasia	chloride is not a drug concept	2	also case study	3	concept wrong	concept wrong	-1
+7	17996_x_C536008	10714761	c_d	3	38	chloride vs Triple A Syndrome	chloride is not a drug concept	2	also case study	3	concept wrong	concept wrong	-1
+1208	D010634_x_D002292	10620506	c_d	1	12	luminal vs gastric carcinoma cells	luminal is not a drug concept	2			concept wrong	concept wrong	-1
+356	8086_x_D004931	21744492	g_d	4	151	AAAS gene vs achalasia	"AAAS gene suspected to cause Triple A syndrome (and all its symptoms), but no mutations found in this case"	3			Gene-Disease	side	2
+338	8086_x_D003072	21744492	g_d	5	415	AAAS gene vs cognitive impairment	"AAAS gene suspected to cause Triple A syndrome (and all its symptoms), but no mutations found in this case"	3			Gene-Disease	side	2
+304	8086_x_C563939	21744492	g_d	4	114	AAAS gene vs autonomic dysfunction	"AAAS gene suspected to cause Triple A syndrome (and all its symptoms), but no mutations found in this case"	3			Gene-Disease	side	2
+298	8086_x_C562827	21744492	g_d	4	860	AAAS gene vs alacrima	"AAAS gene suspected to cause Triple A syndrome (and all its symptoms), but no mutations found in this case"	3			Gene-Disease	side	2
+285	8086_x_C536009	21744492	g_d	4	607	AAAS gene vs Triple A syndrome	"AAAS gene suspected to cause Triple A syndrome (and all its symptoms), but no mutations found in this case"	3			Gene-Disease	side	2
+64	4072_x_D007634	20447614	g_d	4	655	EpCAM vs Superficial punctate keratitis	EpCAM gene mutation causes congenital tufting enteropathy of which superficial punctate keratitis is sometimes a symptom	3			Gene-Disease-Symptom	side-side	3
+56	4072_x_C562827	20447614	g_d	3	230	EpCAM vs alacrima	EpCAM gene mutation causes congenital tufting enteropathy of which superficial punctate keratitis is sometimes a symptom	3			Gene-Disease-Symptom	side-side	3
+390	8086_x_D009896	18175081	g_d	5	637	AAAS gene vs optic atrophy	"AAAS gene mutation typically associated with Triple A syndrome which includes this symptom, but not in this case"	3			Gene-Disease	side	2
+388	8086_x_D009461	18175081	g_d	4	367	AAAS gene vs disease and prominent neurological dysfunctions	"AAAS gene mutation typically associated with Triple A syndrome which includes this symptom, but not in this case"	3			Gene-Disease	side	2
+319	8086_x_D000309	18175081	g_d	4	875	AAAS gene vs adrenal insufficiency	"AAAS gene mutation typically associated with Triple A syndrome which includes this symptom, but not in this case"	3			Gene-Disease	side	2
+310	8086_x_D000224	18175081	g_d	4	994	AAAS gene vs adrenocortical insufficiency	"AAAS gene mutation typically associated with Triple A syndrome which includes this symptom, but not in this case"	3			Gene-Disease	side	2
+1055	D006854_x_C536009	17595484	c_d	2	139	cortisol vs Triple A syndrome	"cortisol is usually low in ACTH-resistance (therefore Triple A syndrome), but was normal in this case"	3			Drug-Disease	side	2
+216	5443_x_D052439	1325164	g_d	5	839	ACTH vs alacrima disturbance of the lipid metabolism	ACTH resistance is a symptom of Triple A syndrome which in this case also had an unusual/special feature symptom (disturbance of lipid metabolism)	3			Gene-Disease-Disease	side-up	3
+361	8086_x_D005355	12717251	g_d	5	972	AAAS gene vs myenteric fibrosis	mutation in gene causes Triple A syndrome which is marked by myenteric fibrosis in some cases of the disease	3			Gene-Disease-Symptom	side-down	3
+137	5443_x_D002292	12150219	g_d	2	911	ACTH vs renal ectopia	"ACTH causes adrenal insufficiency a subdisease of Triple A, and renal ectopia was a symptom in this case, but not usually"	3			Gene-Disease-Disease-Symptom	side-up-down	4
+977	D005947_x_D005693	3587991	c_d	3	502	Glucose vs galactosemia	glucose increases hemoglobin glycosylation. Hemoglobin glycosylation in galactosemia is increased but differs in type from diabetes	6					

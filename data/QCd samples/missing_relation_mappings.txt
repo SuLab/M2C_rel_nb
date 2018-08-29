@@ -1,0 +1,49 @@
+ID	Broader class
+0	has relationship
+1	The concept does not appear in the text
+2	"The concept does appear in the text, but is wrong/misidentified/incomplete/out-of-context"
+3	"Case/clinical study shows partial or inconsistent relationship (eg- related in x out of y cases, not in m out of y cases)"
+4	"text explicitly mentions investigating relationship, but not an actual relationship"
+5	"text explicitly mentions an association/relationship, but is not more specific"
+6	"concepts are vaguely related by shared biochemical pathway/mechanism/markers, but otherwise unrelated"
+A	chemical treats overarching disease of mention
+B	gene resistance associated with disease
+C	chemical treats overarching disease of mention
+D	gene resistance associated with disease
+E	gene mutation causes disease misdiagnosed as mentioned
+F	gene resistance associated with disease
+G	gene resistance associated with disease
+H	gene resistance associated with disease
+I	gene resistance associated with disease
+J	gene resistance associated with disease
+K	gene mutation indirectly related to disease class
+L	gene is a marker used for inspecting samples
+M	gene resistance associated with disease
+N	chem is a pro-drug/precursor for treating disease
+O	gene resistance is the disease/symptom
+P	gene resistance is the disease/symptom
+Q	chemical is reagent for diagnostic test
+R	gene resistance associated with disease
+S	chemical is reagent for diagnostic test
+T	chemical is reagent for diagnostic test
+U	chemical failed to treat a disease
+V	chemical is a reagent for testing gene associated with disease
+W	chemical is a byproduct of testing something associated with disease
+Y	mentioned chemical does not affect/interfere with the treatment of the mentioned disease
+Z	chemical is altered in the disease
+AA	chemical is altered in the disease
+AB	gene resistance is the disease/symptom
+AC	gene resistance is the disease/symptom
+AD	gene resistance is the disease/symptom
+AE	chemical is altered in the disease
+AF	chemical is reagent for diagnostic test for different disease
+AG	gene resistance associated with disease
+AH	gene mutation causes disease misdiagnosed as mentioned
+AI	gene mutation causes disease misdiagnosed as mentioned
+AJ	chemical substrate for gene associated with disease
+AK	gene resistance associated with disease that is often misdiagnosed as mentioned
+DA	disease confers resistance to drug
+DB	"text explicitly mentions investigating relationship, but not an actual relationship"
+DC	disease confers resistance to drug
+CJ	chem indirectly associated with disease
+CH	chem indirectly associated with disease

@@ -1,0 +1,31 @@
+	concept_pair	counts	cpmid	pmid	refid1	refid1_type	refid2	refid2_type	reltype	conclusion	notes
+1121	C532103_x_D018981	15	12872847_C532103_x_D018981	12872847	C532103	c	D018981	d	c_d	c1_broken	drug (Ib cpd pyrrole) mapped to CDG-Ib
+3229	8086_x_C536009	15	23056690_8086_x_C536009	23056690	8086	g	C536009	d	g_d	g_mutation_d	gene (AAAS) mutation associated with diseaes (Allgrove syndrome)
+3469	8086_x_D055534	15	23861206_8086_x_D055534	23861206	8086	g	D055534	d	g_d	g_mutation_d	gene (AAAS) mutation associated with syndrome of which disease (bulbospinal muscular atrophy) is a symptom
+439	59330_x_None	15	9621534_59330_x_None	9621534	59330	g	None	d	g_d	c1_broken	gene (gastroesophageal reflux) marked though context suggests disease
+260	5443_x_C536009	15	8253654_5443_x_C536009	8253654	5443	g	C536009	d	g_d	g_related_d	gene (ACTH) insensitivity is a symptom of the disease (Triple A syndrome)
+3603	C033171_x_D008659	15	24279733_C033171_x_D008659	24279733	C033171	c	D008659	d	c_d	c1_broken	Purple Sweet Potato Color (PSPC) marked as drug (palmitoylsphingosine-phosphorylcholine (PSPC))
+1974	C544092_x_D000544	15	18304576_C544092_x_D000544	18304576	C544092	c	D000544	d	c_d	c_ups_risk_d	drug (amyloid beta) increases risk of disease (Alzheimer's disease)
+2741	D019289_x_D003920	15	21494549_D019289_x_D003920	21494549	D019289	c	D003920	d	c_d	c_unrelated_d	drug (pyruvate) is just a readout for tests related to cardiac function which is sometimes messed up in diabetes (disease)
+3251	D010100_x_D009410	15	23077033_D010100_x_D009410	23077033	D010100	c	D009410	d	c_d	c1_broken	drug (oxygen) marked as part of reactive oxygen species
+3096	8086_x_C536009	14	22584989_8086_x_C536009	22584989	8086	g	C536009	d	g_d	g_mutation_d	gene (AAAS) is associated with disease (Allgrove syndrome)
+1097	5443_x_C536008	15	12793312_5443_x_C536008	12793312	5443	g	C536008	d	g_d	g_related_d	gene (ACTH) insensitivity is a symptom of the disease (Triple A syndrome)
+2757	8086_x_C536009	13	21565631_8086_x_C536009	21565631	8086	g	C536009	d	g_d	g_mutation_d	gene (AAAS) is associated with disease (Allgrove syndrome)
+3979	8086_x_D009422	15	25781531_8086_x_D009422	25781531	8086	g	D009422	d	g_d	g_mutation_d	gene (AAAS) is associated with syndrome which is classified as a type of this disease
+1073	8086_x_C536008	16	12717251_8086_x_C536008	12717251	8086	g	C536008	d	g_d	g_mutation_d	gene (AAAS) is associated with disease (Allgrove syndrome)
+2794	8086_x_D012816	15	21656342_8086_x_D012816	21656342	8086	g	D012816	d	g_d	c2_broken	C2 (signs and symptoms) is not a disease
+2784	8086_x_C562827	16	21656342_8086_x_C562827	21656342	8086	g	C562827	d	g_d	g_mutation_d	gene (AAAS) is associated with a syndrome (Allgroves) of which the disease (alacrima) is a symptom
+2824	D005947_x_D007239	15	21737679_D005947_x_D007239	21737679	D005947	c	D007239	d	c_d	c1_broken	drug (glucose) marked but rest of term (glucose(3)mannose(9)GlcNAc(2)-P-P-dolichol unmarked
+1309	C066308_x_D018981	15	15589762_C066308_x_D018981	15589762	C066308	c	D018981	d	c_d	c1_broken	drug (JET CE protocol) mapped to CE-MS analysis
+1669	8086_x_D012735	14	16938764_8086_x_D012735	16938764	8086	g	D012735	d	g_d	c2_broken	disease (sexual dysfunction) mapped to neuroautonomic dysfunction
+111	D016210_x_D007239	14	2854735_D016210_x_D007239	2854735	D016210	c	D007239	d	c_d	c1_broken	"drug (mecholyl) mapped to ocular mecholyl tests, and has nothing to do with disease (infections) from pulmonary infections"
+1716	C047217_x_D018981	15	17049852_C047217_x_D018981	17049852	C047217	c	D018981	d	c_d	c_treats_d	drug (mannose-1-phosphate) as a potential therapeutic for mapped to CDG Ia (disease mapped only to CDG part)
+2887	8086_x_D000312	15	22000320_8086_x_D000312	22000320	8086	g	D000312	d	g_d	c2_broken	gene (AAAS) is related to adrenal failure which mapped to disease (Adrenal hyperplasia)
+249	C541943_x_D001168	15	8046350_C541943_x_D001168	8046350	C541943	c	D001168	d	c_d	c1_broken	Antigen presenting cells (APCs) marked as drug (APcK110)
+2744	D010100_x_None	15	21498622_D010100_x_None	21498622	D010100	c	None	d	c_d	c1_broken	drug (oxygen) marked as part of reactive oxygen species
+2888	8086_x_D004931	15	22000320_8086_x_D004931	22000320	8086	g	D004931	d	g_d	g_mutation_d	gene (AAAS) associated with syndrome (Allgrove) of which disease (Achalasia) is a symptom
+3562	5443_x_D016472	16	24139699_5443_x_D016472	24139699	5443	g	D016472	d	g_d	g_related_d	gene (ACTH) insensitivity is a symptom of a syndrome which is a type of this disease class (motor neuron disease)
+259	5443_x_C536008	15	8253654_5443_x_C536008	8253654	5443	g	C536008	d	g_d	g_related_d	gene (ACTH) insensitivity is a symptom of the disease (Triple A syndrome)
+1665	8086_x_D004931	15	16938764_8086_x_D004931	16938764	8086	g	D004931	d	g_d	g_mutation_d	gene (AAAS) is associated with a syndrome (Allgroves) of which the disease (alchalasia) is a symptom
+832	D006854_x_None	15	11807674_D006854_x_None	11807674	D006854	c	None	d	c_d	c2_broken	"no identifier for C2, assumed broken"
+712	5443_x_D000309	15	11084394_5443_x_D000309	11084394	5443	g	D000309	d	g_d	g_related_d	gene (ACTH) insensitivity is associated with the disease (adrenal insufficiency)

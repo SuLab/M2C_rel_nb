@@ -1,0 +1,199 @@
+	concept_pair	pmid	reltype	counts	rand value	pair description	actual relationship	Type	Notes	Note Type	meta_path	directionality	meta_path_length
+117	5443_x_D004931	4075537	g_d	7	4	ACTH vs achalasia	Resistance to mentioned gene/gene product causes a disease that is comorbid with mentioned disease	J			Gene-Disease-DiseaseClass-Disease	side-up-down	4
+384	8086_x_D048089	20931227	g_d	1	5	AAAS vs calves hypotrophy	AAAS mutation causes Triple A syndrome of which calves hypotrophy was a symptom in this case	0			Gene-Disease-Symptom	side-down	3
+352	8086_x_D018908	18615337	g_d	2	6	AAAS vs weakness	AAAS gene mutation causes disease of which weakness is a symptom	0			Gene-Disease-Symptom	side-down	3
+830	D019793_x_C562827	8740696	c_d	4	7	fluorescein vs alacrima	chem is a reagent for testing for symptom of this disease	S			Drug-Disease	side	2
+303	8086_x_D006527	16609705	g_d	3	7	AAAS vs WD	WD is NOT a disease in this context	2			concept wrong	concept wrong	-1
+363	8086_x_D030342	12717251	g_d	6	8	AAAS gene vs genetic disease	relationship is explicitly stated as 'associated'	5			Gene-Disease	side	2
+58	5443_x_C536008	24139699	g_d	12	8	ACTH gene vs Triple A Syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	G			Gene-Disease-Disease	side-up	3
+751	D010710_x_C567437	12413857	c_d	3	16	phosphate vs congenital disorders of glycosylation	phosphate is not a drug concept	2			concept wrong	concept wrong	-1
+145	5443_x_D009422	12150219	g_d	5	17	ACTH vs neurological disorders	ACTH resistance causes adrenal insufficiency which is co-morbid with neurological abnormalities	J			Gene-Disease-Disease-Symptom	side-up-down	4
+684	D006632_x_D007239	2854735	c_d	2	18	histamine vs pulmonary infections	chemical used to test for familial dysautonomia of which pulmonary infections was a symptom	T			Drug-Disease-Symptom	side-down	3
+813	D016210_x_D017696	2854735	c_d	5	40	mecholyl vs neonatal nemaline myopathy	chemical tests for familial dysautononmia which was misdiagnosed as congenital nemaline myopathy	AF			Reagent-Sample-Source	missing concepts	-1
+427	C027576_x_D000544	17255094	c_d	1	47	4-hydroxy-2nonenal vs Alzheimer disease	drug can increase risk of disease (drug causes oxidative lipid damage that increases risk of amyloid formation and Alzheimer's disease	0			Drug-Disease	side	2
+484	C097320_x_D003920	11522385	c_d	1	47	O-GlcNAc vs diabetes	"mention is O-GlcNAc modification, not O-GlcNAc"	2	O-GlcNAc modification is abnormal in diabetes	AA	concept wrong	concept wrong	-1
+718	D007531_x_C564417	3305576	c_d	2	58	diisopropylfluorophosphate vs X-linked chronic granulomatous disease	chem is a reagent for processing samples/cells from patients with the disease	CL			Reagent-Sample-Source	missing concepts	-1
+169	5443_x_D025063	20051279	g_d	3	60	ACTH vs autosomal recessive disorder	"ACTH resistant-adrenal failure normally a symptom of Triple A syndrome--a type of autosomal recessive disoreder--, but not in this case"	3			Gene-Disease-Disease-DiseaseClass	side-up-up	4
+455	C050801_x_C567437	15804603	c_d	4	65	asparagine vs Type I congenital disorders of glycosylation	asparagine is not a drug concept	2			concept wrong	concept wrong	-1
+180	5443_x_D056587	4075537	g_d	5	67	ACTH vs multisystem disorder	ACTH resistance is disease associated with other diseases in a multisystem disorder	R			Gene-Disease-DiseaseClass	side-up	3
+204	7345_x_D030342	12717251	g_d	10	72	PGP9.5 gene vs genetic disease	PGP9.5 (a neuronal marker) used to stain samples from patient with a genetic disease	L			Reagent-Sample-Source	missing concept types	-1
+770	D012794_x_D018981	24153356	c_d	2	79	sialic acid vs congenital disorders of glycosylation	sialic acid can be used to label/investigate CDG patient glycan processing	CL			Reagent-Sample-Source	missing concepts	-1
+15	353_x_202200	3652558	g_d	1	95	AMP vs glucocorticoid deficiency	AMP is not a gene concept	2			concept wrong	concept wrong	-1
+300	8086_x_D006470	22584989	g_d	5	97	AAAS vs  gastrointestinal bleediing	AAAS gene mutation causes adrenal crisis which is also caused by gastrointestinal bleeding	F	identifier is for hemorrhage (bleeding) not gastrointestinal bleeding	2	Gene-Disease-Disease-Disease	side-down-up	4
+347	8086_x_D016472	18175081	g_d	3	106	AAAS vs motor-sensory neuropathy	AAAS gene mutation causes Triple A syndrome which includes motor-sensory neuropathy	0			Gene-Disease-Symptom	side-down	3
+89	5443_x_D000224	16937455	g_d	4	107	ACTH vs adrenocortical insufficiency	ACTH resistance causes disease	D			Gene-Disease	side	2
+640	D005947_x_C535742	8617881	c_d	1	109	glucose vs CDGs	chem failed to treat the disease	U			Drug-Disease	side	2
+233	8086_x_C562827	12717251	g_d	7	111	AAAS gene vs alacrima	relationship is explicitly stated as 'associated'	5			Gene-Disease	side	2
+132	5443_x_D004931	20499090	g_d	5	119	ACTH vs achalasia	ACTH-resistance causes adrenal insufficiency which is co-morbid with achalasia	J			Gene-Disease-Disease-Symptom	side-up-down	4
+401	C014088_x_D000544	12882516	c_d	5	122	N-acetylglucosamine vs alzheimer's disease	drug is a substrate for a gene which may be related to Alzheimer's disease	AJ			Chem-Gene-Disease	side-side-side	3
+394	C009091_x_D019636	24517367	c_d	3	136	"3,4-dihydroxybenzoic acid vs neurodegeneration process"	"3,4-dihydroxybenzoic acid chelates metals which may play a role in neurodegeneration"	6			Drug-Process-Disease	missing concepts	-1
+157	5443_x_D020022	11353896	g_d	11	136	ACTH vs genetic defect (genetic predisposition to disease)	Resistance to ACTH causes disease which is a subdisease of a syndrome from disease class: genetic defects	H			Gene-Disease-Disease-DiseaseClass	side-up-up	4
+92	5443_x_D000309	12150219	g_d	8	146	ACTH vs adrenal insufficiency	Resistance to ACTH causes Adrenal insufficiency	D			Gene-Disease	side	2
+89	5443_x_D000309	8253654	g_d	7	146	ACTH vs adrenal insufficiency	Resistance to ACTH causes Adrenal insufficiency	D			Gene-Disease	side	2
+267	8086_x_D000309	22584989	g_d	4	155	AAAS vs adrenal insufficiency	AAAS gene mutation causes adrenal insufficiency	0			Gene-Disease	side	2
+456	C050801_x_D018981	16317064	c_d	1	161	asparagine vs congenital disorders of glycosylation	asparagine is not a drug concept in this context	2			concept wrong	concept wrong	-1
+540	D000324_x_202200	11084394	c_d	3	172	ACTH vs familial glucocorticoid deficiency	ACTH resistance is a disease which includes familial glucorticoid deficiency as a type	M			Gene-Disease-Disease	side-side-side	3
+840	D037201_x_D030342	8811665	c_d	1	173	FSH vs genetic disease	"mentioned chemical is altered in galactosemia, a genetic disease"	AE			Chem-Disease-DiseaseClass	side-up	3
+92	5443_x_D000309	10068747	g_d	5	175	ACTH vs adrenal insufficiency	ACTH treated adrenal insufficiency in this specific case of Triple A syndrome	3	Case study showing not all Triple A has ACTH insensititivy	0	Drug-Disease-Disease	side-up	3
+140	5443_x_D009422	1659963	g_d	7	177	ACTH vs neurological abnormalities (nervous system disease)	resistance/insensitivity to mentioned gene/gene product is a symptom of disease of mentioned disease class	R			Gene-Disease-DiseaseClass	side-up	3
+226	8086_x_C536009	22584989	g_d	3	187	AAAS vs alacrima (Triple A syndrome)	AAAS gene mutation causes alacrima (triple A syndrome)	0			Gene-Disease-Symptom	side-down	3
+84	5443_x_C564577	4075537	g_d	4	198	ACTH vs glucocorticoid deficiency	ACTH resistance is used interchangeably with glucorticoid deficiency	AB			Gene-Disease	side	2
+122	5443_x_D004931	12150219	g_d	8	198	ACTH vs achalasia	Resistance to ACTH causes a disease that is comorbid with achalasia	J			Gene-Disease-DiseaseClass-Disease	side-up-down	4
+425	C026406_x_C567437	15804603	c_d	2	206	dolichol pyrophosphate  vs Type I congenital disorders of glycosylation	dolichol pyrophosphate is NOT a drug in this context	2			concept wrong	concept wrong	-1
+103	5443_x_D000312	8253654	g_d	7	207	ACTH vs mineralocorticoid deficiency (congenital adrenal hyperplasia)	"ACTH resistance associated with adrenal insufficiency, a type of mineralocorticoid insufficiency"	M			Gene-Disease-DiseaseClass	side-up	3
+311	8086_x_D009384	19172511	g_d	2	208	AAAS vs adrenocorticotropin hormone	adrenocorticotropic hormone is not a disease	2			concept wrong	concept wrong	-1
+721	D008550_x_D001750	23985544	c_d	4	209	melatonin vs impaired neurogenesis 	melatonin explicitly investigated for role in increasing neurogenesis being investigated/reviewed	4			Drug-Process-Disease	missing concepts	-1
+395	C010643_x_D019636	24517367	c_d	2	216	Trolox vs neurodegeneration process	Trolox scavenges metals which play an important role in neurodegeneration	6			Drug-Process-Disease	missing concepts	-1
+68	5443_x_C536009	12793312	g_d	7	219	ACTH gene vs Triple A Syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	G			Gene-Disease-Disease	side-up	3
+190	59330_x_D004931	9621534	g_d	4	221	GER vs achalasia	gene concept is wrong in this abstract	2			concept wrong	concept wrong	-1
+651	D006632_x_223900	2854735	c_d	7	222	histamine vs familiarl dysautonomia (OMIM)	histamine is a reagent used to test for the disease	Q			Reagent-Sample-Source	missing concept types	-1
+432	C030961_x_D001791	1469086	c_d	1	223	botrocetin vs platelet agglutination	"botrocetin expected to affect platelet agglutination, glycosylation's affect on this inspected"	V			Reagent-Sample-Source	missing concepts	-1
+45	5443_x_C536008	4075537	g_d	5	224	ACTH vs Achalasia and Alacrima (Triple A syndrome)	ACTH resistance is co-morbid with achalasia and alacrima	O	"Note this is the identifier for Triple A, but was used for achalasia and alacrima"	2	Gene-Disease-Disease-Symptom	side-up-down	4
+189	59330_x_D005764	9621534	g_d	8	236	gastroesophageal reflux gene vs gastroesophageal reflux disease	GER is not a gene based on the text	2			Concept wrong	Concept wrong	-1
+48	5443_x_C536008	11353896	g_d	9	240	ACTH vs Triple A syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	G			Gene-Disease-Disease	side-up	3
+36	5443_x_202200	11353896	g_d	8	246	ACTH vs glucocorticoid insufficency (OMIM)	Resistance to ACTH gene product causes disease	D			Gene-Disease	side	2
+201	7345_x_C537394	12717251	g_d	5	255	PGP9.5 vs myenteric ganglia	myenteric ganglia is not a disease concept	2			concept wrong	concept wrong	-1
+719	D007545_x_D066126	21823215	c_d	4	267	isoproterenol vs cardiotoxicity	isoproteronol causes cardiotoxicity	0			Gene-Disease	side	2
+782	D013481_x_C564417	3305576	c_d	5	268	superoxide vs X-linked chronic granulomatous disease	superoxide not a drug	2			concept wrong	concept wrong	-1
+78	5443_x_C562827	4075537	g_d	7	270	ACTH vs alacrima	Resistance to mentioned gene/gene product causes a disease that is comorbid with mentioned disease	J			Gene-Disease-DiseaseClass-Disease	side-up-down	4
+834	D020123_x_D000860	22728164	c_d	4	272	rapamycin vs hypoxia	hypoxia is not a disease in this abstract	2			concept wrong	concept wrong	-1
+81	5443_x_C563776	4075537	g_d	6	275	ACTH vs glucocorticoid deficiency	insensitivity to ACTH causes a type of glucocorticoid deficiency	M			Gene-Disease-DiseaseClass	side-up	3
+4	17996_x_D003550	10714761	c_d	2	277	chloride vs cystic fibrosis	chloride is not a drug	2	chemical level is abnormal in disease mention	AA	concept wrong	concept wrong	-1
+90	5443_x_D000224	17880786	g_d	2	279	ACTH vs addison disease	resistance to ACTH used interchangeably with disease	AB			Gene-Disease	side	2
+94	5443_x_D000309	12793312	g_d	11	279	ACTH gene vs adrenal insufficiency	Resistance to ACTH causes Adrenal insufficiency	D			Gene-Disease	side	2
+568	D000450_x_D001851	10426592	c_d	2	282	aldosterone vs receptor abnormalities regarding bone metabolism	receptor abnormalities regarding bone metabolism is not a disease	2			concept wrong	concept wrong	-1
+114	5443_x_D004194	4075537	g_d	5	288	ACTH vs multisystem disorder	ACTH resistance is disease associated with other diseases in a multisystem disorder	R	"Note this is the identifier forCryopyrin-Associated Periodic Syndromes, but was used formultisystem disorder"	2	Gene-Disease-DiseaseClass	side-up	3
+141	5443_x_D009410	4075537	g_d	4	289	ACTH vs parasympathetic degeneration	ACTH resistance is interchangeable with glucocorticoid deficiency which may be caused by parasympathetic degeneration	AG			Gene-Disease-disease	side-side	3
+301	8086_x_D006471	22584989	g_d	4	292	AAAS vs gastrointestinal bleeding	AAAS gene mutation causes adrenal crisis which is also caused by gastrointestinal bleeding	F			Gene-Disease-Disease-Disease	side-down-up	4
+66	5443_x_C536009	11084394	g_d	5	295	ACTH vs Alacrima (Triple A syndrome)	resistance/insensitivity to mentioned gene/gene product is comorbid to mentioned disease	O			Gene-Disease-Disease-Symptom	side-up-down	4
+481	C097320_x_D000544	22517741	c_d	3	297	O-GlcNAc vs Alzheimer's disease	O-GlcNAc is not a drug in this abstract	2			concept wrong	concept wrong	-1
+123	5443_x_D004931	12530689	g_d	7	303	ACTH vs achalasia	Resistance to ACTH causes a disease that is comorbid with achalasia	J			Gene-Disease-DiseaseClass-Disease	side-up-down	4
+551	D000324_x_D003680	10068747	c_d	1	304	ACTH vs dysphagia	ACTH treated adrenal insufficiency in this specific case of Triple A syndrome of which dysphagia is a symptom	3	Case study showing not all Triple A has ACTH insensititivy	0	Drug-Disease-Disease	side-up	3
+121	5443_x_D004931	11353896	g_d	12	304	ACTH vs achalasia	Resistance to ACTH causes a disease that is comorbid with achalasia	J			Gene-Disease-DiseaseClass-Disease	side-up-down	4
+361	8086_x_D025063	11914417	g_d	3	312	AAAS vs autosomal recessive disorder	gene mutation causes disease which is a subtype of autosomal recessive disorder	0	identifier is actually for chromosomal disorder	2	Gene-Disease-DiseaseClass	side-up	3
+791	D014415_x_D020031	3040864	c_d	1	316	tunicamycin vs epstein-bar virus lymphoblastoid	epstein virus lymphoblast is not a disease	2			concept wrong	concept wrong	-1
+217	8086_x_C536008	19078797	g_d	1	319	AAAS vs AAAS	AAAS gene mutation causes disease	0			Gene-Disease	side	2
+18	353_x_D004941	3652558	g_d	2	320	AMP vs esophageal dysfunction	AMP is not a gene concept	2			concept wrong	concept wrong	-1
+176	5443_x_D051437	4075537	g_d	6	324	ACTH vs adrenal	Adrenal gland is not a disease	2	"Identifier is actually for renal insufficiency, not adrenal gland"	1	Concept wrong	Concept wrong	-1
+194	6651_x_D000544	1815166	g_d	1	325	SON vs AD	SON is not a gene in this abstract	2			concept wrong	concept wrong	-1
+14	351_x_D009135	16528113	g_d	3	331	AAA vs autosomal recessive condition	AAA is a misidentified gene and is not a gene in this contect	2			concept wrong	concept wrong	-1
+275	8086_x_D000690	23861206	g_d	1	332	AAAS vs Amyotrophic lateral sclerosis	AAAS mutation causes Triple A which is misdiagnosed as ALS	E			Gene-Disease-Disease	side-side	3
+115	5443_x_D004931	1659963	g_d	10	336	ACTH vs achalasia	resistance/insensitivity to mentioned gene/gene product is comorbid to mentioned disease	O			Gene-Disease-Disease-Disease	side-up-down	4
+124	5443_x_D004931	12793312	g_d	8	343	ACTH gene vs achalasia	Resistance to ACTH causes disease which is comorbid to mentioned disease under a syndrome	J			Gene-Disease-DiseaseClass-Disease	side-up-down	4
+65	5443_x_C536009	11353896	g_d	13	343	ACTH vs Triple A syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	G			Gene-Disease-Disease	side-up	3
+479	C097320_x_D000544	12882516	c_d	4	348	O-GlcNAc vs alzheimer's disease	O-GlcNAc is not a drug in this abstract	2			concept wrong	concept wrong	-1
+39	5443_x_202200	17880786	g_d	3	352	ACTH vs  ACTH resistance	ACTH resistance is the disease	AB			Gene-Disease	side	2
+131	5443_x_D004931	24139699	g_d	7	354	ACTH gene vs achalasia	Resistance to ACTH causes disease which is comorbid to mentioned disease under a syndrome	J			Gene-Disease-DiseaseClass-Disease	side-up-down	4
+59	5443_x_C536009	1325164	g_d	6	356	ACTH vs Triple A syndrome	resistance/insensitivity to mentioned gene/gene product is a symptom of disease	P			Gene-Disease-Disease	side-up	3
+647	D005947_x_D003920	21494549	c_d	1	358	glucose vs diabetes	glucose is abnormal in diabetes	AA			Chem-Disease	side	2
+682	D006632_x_D005166	2854735	c_d	4	359	histamine vs hyperhydrosis. Emotional lability	chemical used to test for familial dysautonomia of which hyperhydrosis was a symptom	T	Disease poorly annotated	2	Drug-Disease-Symptom	side-down	3
+62	5443_x_C536009	8253654	g_d	6	363	ACTH vs Triple A syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	G			Gene-Disease-Disease	side-up	3
+42	5443_x_C536008	1325164	g_d	6	367	ACTH vs Triple A syndrome	ACTH insensitivity is disease of Triple A syndrome	P			Gene-Disease-Disease	side-up	3
+156	5443_x_D019578	16197535	g_d	7	376	ACTH gene vs multisystem disorders	Resistance to ACTH gene product causes disease which is a subdisease of a syndrome from mentioned disease class (multisystemic disorders)	H	Identifier is actually for multisystem atrophy	1	Gene-Disease-Disease-DiseaseClass	side-up-up	4
+47	5443_x_C536008	8253654	g_d	6	378	ACTH vs Triple A syndrome	ACTH insensitivity is disease of Triple A syndrome	P			Gene-Disease-Disease	side-up	3
+69	5443_x_C536009	16197535	g_d	6	379	ACTH gene vs Triple A Syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	H			Gene-Disease-Disease	side-up	3
+663	D005978_x_D019636	21615270	c_d	5	387	glutathione vs neurodegenerative disease	glutathione is abnormal in neurodegenerative disease	AA			Chem-Disease	side	2
+163	5443_x_D025063	12150219	g_d	7	393	ACTH vs chromosome disorders	Resistance to ACTH causes disease which is a subdisease of a syndrome from disease class: chromosome disorders	H			Gene-Disease-Disease-DiseaseClass	side-up-up	4
+832	D019793_x_D007634	8740696	c_d	2	394	fluorescein vs keratitis	chem is a reagent for testing for this disease	T			Drug-Disease	side	2
+57	5443_x_C536008	20499090	g_d	6	394	ACTH gene vs Triple A Syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	H			Gene-Disease-Disease	side-up	3
+122	5443_x_D004931	11084394	g_d	4	395	ACTH vs achalasia	resistance/insensitivity to mentioned gene/gene product is comorbid to mentioned disease	O			Gene-Disease-Disease-Symptom	side-up-down	4
+61	5443_x_C536009	7945119	g_d	16	397	ACTH vs Triple A syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	G			Gene-Disease-Disease	side-up	3
+820	D018395_x_D010190	23446997	c_d	1	403	CA 19-9 vs pancreatic cancer	"CA 19-9 investigated for relationship with pancreatic cancer, but actual relationship not clear"	4			Drug-Disease	side	2
+164	5443_x_D025063	12530689	g_d	10	406	ACTH vs chromosome disorders	Resistance to ACTH causes disease which is a subdisease of a syndrome from disease class: chromosome disorders	H			Gene-Disease-Disease-DiseaseClass	side-up-up	4
+232	8086_x_C538339	23861206	g_d	4	409	AAAS vs NPC	NPC is not a disease	2			concept wrong	concept wrong	-1
+184	55768_x_D003677	24651605	g_d	1	413	NGLY1 vs NGLY1 deficiency	NGLY1 gene mutation causes NGLY1-deficiency disease	0			Gene-Disease	side	2
+51	5443_x_C536008	12793312	g_d	9	418	ACTH gene vs Triple A Syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	G			Gene-Disease-Disease	side-up	3
+263	8086_x_D000309	14646395	g_d	3	425	AAAS vs adrenal insufficiency	AAAS gene mutation causes Triple A syndrome which includes adrenal insufficiency	0			Gene-Disease	side	2
+116	5443_x_D004931	1325164	g_d	5	426	ACTH vs achalasia	ACTH insensitivity is a disease comorbid with achalasia	O			Gene-Disease-Disease-Symptom	side-up-down	4
+49	5443_x_C536008	11084394	g_d	3	430	ACTH vs Triple A syndrome	resistance/insensitivity to mentioned gene/gene product is a symptom of disease	O			Gene-Disease-Disease	side-up	3
+203	7345_x_D025063	12717251	g_d	10	437	PGP9.5 gene vs autosomal recessive disorder (chromosome disorder)	PGP9.5 (a neuronal marker) used to stain samples from patient with autosomal recessive disorder	L	Identifier is actually for chromosome disorder	1	Reagent-Sample-Source	missing concept types	-1
+201	7345_x_D004938	12717251	g_d	7	445	PGP9.5 gene vs cardia (esophagus)	PGP9.5 (a neuronal marker) used to stain samples from patient with cardia	L	Identifier used for (esophageal) cardia is actually for esophageal neoplasms	1	Reagent-Sample-Source	missing concept types	-1
+42	5443_x_C536008	3014426	g_d	14	461	ACTH vs Triple A syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	G			Gene-Disease-Disease	side-up	3
+131	5443_x_D004931	20200814	g_d	3	462	ACTH vs symptomatic achalasia	ACTH-resistance causes adrenal insufficiency which is co-morbid with symptomatic achalasia	J			Gene-Disease-Disease-Symptom	side-up-down	4
+142	5443_x_D009422	11353896	g_d	10	462	ACTH vs neurologic defects	Resistance to ACTH causes a disease that is comorbid with neurologic defects	J			Gene-Disease-DiseaseClass-Disease	side-up-down	4
+108	5443_x_D001342	4075537	g_d	5	464	ACTH vs parasympathetic degeneration	ACTH resistance is interchangeable with glucocorticoid deficiency which may be caused by parasympathetic degeneration	AG			Gene-Disease-disease	side-side	3
+93	5443_x_D000309	12530689	g_d	9	468	ACTH vs adrenal insufficiency	Resistance to ACTH causes Adrenal insufficiency	D			Gene-Disease	side	2
+12	351_x_D000309	16528113	g_d	1	483	AAA vs adrenal insufficiency	AAA is a misidentified gene and is not a gene in this contect	2			concept wrong	concept wrong	-1
+93	5443_x_D000309	11084394	g_d	4	488	ACTH vs adrenal insufficiency	resistance/insensitivity to mentioned gene/gene product is a syndrome of which adrenal insufficiency is a subtype	AD			Gene-Syndrome-Disease	side-down	3
+72	5443_x_C536009	16937455	g_d	5	494	ACTH vs alacrima (Triple A syndrome)	ACTH resistance causes disease which is co-morbid with alacrima	J	identifier is actually for AA	2	Gene-Disease-Disease-Symptom	side-up-down	4
+118	5443_x_D004931	7945119	g_d	13	499	ACTH vs achalasia	Resistance/Insensitivity to ACTH is comorbid with achalasia	O			Gene-Disease-Disease-Disease	side-up-down	4
+162	5443_x_D020734	16197535	g_d	8	510	ACTH gene vs autosomal recessive disorder	Resistance to ACTH gene product causes disease which is a subdisease of a syndrome from mentioned disease class (autosomal recessive disorders)	H	identifier is actually for parkisonian disorders	1	Gene-Disease-Disease-DiseaseClass	side-up-up	4
+619	D004298_x_D010300	25106632	c_d	1	516	dopamine vs parkinson's disease	dopamine is abnormal (missing) in Parkinson Disease (due to loss of dopamine-secreting neurons)	AA			Chem-Disease	side	2
+199	7345_x_C562827	12717251	g_d	10	516	PGP9.5 gene vs alacrima	PGP9.5 (a neuronal marker) used to stain samples from patient with alacrima	L			Reagent-Sample-Source	missing concept types	-1
+100	5443_x_D000309	24139699	g_d	7	543	ACTH gene vs adrenal insufficiency	Resistance to ACTH causes Adrenal insufficiency	D			Gene-Disease	side	2
+593	D002241_x_D000437	25305627	c_d	1	558	carbohydrate vs alcohol abuse	carbohydrate is not a disease	2			concept wrong	concept wrong	-1
+250	8086_x_C562827	22584989	g_d	4	563	AAAS vs alacrima	AAAS gene mutation causes Triple A syndrome which includes Alacrima	0			Gene-Disease-Symptom	side-down	3
+66	5443_x_C536009	12150219	g_d	10	564	ACTH vs Triple A syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	G			Gene-Disease-Disease	side-up	3
+370	8086_x_D030342	22584989	g_d	6	569	AAAS gene vs autosomal recessive disorder	AAAS gene mutation causes disease which is classified as an autosomal recessive disorder	0	gene mutation causes disease classified as disease class	K	Gene-Disease-DiseaseClass	side-up	3
+95	5443_x_D000309	16197535	g_d	8	570	ACTH gene vs adrenal insufficiency	Resistance to ACTH causes Adrenal insufficiency	D			Gene-Disease	side	2
+44	5443_x_C536008	7945119	g_d	18	576	ACTH vs Triple A syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	G			Gene-Disease-Disease	side-up	3
+299	8086_x_D005355	12717251	g_d	2	579	AAAS vs myenteric fibrosis	gene mutation causes Triple A syndrome of which myenteric fibrosis is a symptom	0			Gene-Disease-Symptom	side-down	3
+100	5443_x_D000309	20200814	g_d	5	586	ACTH vs adrenal insufficiency	ACTH-resistance causes adrenal insufficiency	D			Gene-Disease	side	2
+60	5443_x_C536009	1659963	g_d	9	589	ACTH vs Triple A syndrome	resistance/insensitivity to mentioned gene/gene product is a symptom of disease	P			Gene-Disease-Disease	side-up	3
+106	5443_x_D000690	24139699	g_d	2	592	ACTH vs amyotrophic lateral sclerosis	ACTH resistance is a symptom/subdisease of Triple A syndrome which is misdiagnosed as ALS	AK			Gene-Disease-Disease-Disease	side-up-side	4
+181	5443_x_None	1325164	g_d	4	606	ACTH vs hyperlipoproteinaemia	ACTH insensitivity is a subdisease of Triple A syndrome which includes hyperlipoproteinaemia in this case	3			Gene-Disease-Disease-Symptom	side-up-down	4
+97	5443_x_D000309	20051279	g_d	6	611	ACTH gene vs adrenal insufficiency	Resistance to ACTH causes Adrenal insufficiency	D			Gene-Disease	side	2
+736	D009844_x_D004342	16001505	c_d	2	619	oligosaccharides vs allergic disease	oligosaccharides is not a drug concept	2			concept wrong	concept wrong	-1
+31	4158_x_D004931	11353896	g_d	3	621	ACTH receptor vs achalasia	ACTH receptor mutations causes ACTH insensitivity which is also a symptom of Triple A syndrome which has symptom achalasia	AH			Gene-Gene-Disease-Disease-Symptom	side-side-up-down	5
+356	8086_x_D020022	19322026	g_d	1	623	AAAS vs genetic disorder	"AAAS mutation causes a Triple A, a type of genetic disease"	0			Gene-Disease-DiseaseClass	side-up	3
+110	5443_x_D003680	16197535	g_d	6	624	ACTH gene vs dysphagia	Resistance to ACTH causes disease of which dysphagia is a symptom	I			Gene-Disease-Symptom	side-down	3
+380	8086_x_D030342	21686524	g_d	3	628	AAAS vs autosomal recessive disease	AAAS gene mutation is associated with autosomal recessive disease	0			Gene-Disease-DiseaseClass	side-up	3
+128	5443_x_D004931	16937455	g_d	4	631	ACTH vs achalasia cardia	ACTH resistance causes disease which is co-morbid with achalasia cardia	J			Gene-Disease-Disease-Symptom	side-up-down	4
+686	D006632_x_D017696	2854735	c_d	5	632	histamine vs neonatal nemaline myopathy	chemical tests for familial dysautononmia which was misdiagnosed as congenital nemaline myopathy	AF			Reagent-Sample-Source	missing concepts	-1
+50	5443_x_C536008	12530689	g_d	13	634	ACTH vs Triple A syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	G			Gene-Disease-Disease	side-up	3
+399	C013059_x_D000544	12882516	c_d	3	639	O-glycosylation vs Alzheimer's disease	O-glycosylation is not a drug	2			concept wrong	concept wrong	-1
+387	8086_x_D060825	21744492	g_d	3	646	AAAS vs cognitive impairment	AAAS gene mutation causes Triple A which has symptom: cognitive impairment	0			Gene-Disease-Symptom	side-down	3
+637	D005944_x_C567437	15804603	c_d	2	671	glucosamine  vs Type I congenital disorders of glycosylation	glucosamine is not a drug concept	2			concept wrong	concept wrong	-1
+56	5443_x_C536008	17880786	g_d	5	675	ACTH vs Allgrove's syndrome	ACTH resistance is a symptom/subdisease of the disease	P			Gene-Disease-Disease	side-up	3
+773	D016210_x_223900	2854735	c_d	6	685	melocholyl vs familial dysautonomia (OMIM)	melocholyl is a reagent used to test for the disease	Q			Reagent-Sample-Source	missing concept types	-1
+695	D008550_x_D019636	23985544	c_d	6	692	melatonin vs neurodegeneration	melatonin under investigation for protection against neurodegeneration	4			Drug-Disease	side	2
+119	5443_x_D004931	8253654	g_d	6	699	ACTH vs achalasia	Resistance to ACTH causes a disease that is comorbid with achalasia	J			Gene-Disease-DiseaseClass-Disease	side-up-down	4
+133	5443_x_D005207	24139699	g_d	6	715	ACTH gene vs tongue fasciculations	Resistance to ACTH causes disease which is part of a syndrome that has the mentioned symptom (tongue fasciculations)	B			Gene-Disease-Disease-Symptom	side-up-down	4
+835	D020126_x_D018981	16510524	c_d	4	718	brefelding A vs congenital disorders of glycosylation	disease conveys resistance to drug	DA			Disease-Drug	side	2
+116	5443_x_D004931	3014426	g_d	12	725	ACTH vs achalasia	resistance/insensitivity to mentioned gene/gene product is comorbid to mentioned disease	O			Gene-Disease-Disease-Disease	side-up-down	4
+125	5443_x_D004931	16197535	g_d	6	728	ACTH gene vs achalasia	Resistance to ACTH causes disease which is comorbid to mentioned disease under a syndrome	J			Gene-Disease-DiseaseClass-Disease	side-up-down	4
+48	5443_x_C536008	10068747	g_d	5	731	ACTH vs Allgrove's syndrome	ACTH treated adrenal insufficiency in this specific case of Triple A syndrome	0	Case study showing not all Triple A has ACTH insensititivy	3	Chem-Disease-Disease	side-up	3
+38	5443_x_202200	24139699	g_d	7	735	ACTH gene vs adrenal insufficiency (OMIM for Glucocorticoid deficiency)	Resistance to ACTH gene product is a symptom of triple A syndrome which includes adrenal insufficiency	P			Gene-Disease-Disease	side-side	3
+111	5443_x_D003680	24139699	g_d	7	754	ACTH gene vs dysphagia	Resistance to ACTH causes disease of which dysphagia is a symptom	I			Gene-Disease-Symptom	side-down	3
+162	5443_x_D020361	20499090	g_d	4	768	ACTH vs autonomic dysfunction	ACTH-resistance causes adrenal insufficiency which is co-morbid with autonomic dysfunction	J			Gene-Disease-Disease-Symptom	side-up-down	4
+799	D015032_x_D019636	24517367	c_d	2	772	zinc vs neurodegeneration process	Zinc is not a drug	2			concept wrong	concept wrong	-1
+553	D000324_x_D005317	24834210	c_d	3	784	adrenocorticotropic-hormone vs growth retardation	ACTH chemical resistance causes glucocorticoid insufficiency a subdisease of Triple A syndrome which symptom includes growth retardation	CJ			Drug-Disease-Disease-Symptom	side-up-down	4
+271	8086_x_D000312	16938764	g_d	2	786	AAAS vs adrenal disease	mutation causes disease	0			Gene-Disease	side	2
+406	C014088_x_D000544	22517741	c_d	3	787	N-acteylglucosamine vs Alzheimer's disease	N-acetylglucosamine is abnormal in Alzheimer's disease	AA			Chem-Disease	side	2
+82	5443_x_C562827	12530689	g_d	2	791	ACTH vs alacrima	ACTH resistance causes adrenal insufficiency which is co-morbid with alacrima	J			Gene-Disease-Disease-Symptom	side-up-down	4
+170	5443_x_D025063	24139699	g_d	12	793	ACTH gene vs chromosome disorders	Resistance to ACTH gene product causes disease which is a subdisease of a syndrome from mentioned disease class (chromosome disorders)	H			Gene-Disease-Disease-DiseaseClass	side-up-up	4
+221	8086_x_C536008	22584989	g_d	2	794	AAAS vs Triple A syndrome	AAAS gene mutation causes Triple A syndrome	0			Gene-Disease	side	2
+0	17996_x_C536008	10714761	c_d	3	794	chloride vs Triple A syndrome	chloride is not a drug	2			concept wrong	concept wrong	-1
+41	5443_x_C536008	1659963	g_d	9	799	ACTH vs Triple A syndrome	resistance/insensitivity to mentioned gene/gene product is a symptom of disease	P			Gene-Disease-Disease	side-up	3
+35	5443_x_202200	8253654	g_d	4	803	ACTH vs glucocorticoid deficiency	ACTH resistance used interchangeably with the disease	AB			Gene-Disease	side	2
+811	D016210_x_D009123	2854735	c_d	5	803	mecholyl vs congenital hypotonia	chemical used to test for familial dysautonomia of which congenital hypotonia was a symptom	T			Drug-Disease-Symptom	side-down	3
+52	5443_x_C536008	16197535	g_d	10	807	ACTH gene vs Triple A Syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	G			Gene-Disease-Disease	side-up	3
+67	5443_x_C536009	12530689	g_d	6	807	ACTH vs Triple A syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	G			Gene-Disease-Disease	side-up	3
+364	8086_x_D025063	16970037	g_d	2	810	AAAS vs  autosomal recessive disorder	AAAS gene mutation causes disease	0			Gene-Disease-DiseaseClass	side-up	3
+144	5443_x_D009422	12793312	g_d	9	815	ACTH gene vs nervous system diseases	Resistance to ACTH gene product causes disease which is a subdisease of a syndrome from mentioned disease class (nervous system diseases)	H			Gene-Disease-Disease-DiseaseClass	side-up-up	4
+757	D011134_x_C567437	11935250	c_d	1	820	N-glycans vs congenital disorders of glycosylation	N-glycans is not a drug	2			concept wrong	concept wrong	-1
+252	8086_x_C562827	23861206	g_d	5	825	AAAS vs alacrima	AAAS gene mutation causes Triple A syndrome which has symptom Alacrima	0			Gene-Disease-Symptom	side-down	3
+107	5443_x_D001342	12793312	g_d	10	827	ACTH gene vs autonomic nervous dysfunction	Resistance to ACTH gene product causes disease which is a subdisease of a syndrome from mentioned disease class (autonomic nervous disorders)	H			Gene-Disease-Disease-Symptom	side-up-down	4
+854	None_x_D006527	19322026	c_d	1	830	tryptophan aspartic acid vs WD	WD is not a disease in this context	2			concept wrong	concept wrong	-1
+626	D004376_x_None	2331135	c_d	2	832	galactitol vs galactosaemia	galactitol in plasma may be related to galactosaemia	5			Drug-Disease	side	2
+708	D007501_x_D005530	16937455	c_d	2	836	iron vs iron deficiency anemia and the younger sister had pes cavus	iron is not a drug	2	drug deficiency causes disease		concept wrong	concept wrong	-1
+29	4158_x_C536008	11353896	g_d	4	840	ACTH receptor vs Triple A syndrome	ACTH receptor mutations causes ACTH insensitivity which is also a symptom of Triple A syndrome	AI			Gene-Gene-Disease-Disease	side-side-up	4
+727	D009569_x_D000860	22728164	c_d	2	856	nitric oxide vs hypoxia	hypoxia is not a disease in this abstract	2			concept wrong	concept wrong	-1
+639	D005944_x_D008232	1299347	c_d	3	858	glucosamine vs lymphoproliferative disease	glucosamine is not a chem concept	2	actual text is glucosamine-labeled peptides		concept wrong	concept wrong	-1
+474	C076831_x_D000544	22517741	c_d	1	866	"GlcNAc-beta-1,3-Fuc-alpha-1-O-Thr vs Alzheimer's disease"	"GlcNAc-beta-1,3-Fuc-a-1-O-Thr is not a drug"	2			concept wrong	concept wrong	-1
+75	5443_x_C536009	24139699	g_d	9	889	ACTH gene vs Triple A Syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	G			Gene-Disease-Disease	side-up	3
+101	5443_x_D000310	12530689	g_d	9	891	ACTH vs adrenal gland	Adrenal gland is not a disease	2	"Identifier is actually for adrenal gland neoplasms, not adrenal gland"	1	Concept wrong	Concept wrong	-1
+369	8086_x_D030342	11914417	g_d	4	897	AAAS vs autosomal recessive disorder	gene mutation causes disease which is a subtype of autosomal recessive disorder	0			Gene-Disease-DiseaseClass	side-up	3
+255	8086_x_C564052	21744492	g_d	5	909	AAAS vs x-linked	x-linked is not a disease	2			concept wrong	concept wrong	-1
+672	D006493_x_D006946	19101627	c_d	3	923	Heparin vs hyperinsulism	heparin can substitute mannose a treatment for enteropathy which is comorbid with hyperinsulinism	C			Drug-Drug-Disease-Disease	side-side-side-side	4
+200	7345_x_D004931	12717251	g_d	9	923	PGP9.5 gene vs achalasia	PGP9.5 (a neuronal marker) used to stain samples from patient with achalasia	L			Reagent-Sample-Source	missing concept types	-1
+155	5443_x_D016472	24139699	g_d	4	926	ACTH vs neuron disease	ACTH resistance is a subdisease of Triple A which has symptom neuron disease	J			Gene-Disease-Disease-Symptom	side-up-down	4
+488	C097320_x_D007511	21068200	c_d	1	929	O-GlcNAc vs ischemia	O-GlcNAc is a not a drug in this abstract	2			concept wrong	concept wrong	-1
+57	5443_x_C536008	20051279	g_d	5	930	ACTH vs Triple A syndrome	"ACTH resistant-adrenal failure normally a symptom of Triple A syndrome, but not in this case"	3			Gene-Disease-Disease	side-up	3
+74	5443_x_C536009	20051279	g_d	5	934	ACTH vs Alacrima.achalasia (Triple A syndrome)	"ACTH resistant-adrenal failure normally a symptom of AA/Triple A, but not in this case"	3			Gene-Disease-Disease	side-up	3
+169	5443_x_D025063	20499090	g_d	6	940	ACTH gene vs chromosome disorders	Resistance to ACTH causes disease which is a subdisease of a syndrome which is classified as a chromosome disorder	H			Gene-Disease-Disease-DiseaseClass	side-up-up	4
+151	5443_x_D009461	16937455	g_d	3	947	ACTH vs neurological symptoms	ACTH resistance causes disease which is co-morbid with neurological symptoms	J			Gene-Disease-Disease-Symptom	side-up-down	4
+309	8086_x_D009135	16098009	g_d	1	952	AAAS vs autosomal recessive disorder	AAAS gene mutation causes an autosomal recessive condition	0			Gene-Disease-DiseaseClass	side-up	3
+817	D017261_x_D004403	10858229	c_d	2	982	glycosylphophatidylinositol vs diarrheal disease	 is not a drug	2			concept wrong	concept wrong	-1
+76	5443_x_C536009	20499090	g_d	3	984	ACTH vs alacrima.achalasia (Triple A syndrome)	ACTH-resistance causes adrenal insufficiency which is co-morbid with AA (triple A)	J			Gene-Disease-Disease-Symptom	side-up-down	4
+49	5443_x_C536008	12150219	g_d	6	985	ACTH vs Triple A syndrome	Resistance to ACTH gene product causes disease which is a subdisease of Triple A syndrome	G			Gene-Disease-Disease	side-up	3

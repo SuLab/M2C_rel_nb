@@ -1,0 +1,31 @@
+	concept_pair	counts	cpmid	pmid	refid1	refid1_type	refid2	refid2_type	reltype	conclusion	notes
+2076	C057651_x_D018981	15	18712764_C057651_x_D018981	18712764	C057651	c	D018981	d	c_d	c1_broken	Identifier for platinum transferrin mapped to transferrin which is used to detect CDG (disease) partially mapped to CDG I and CDG II
+2407	4072_x_D002386	15	20447614_4072_x_D002386	20447614	4072	g	D002386	d	g_d	g_mutation_d	gene (EpCAM) mutation causes syndrome of which disease is a symptom
+1760	D011188_x_D018981	15	17197096_D011188_x_D018981	17197096	D011188	c	D018981	d	c_d	c1_broken	Potassium channels marked as potassium
+1459	8086_x_D030342	15	16264411_8086_x_D030342	16264411	8086	g	D030342	d	g_d	g_mutation_d	gene (AAAS) mutation causes disease (Inborn genetic diseases)
+3558	5443_x_D004931	15	24139699_5443_x_D004931	24139699	5443	g	D004931	d	g_d	g_related_d	Gene (ACTH) insensitivity causes symptom of syndrome(AAAS) of which disease (Achalasia) is a symptom
+1416	None_x_D018981	15	16051600_None_x_D018981	16051600	None	c	D018981	d	c_d	c1_broken	"no identifier associated with C1, assumed broken"
+2133	D007501_x_D018981	15	19146845_D007501_x_D018981	19146845	D007501	c	D018981	d	c_d	c_unrelated_d	Drug (Iron) was used to saturate serum for detection of transferrin via hplc which is a marker for CDG (disease)
+1682	8086_x_D009422	15	16970037_8086_x_D009422	16970037	8086	g	D009422	d	g_d	g_mutation_d	gene (AAAS) mutation causes syndrome which is classified as disease class (Nervous system disease)
+869	D003981_x_D012640	14	11916319_D003981_x_D012640	11916319	D003981	c	D012640	d	c_d	c_causes_d	drug (diazoxide) used to treat hypoglycaemia but discontinued due to seizures (disease) as a result of drug
+3684	C010686_x_D009369	15	24497285_C010686_x_D009369	24497285	C010686	c	D009369	d	c_d	c_unrelated_d	"drug (phenylboronic acid) marked as part of phenylboronic acid-based glycoprotein enrichment resin, which is used as a reagent to look at glycoproteins in cancer (Disease)"
+2795	8086_x_D054969	15	21656342_8086_x_D054969	21656342	8086	g	D054969	d	g_d	g_mutation_d	gene (AAAS) mutation causes syndrome which is classified as disease class (primary dysautonomias)
+710	5443_x_C536009	15	11084394_5443_x_C536009	11084394	5443	g	C536009	d	g_d	g_related_d	gene (ACTH) insensitivity causes symptom of the disease (Triple A syndrome)
+2048	8086_x_D000309	15	18628786_8086_x_D000309	18628786	8086	g	D000309	d	g_d	g_mutation_d	gene (AAAS) causes syndrome of which disease (adrenal insufficiency) is a symptom
+1955	8086_x_D030342	14	18175081_8086_x_D030342	18175081	8086	g	D030342	d	g_d	g_mutation_d	gene (AAAS) causes syndrome underwhich the disease (Inborn genetic disease) is classified
+1127	D004967_x_D000544	15	12882516_D004967_x_D000544	12882516	D004967	c	D000544	d	c_d	c_unrelated_d	drug (estrogen) reviewed with relation to it's phosphorylation status. Disease (Alzheimer's) mentioned due to its physical proximity to O-GlcNAcase on chromosome
+3900	None_x_D018981	15	25331899_None_x_D018981	25331899	None	c	D018981	d	c_d	c1_broken	COG marked as chem but is more likely gene family
+3203	C057651_x_None	15	22991164_C057651_x_None	22991164	C057651	c	None	d	c_d	c2_broken	"no identifier associated with C2, assumed broken"
+2824	D005947_x_D007239	15	21737679_D005947_x_D007239	21737679	D005947	c	D007239	d	c_d	c1_broken	Drug (glucose) marked as part of glucose(3)mannose(9)GlcNAc(2)-P-P-dolichol
+1662	8086_x_D000309	15	16938764_8086_x_D000309	16938764	8086	g	D000309	d	g_d	g_mutation_d	gene (AAAS) mutation causes syndrome of which disease (adrenal insufficiency) is a symptom
+3212	D003348_x_C536008	17	23012188_D003348_x_C536008	23012188	D003348	c	C536008	d	c_d	c_treats_d	drug (cortisone) treats symptoms (adrenal insufficiency) of the disease (Allgrove's syndrome)
+61	D019793_x_C536289	14	1815166_D019793_x_C536289	1815166	D019793	c	C536289	d	c_d	c1_broken	"drug (flurescein) is a dye used to detect dysfunction. Disease (Immunodeficiency without anhidrotic ectodermal dysplasia, not even mentioned), c2 also broken"
+1610	C027693_x_None	15	16847318_C027693_x_None	16847318	C027693	c	None	d	c_d	c2_broken	"Drug (M6P), No identifier for C2, assumed broken"
+3230	8086_x_C562827	18	23056690_8086_x_C562827	23056690	8086	g	C562827	d	g_d	g_mutation_d	gene (AAAS) mutation causes syndrome of which disease (alacrima) is a symptom
+826	D006854_x_C536008	16	11807674_D006854_x_C536008	11807674	D006854	c	C536008	d	c_d	c_treats_d	drug (hydrocortisone) treats a symptom (adrenal insufficiency) of the disease (Triple A syndrome)
+749	D011134_x_D018981	15	11308015_D011134_x_D018981	11308015	D011134	c	D018981	d	c_d	c1_broken	polysaccharides is not a drug concept
+1309	C066308_x_D018981	15	15589762_C066308_x_D018981	15589762	C066308	c	D018981	d	c_d	c1_broken	"drug (JET chemo protocol, CE) marked as part of CE-MS (a type of mass spec) analysis."
+1128	D009569_x_D000544	15	12882516_D009569_x_D000544	12882516	D009569	c	D000544	d	c_d	c1_broken	drug (nitric oxide) marked as part of gene endothelial nitric oxide synthase
+2782	8086_x_C536009	15	21656342_8086_x_C536009	21656342	8086	g	C536009	d	g_d	g_mutation_d	gene (AAAS) mutation associated with disease (allgrove syndrome)
+1699	None_x_D012769	15	16980445_None_x_D012769	16980445	None	c	D012769	d	c_d	c1_broken	"no identifier for C1, assumed broken"
+2406	4072_x_C567703	15	20447614_4072_x_C567703	20447614	4072	g	C567703	d	g_d	g_mutation_d	gene (EpCAM) mutation associted with disease (Congenital tufting enteropathy)
