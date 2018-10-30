@@ -47,3 +47,4 @@ DB	"text explicitly mentions investigating relationship, but not an actual relat
 DC	disease confers resistance to drug
 CJ	chem indirectly associated with disease
 CH	chem indirectly associated with disease
+CL	chemical is reagent for diagnostic test
