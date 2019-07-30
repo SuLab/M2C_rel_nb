@@ -1,0 +1,976 @@
+	pmid	refid1	refid2	reltype	concept_pair	user_count	evtype	relation_count	test_completions	true_responses	response_ratio	refid1_type	refid2_type	broad_rel	cp_broken	no_rel	spec_rel	total_pmids
+244	12717251	8086	C536008	g_d	8086_x_C536008	16	gene mutation is/may be associated with disease	16	0.0	16	1.0	g	d	0.0	3.0	0.0	33.0	36.0
+774	22584989	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d	0.0	3.0	0.0	33.0	36.0
+717	22000320	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	3.0	0.0	33.0	36.0
+959	25781531	8086	C536008	g_d	8086_x_C536008	16	gene mutation is/may be associated with disease	15	0.0	16	0.9375	g	d	0.0	3.0	0.0	33.0	36.0
+801	23056690	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	3.0	0.0	33.0	36.0
+273	14646395	8086	C536008	g_d	8086_x_C536008	24	gene mutation is/may be associated with disease	21	1.0	23	0.9130434782608696	g	d	0.0	3.0	0.0	33.0	36.0
+438	18172684	8086	C536008	g_d	8086_x_C536008	16	gene mutation is/may be associated with disease	16	0.0	16	1.0	g	d	0.0	3.0	0.0	33.0	36.0
+202	12429595	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	3.0	0.0	33.0	36.0
+607	20931227	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	3.0	0.0	33.0	36.0
+526	19322026	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	10	2.0	13	0.7692307692307693	g	d	0.0	3.0	0.0	33.0	36.0
+469	18615337	8086	C536008	g_d	8086_x_C536008	18	gene mutation is/may be associated with disease	16	0.0	18	0.8888888888888888	g	d	0.0	3.0	0.0	33.0	36.0
+593	20499090	8086	C536008	g_d	8086_x_C536008	16	gene mutation is/may be associated with disease	15	0.0	16	0.9375	g	d	0.0	3.0	0.0	33.0	36.0
+548	20051279	8086	C536008	g_d	8086_x_C536008	16	gene mutation is/may be associated with disease	15	1.0	15	1.0	g	d	0.0	3.0	0.0	33.0	36.0
+316	16264411	8086	C536008	g_d	8086_x_C536008	16	gene mutation is/may be associated with disease	15	0.0	16	0.9375	g	d	0.0	3.0	0.0	33.0	36.0
+854	23861206	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	0.0	3.0	0.0	33.0	36.0
+565	20200814	8086	C536008	g_d	8086_x_C536008	15	c_2_broken	8	0.0	15	0.5333333333333333	g	d	0.0	3.0	0.0	33.0	36.0
+821	23327820	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d	0.0	3.0	0.0	33.0	36.0
+371	16970037	8086	C536008	g_d	8086_x_C536008	26	gene mutation is/may be associated with disease	22	0.0	26	0.8461538461538461	g	d	0.0	3.0	0.0	33.0	36.0
+167	11914417	8086	C536008	g_d	8086_x_C536008	23	gene mutation is/may be associated with disease	22	1.0	22	1.0	g	d	0.0	3.0	0.0	33.0	36.0
+306	16098009	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	14	1.0	14	1.0	g	d	0.0	3.0	0.0	33.0	36.0
+341	16609705	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	0.0	3.0	0.0	33.0	36.0
+660	21626165	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	12	1.0	14	0.8571428571428571	g	d	0.0	3.0	0.0	33.0	36.0
+417	17880786	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	3.0	0.0	33.0	36.0
+227	12548737	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	14	1.0	14	1.0	g	d	0.0	3.0	0.0	33.0	36.0
+490	19078797	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	0.0	3.0	0.0	33.0	36.0
+664	21656342	8086	C536008	g_d	8086_x_C536008	16	gene mutation is/may be associated with disease	16	0.0	16	1.0	g	d	0.0	3.0	0.0	33.0	36.0
+649	21565631	8086	C536008	g_d	8086_x_C536008	15	c_2_broken	8	0.0	15	0.5333333333333333	g	d	0.0	3.0	0.0	33.0	36.0
+443	18175081	8086	C536008	g_d	8086_x_C536008	18	gene mutation is/may be associated with disease	16	0.0	18	0.8888888888888888	g	d	0.0	3.0	0.0	33.0	36.0
+697	21744492	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	6	0.0	15	0.4	g	d	0.0	3.0	0.0	33.0	36.0
+357	16938764	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	3.0	0.0	33.0	36.0
+679	21686524	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	14	1.0	14	1.0	g	d	0.0	3.0	0.0	33.0	36.0
+220	12530689	8086	C536008	g_d	8086_x_C536008	20	gene mutation is/may be associated with disease	19	0.0	20	0.95	g	d	0.0	3.0	0.0	33.0	36.0
+478	18628786	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	3.0	0.0	33.0	36.0
+424	17911039	8086	C536008	g_d	8086_x_C536008	15	c_2_broken	7	0.0	15	0.4666666666666667	g	d	0.0	3.0	0.0	33.0	36.0
+755	22538409	8086	C536008	g_d	8086_x_C536008	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	3.0	0.0	33.0	36.0
+511	19172511	8086	C536008	g_d	8086_x_C536008	21	gene mutation is/may be associated with disease	19	1.0	20	0.95	g	d	0.0	3.0	0.0	33.0	36.0
+822	23327820	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	8	1.0	14	0.5714285714285714	g	d	0.0	0.0	0.0	32.0	32.0
+228	12548737	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	8	1.0	14	0.5714285714285714	g	d	0.0	0.0	0.0	32.0	32.0
+491	19078797	8086	C536009	g_d	8086_x_C536009	16	gene mutation is/may be associated with disease	15	0.0	16	0.9375	g	d	0.0	0.0	0.0	32.0	32.0
+439	18172684	8086	C536009	g_d	8086_x_C536009	16	gene mutation is/may be associated with disease	10	0.0	16	0.625	g	d	0.0	0.0	0.0	32.0	32.0
+274	14646395	8086	C536009	g_d	8086_x_C536009	24	gene mutation is/may be associated with disease	21	1.0	23	0.9130434782608696	g	d	0.0	0.0	0.0	32.0	32.0
+549	20051279	8086	C536009	g_d	8086_x_C536009	16	gene mutation is/may be associated with disease	7	1.0	15	0.4666666666666667	g	d	0.0	0.0	0.0	32.0	32.0
+372	16970037	8086	C536009	g_d	8086_x_C536009	25	gene mutation is/may be associated with disease	17	1.0	24	0.7083333333333334	g	d	0.0	0.0	0.0	32.0	32.0
+221	12530689	8086	C536009	g_d	8086_x_C536009	20	gene mutation is/may be associated with disease	19	0.0	20	0.95	g	d	0.0	0.0	0.0	32.0	32.0
+203	12429595	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	32.0	32.0
+512	19172511	8086	C536009	g_d	8086_x_C536009	21	gene mutation is/may be associated with disease	19	0.0	21	0.9047619047619048	g	d	0.0	0.0	0.0	32.0	32.0
+855	23861206	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	0.0	0.0	0.0	32.0	32.0
+418	17880786	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	32.0	32.0
+566	20200814	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	32.0	32.0
+661	21626165	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	12	1.0	14	0.8571428571428571	g	d	0.0	0.0	0.0	32.0	32.0
+342	16609705	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d	0.0	0.0	0.0	32.0	32.0
+960	25781531	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	9	0.0	15	0.6	g	d	0.0	0.0	0.0	32.0	32.0
+650	21565631	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d	0.0	0.0	0.0	32.0	32.0
+698	21744492	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	8	1.0	14	0.5714285714285714	g	d	0.0	0.0	0.0	32.0	32.0
+665	21656342	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	32.0	32.0
+168	11914417	8086	C536009	g_d	8086_x_C536009	22	gene mutation is/may be associated with disease	20	0.0	22	0.9090909090909092	g	d	0.0	0.0	0.0	32.0	32.0
+775	22584989	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d	0.0	0.0	0.0	32.0	32.0
+718	22000320	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	32.0	32.0
+444	18175081	8086	C536009	g_d	8086_x_C536009	17	gene mutation is/may be associated with disease	11	0.0	17	0.6470588235294118	g	d	0.0	0.0	0.0	32.0	32.0
+425	17911039	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d	0.0	0.0	0.0	32.0	32.0
+608	20931227	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	32.0	32.0
+802	23056690	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	32.0	32.0
+594	20499090	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	8	0.0	15	0.5333333333333333	g	d	0.0	0.0	0.0	32.0	32.0
+317	16264411	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	32.0	32.0
+470	18615337	8086	C536009	g_d	8086_x_C536009	18	gene mutation is/may be associated with disease	15	0.0	18	0.8333333333333334	g	d	0.0	0.0	0.0	32.0	32.0
+756	22538409	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	32.0	32.0
+680	21686524	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	14	1.0	14	1.0	g	d	0.0	0.0	0.0	32.0	32.0
+307	16098009	8086	C536009	g_d	8086_x_C536009	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d	0.0	0.0	0.0	32.0	32.0
+363	16938764	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	30.0	30.0
+247	12717251	8086	D004931	g_d	8086_x_D004931	16	gene mutation is/may be associated with disease	15	0.0	16	0.9375	g	d	0.0	0.0	0.0	30.0	30.0
+375	16970037	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	0.0	0.0	0.0	30.0	30.0
+481	18628786	8086	D004931	g_d	8086_x_D004931	16	gene mutation is/may be associated with disease	16	0.0	16	1.0	g	d	0.0	0.0	0.0	30.0	30.0
+807	23056690	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	30.0	30.0
+765	22538409	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	30.0	30.0
+345	16609705	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	10	0.0	15	0.6666666666666666	g	d	0.0	0.0	0.0	30.0	30.0
+826	23327820	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	0.0	0.0	0.0	30.0	30.0
+450	18175081	8086	D004931	g_d	8086_x_D004931	17	gene mutation is/may be associated with disease	13	0.0	17	0.7647058823529411	g	d	0.0	0.0	0.0	30.0	30.0
+322	16264411	8086	D004931	g_d	8086_x_D004931	16	gene mutation is/may be associated with disease	16	0.0	16	1.0	g	d	0.0	0.0	0.0	30.0	30.0
+310	16098009	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	0.0	0.0	0.0	30.0	30.0
+683	21686524	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d	0.0	0.0	0.0	30.0	30.0
+474	18615337	8086	D004931	g_d	8086_x_D004931	18	gene mutation is/may be associated with disease	16	0.0	18	0.8888888888888888	g	d	0.0	0.0	0.0	30.0	30.0
+210	12429595	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d	0.0	0.0	0.0	30.0	30.0
+232	12548737	8086	D004931	g_d	8086_x_D004931	16	gene mutation is/may be associated with disease	12	0.0	16	0.75	g	d	0.0	0.0	0.0	30.0	30.0
+428	17911039	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d	0.0	0.0	0.0	30.0	30.0
+673	21656342	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	30.0	30.0
+421	17880786	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	30.0	30.0
+962	25781531	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	30.0	30.0
+653	21565631	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d	0.0	0.0	0.0	30.0	30.0
+703	21744492	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	9	0.0	15	0.6	g	d	0.0	0.0	0.0	30.0	30.0
+596	20499090	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	30.0	30.0
+569	20200814	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	30.0	30.0
+862	23861206	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	0.0	0.0	0.0	30.0	30.0
+172	11914417	8086	D004931	g_d	8086_x_D004931	21	gene mutation is/may be associated with disease	20	0.0	21	0.9523809523809524	g	d	0.0	0.0	0.0	30.0	30.0
+723	22000320	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	30.0	30.0
+778	22584989	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	10	0.0	15	0.6666666666666666	g	d	0.0	0.0	0.0	30.0	30.0
+224	12530689	8086	D004931	g_d	8086_x_D004931	20	gene mutation is/may be associated with disease	19	0.0	20	0.95	g	d	0.0	0.0	0.0	30.0	30.0
+515	19172511	8086	D004931	g_d	8086_x_D004931	21	gene mutation is/may be associated with disease	19	1.0	20	0.95	g	d	0.0	0.0	0.0	30.0	30.0
+495	19078797	8086	D004931	g_d	8086_x_D004931	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	0.0	0.0	30.0	30.0
+480	18628786	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d	0.0	0.0	0.0	27.0	27.0
+493	19078797	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	0.0	0.0	27.0	27.0
+652	21565631	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	11	1.0	14	0.7857142857142857	g	d	0.0	0.0	0.0	27.0	27.0
+344	16609705	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	10	0.0	15	0.6666666666666666	g	d	0.0	0.0	0.0	27.0	27.0
+961	25781531	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	0.0	0.0	27.0	27.0
+374	16970037	8086	D000309	g_d	8086_x_D000309	25	gene mutation is/may be associated with disease	20	1.0	24	0.8333333333333334	g	d	0.0	0.0	0.0	27.0	27.0
+804	23056690	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	0.0	0.0	27.0	27.0
+447	18175081	8086	D000309	g_d	8086_x_D000309	17	gene mutation is/may be associated with disease	13	0.0	17	0.7647058823529411	g	d	0.0	0.0	0.0	27.0	27.0
+611	20931227	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	27.0	27.0
+668	21656342	8086	D000309	g_d	8086_x_D000309	16	gene mutation is/may be associated with disease	16	0.0	16	1.0	g	d	0.0	0.0	0.0	27.0	27.0
+222	12530689	8086	D000309	g_d	8086_x_D000309	20	gene mutation is/may be associated with disease	18	0.0	20	0.9	g	d	0.0	0.0	0.0	27.0	27.0
+595	20499090	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	0.0	0.0	27.0	27.0
+473	18615337	8086	D000309	g_d	8086_x_D000309	18	gene mutation is/may be associated with disease	14	0.0	18	0.7777777777777778	g	d	0.0	0.0	0.0	27.0	27.0
+360	16938764	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	0.0	0.0	27.0	27.0
+420	17880786	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	27.0	27.0
+230	12548737	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d	0.0	0.0	0.0	27.0	27.0
+309	16098009	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d	0.0	0.0	0.0	27.0	27.0
+859	23861206	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	0.0	0.0	0.0	27.0	27.0
+777	22584989	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	10	0.0	15	0.6666666666666666	g	d	0.0	0.0	0.0	27.0	27.0
+440	18172684	8086	D000309	g_d	8086_x_D000309	16	gene mutation is/may be associated with disease	16	0.0	16	1.0	g	d	0.0	0.0	0.0	27.0	27.0
+170	11914417	8086	D000309	g_d	8086_x_D000309	22	gene mutation is/may be associated with disease	19	0.0	22	0.8636363636363636	g	d	0.0	0.0	0.0	27.0	27.0
+427	17911039	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	12	1.0	14	0.8571428571428571	g	d	0.0	0.0	0.0	27.0	27.0
+551	20051279	8086	D000309	g_d	8086_x_D000309	16	gene mutation is/may be associated with disease	12	1.0	15	0.8	g	d	0.0	0.0	0.0	27.0	27.0
+275	14646395	8086	D000309	g_d	8086_x_D000309	24	gene mutation is/may be associated with disease	19	1.0	23	0.8260869565217391	g	d	0.0	0.0	0.0	27.0	27.0
+761	22538409	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	27.0	27.0
+205	12429595	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	0.0	0.0	27.0	27.0
+568	20200814	8086	D000309	g_d	8086_x_D000309	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	0.0	0.0	27.0	27.0
+803	23056690	8086	C562827	g_d	8086_x_C562827	18	gene mutation is/may be associated with disease	17	0.0	18	0.9444444444444444	g	d	1.0	0.0	0.0	23.0	24.0
+426	17911039	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	1.0	0.0	0.0	23.0	24.0
+373	16970037	8086	C562827	g_d	8086_x_C562827	16	gene mutation is/may be associated with disease	12	0.0	16	0.75	g	d	1.0	0.0	0.0	23.0	24.0
+776	22584989	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	8	0.0	15	0.5333333333333333	g	d	1.0	0.0	0.0	23.0	24.0
+681	21686524	8086	C562827	g_d	8086_x_C562827	16	gene mutation is/may be associated with disease	15	0.0	16	0.9375	g	d	1.0	0.0	0.0	23.0	24.0
+358	16938764	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	1.0	0.0	0.0	23.0	24.0
+513	19172511	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	12	1.0	14	0.8571428571428571	g	d	1.0	0.0	0.0	23.0	24.0
+667	21656342	8086	C562827	g_d	8086_x_C562827	16	gene mutation is/may be associated with disease	15	0.0	16	0.9375	g	d	1.0	0.0	0.0	23.0	24.0
+651	21565631	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	1.0	0.0	0.0	23.0	24.0
+699	21744492	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	8	0.0	15	0.5333333333333333	g	d	1.0	0.0	0.0	23.0	24.0
+610	20931227	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d	1.0	0.0	0.0	23.0	24.0
+720	22000320	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d	1.0	0.0	0.0	23.0	24.0
+858	23861206	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	7	0.0	15	0.4666666666666667	g	d	1.0	0.0	0.0	23.0	24.0
+169	11914417	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d	1.0	0.0	0.0	23.0	24.0
+445	18175081	8086	C562827	g_d	8086_x_C562827	16	gene mutation is/may be associated with disease	12	1.0	15	0.8	g	d	1.0	0.0	0.0	23.0	24.0
+204	12429595	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	1.0	0.0	0.0	23.0	24.0
+246	12717251	8086	C562827	g_d	8086_x_C562827	15	gene relates to disease	7	0.0	15	0.4666666666666667	g	d	1.0	0.0	0.0	23.0	24.0
+759	22538409	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d	1.0	0.0	0.0	23.0	24.0
+479	18628786	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	1.0	0.0	0.0	23.0	24.0
+823	23327820	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	1.0	0.0	0.0	23.0	24.0
+471	18615337	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d	1.0	0.0	0.0	23.0	24.0
+308	16098009	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	1.0	0.0	0.0	23.0	24.0
+318	16264411	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d	1.0	0.0	0.0	23.0	24.0
+229	12548737	8086	C562827	g_d	8086_x_C562827	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	1.0	0.0	0.0	23.0	24.0
+517	19172511	8086	D009422	g_d	8086_x_D009422	21	gene mutation is/may be associated with disease	18	0.0	21	0.8571428571428571	g	d	0.0	1.0	0.0	16.0	17.0
+726	22000320	8086	D009422	g_d	8086_x_D009422	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d	0.0	1.0	0.0	16.0	17.0
+553	20051279	8086	D009422	g_d	8086_x_D009422	16	gene mutation is/may be associated with disease	12	0.0	16	0.75	g	d	0.0	1.0	0.0	16.0	17.0
+482	18628786	8086	D009422	g_d	8086_x_D009422	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	1.0	0.0	16.0	17.0
+570	20200814	8086	D009422	g_d	8086_x_D009422	16	gene mutation is/may be associated with disease	14	0.0	16	0.875	g	d	0.0	1.0	0.0	16.0	17.0
+618	20931227	8086	D009422	g_d	8086_x_D009422	15	gene mutation is/may be associated with disease	9	0.0	15	0.6	g	d	0.0	1.0	0.0	16.0	17.0
+769	22538409	8086	D009422	g_d	8086_x_D009422	15	gene mutation is/may be associated with disease	12	1.0	14	0.8571428571428571	g	d	0.0	1.0	0.0	16.0	17.0
+675	21656342	8086	D009422	g_d	8086_x_D009422	15	c_2_broken	13	0.0	15	0.8666666666666667	g	d	0.0	1.0	0.0	16.0	17.0
+451	18175081	8086	D009422	g_d	8086_x_D009422	17	gene mutation is/may be associated with disease	11	0.0	17	0.6470588235294118	g	d	0.0	1.0	0.0	16.0	17.0
+211	12429595	8086	D009422	g_d	8086_x_D009422	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	1.0	0.0	16.0	17.0
+963	25781531	8086	D009422	g_d	8086_x_D009422	16	gene mutation is/may be associated with disease	14	0.0	16	0.875	g	d	0.0	1.0	0.0	16.0	17.0
+809	23056690	8086	D009422	g_d	8086_x_D009422	16	gene mutation is/may be associated with disease	13	0.0	16	0.8125	g	d	0.0	1.0	0.0	16.0	17.0
+312	16098009	8086	D009422	g_d	8086_x_D009422	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d	0.0	1.0	0.0	16.0	17.0
+174	11914417	8086	D009422	g_d	8086_x_D009422	15	gene mutation is/may be associated with disease	12	1.0	14	0.8571428571428571	g	d	0.0	1.0	0.0	16.0	17.0
+378	16970037	8086	D009422	g_d	8086_x_D009422	15	gene mutation is/may be associated with disease	9	0.0	15	0.6	g	d	0.0	1.0	0.0	16.0	17.0
+365	16938764	8086	D009422	g_d	8086_x_D009422	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	1.0	0.0	16.0	17.0
+323	16264411	8086	D009422	g_d	8086_x_D009422	16	gene mutation is/may be associated with disease	14	1.0	15	0.9333333333333332	g	d	0.0	1.0	0.0	16.0	17.0
+544	20051279	5443	C536008	g_d	5443_x_C536008	15	gene relates to disease	5	0.0	15	0.3333333333333333	g	d	12.0	1.0	1.0	2.0	16.0
+252	12793312	5443	C536008	g_d	5443_x_C536008	17	gene relates to disease	9	1.0	16	0.5625	g	d	12.0	1.0	1.0	2.0	16.0
+214	12530689	5443	C536008	g_d	5443_x_C536008	20	gene relates to disease	13	0.0	20	0.65	g	d	12.0	1.0	1.0	2.0	16.0
+415	17880786	5443	C536008	g_d	5443_x_C536008	15	gene relates to disease	5	0.0	15	0.3333333333333333	g	d	12.0	1.0	1.0	2.0	16.0
+187	12150219	5443	C536008	g_d	5443_x_C536008	15	gene relates to disease	6	0.0	15	0.4	g	d	12.0	1.0	1.0	2.0	16.0
+147	11353896	5443	C536008	g_d	5443_x_C536008	29	gene mutation is/may be associated with disease	15	0.0	29	0.5172413793103449	g	d	12.0	1.0	1.0	2.0	16.0
+5	1325164	5443	C536008	g_d	5443_x_C536008	15	gene relates to disease	6	0.0	15	0.4	g	d	12.0	1.0	1.0	2.0	16.0
+589	20499090	5443	C536008	g_d	5443_x_C536008	15	gene relates to disease	6	0.0	15	0.4	g	d	12.0	1.0	1.0	2.0	16.0
+352	16937455	5443	C536008	g_d	5443_x_C536008	15	c_2_broken	4	0.0	15	0.26666666666666666	g	d	12.0	1.0	1.0	2.0	16.0
+889	24139699	5443	C536008	g_d	5443_x_C536008	16	gene relates to disease	13	0.0	16	0.8125	g	d	12.0	1.0	1.0	2.0	16.0
+135	11084394	5443	C536008	g_d	5443_x_C536008	15	gene mutation is/may be associated with disease	5	0.0	15	0.3333333333333333	g	d	12.0	1.0	1.0	2.0	16.0
+91	10068747	5443	C536008	g_d	5443_x_C536008	15	gene has no relation to disease	6	0.0	15	0.4	g	d	12.0	1.0	1.0	2.0	16.0
+66	8253654	5443	C536008	g_d	5443_x_C536008	15	gene relates to disease	6	0.0	15	0.4	g	d	12.0	1.0	1.0	2.0	16.0
+57	7945119	5443	C536008	g_d	5443_x_C536008	28	gene relates to disease	18	3.0	25	0.72	g	d	12.0	1.0	1.0	2.0	16.0
+35	3014426	5443	C536008	g_d	5443_x_C536008	27	gene relates to disease	14	2.0	25	0.56	g	d	12.0	1.0	1.0	2.0	16.0
+11	1659963	5443	C536008	g_d	5443_x_C536008	15	gene relates to disease	9	1.0	14	0.6428571428571429	g	d	12.0	1.0	1.0	2.0	16.0
+867	23861206	8086	D030342	g_d	8086_x_D030342	16	gene mutation is/may be associated with disease	11	0.0	16	0.6875	g	d	1.0	1.0	0.0	12.0	15.0
+177	11914417	8086	D030342	g_d	8086_x_D030342	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d	1.0	1.0	0.0	12.0	15.0
+656	21565631	8086	D030342	g_d	8086_x_D030342	16	gene mutation is/may be associated with disease	12	0.0	16	0.75	g	d	1.0	1.0	0.0	12.0	15.0
+530	19322026	8086	D030342	g_d	8086_x_D030342	15	c_1_broken	12	0.0	15	0.8	g	d	1.0	1.0	0.0	12.0	15.0
+688	21686524	8086	D030342	g_d	8086_x_D030342	15	c_2_broken	10	0.0	15	0.6666666666666666	g	d	1.0	1.0	0.0	12.0	15.0
+498	19078797	8086	D030342	g_d	8086_x_D030342	16	gene mutation is/may be associated with disease	11	0.0	16	0.6875	g	d	1.0	1.0	0.0	12.0	15.0
+235	12548737	8086	D030342	g_d	8086_x_D030342	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	1.0	1.0	0.0	12.0	15.0
+251	12717251	8086	D030342	g_d	8086_x_D030342	15	gene relates to disease	6	0.0	15	0.4	g	d	1.0	1.0	0.0	12.0	15.0
+368	16938764	8086	D030342	g_d	8086_x_D030342	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d	1.0	1.0	0.0	12.0	15.0
+782	22584989	8086	D030342	g_d	8086_x_D030342	15	gene mutation is/may be associated with disease	7	0.0	15	0.4666666666666667	g	d	1.0	1.0	0.0	12.0	15.0
+431	17911039	8086	D030342	g_d	8086_x_D030342	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	1.0	1.0	0.0	12.0	15.0
+385	16970037	8086	D030342	g_d	8086_x_D030342	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	1.0	1.0	0.0	12.0	15.0
+830	23327820	8086	D030342	g_d	8086_x_D030342	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	1.0	1.0	0.0	12.0	15.0
+327	16264411	8086	D030342	g_d	8086_x_D030342	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	1.0	1.0	0.0	12.0	15.0
+457	18175081	8086	D030342	g_d	8086_x_D030342	15	gene mutation is/may be associated with disease	11	1.0	14	0.7857142857142857	g	d	1.0	1.0	0.0	12.0	15.0
+138	11084394	5443	D004931	g_d	5443_x_D004931	15	gene mutation is/may be associated with disease	9	0.0	15	0.6	g	d	9.0	1.0	2.0	1.0	13.0
+8	1325164	5443	D004931	g_d	5443_x_D004931	15	gene has no relation to disease	8	0.0	15	0.5333333333333333	g	d	9.0	1.0	2.0	1.0	13.0
+189	12150219	5443	D004931	g_d	5443_x_D004931	15	gene relates to disease	8	0.0	15	0.5333333333333333	g	d	9.0	1.0	2.0	1.0	13.0
+49	4075537	5443	D004931	g_d	5443_x_D004931	15	gene relates to disease	8	0.0	15	0.5333333333333333	g	d	9.0	1.0	2.0	1.0	13.0
+14	1659963	5443	D004931	g_d	5443_x_D004931	15	gene relates to disease	10	1.0	14	0.7142857142857143	g	d	9.0	1.0	2.0	1.0	13.0
+894	24139699	5443	D004931	g_d	5443_x_D004931	15	gene relates to disease	7	0.0	15	0.4666666666666667	g	d	9.0	1.0	2.0	1.0	13.0
+36	3014426	5443	D004931	g_d	5443_x_D004931	21	gene relates to disease	12	1.0	20	0.6	g	d	9.0	1.0	2.0	1.0	13.0
+561	20200814	5443	D004931	g_d	5443_x_D004931	15	gene has no relation to disease	7	0.0	15	0.4666666666666667	g	d	9.0	1.0	2.0	1.0	13.0
+218	12530689	5443	D004931	g_d	5443_x_D004931	15	gene relates to disease	7	0.0	15	0.4666666666666667	g	d	9.0	1.0	2.0	1.0	13.0
+149	11353896	5443	D004931	g_d	5443_x_D004931	28	gene relates to disease	13	0.0	28	0.4642857142857143	g	d	9.0	1.0	2.0	1.0	13.0
+256	12793312	5443	D004931	g_d	5443_x_D004931	15	gene relates to disease	8	0.0	15	0.5333333333333333	g	d	9.0	1.0	2.0	1.0	13.0
+97	10068747	5443	D004931	g_d	5443_x_D004931	15	c_2_broken	7	0.0	15	0.4666666666666667	g	d	9.0	1.0	2.0	1.0	13.0
+59	7945119	5443	D004931	g_d	5443_x_D004931	36	gene relates to disease	13	2.0	34	0.38235294117647056	g	d	9.0	1.0	2.0	1.0	13.0
+92	10068747	5443	C536009	g_d	5443_x_C536009	15	gene has no relation to disease	12	0.0	15	0.8	g	d	7.0	0.0	5.0	0.0	12.0
+253	12793312	5443	C536009	g_d	5443_x_C536009	16	gene relates to disease	7	0.0	16	0.4375	g	d	7.0	0.0	5.0	0.0	12.0
+58	7945119	5443	C536009	g_d	5443_x_C536009	27	gene relates to disease	16	3.0	24	0.6666666666666666	g	d	7.0	0.0	5.0	0.0	12.0
+559	20200814	5443	C536009	g_d	5443_x_C536009	15	gene has no relation to disease	6	0.0	15	0.4	g	d	7.0	0.0	5.0	0.0	12.0
+353	16937455	5443	C536009	g_d	5443_x_C536009	15	gene has no relation to disease	6	0.0	15	0.4	g	d	7.0	0.0	5.0	0.0	12.0
+136	11084394	5443	C536009	g_d	5443_x_C536009	15	gene relates to disease	5	0.0	15	0.3333333333333333	g	d	7.0	0.0	5.0	0.0	12.0
+12	1659963	5443	C536009	g_d	5443_x_C536009	15	gene relates to disease	9	1.0	14	0.6428571428571429	g	d	7.0	0.0	5.0	0.0	12.0
+890	24139699	5443	C536009	g_d	5443_x_C536009	15	gene relates to disease	9	0.0	15	0.6	g	d	7.0	0.0	5.0	0.0	12.0
+215	12530689	5443	C536009	g_d	5443_x_C536009	15	gene has no relation to disease	7	0.0	15	0.4666666666666667	g	d	7.0	0.0	5.0	0.0	12.0
+67	8253654	5443	C536009	g_d	5443_x_C536009	15	gene relates to disease	6	0.0	15	0.4	g	d	7.0	0.0	5.0	0.0	12.0
+6	1325164	5443	C536009	g_d	5443_x_C536009	16	gene has no relation to disease	8	0.0	16	0.5	g	d	7.0	0.0	5.0	0.0	12.0
+148	11353896	5443	C536009	g_d	5443_x_C536009	28	gene relates to disease	13	0.0	28	0.4642857142857143	g	d	7.0	0.0	5.0	0.0	12.0
+452	18175081	8086	D009461	g_d	8086_x_D009461	17	gene mutation is/may be associated with disease	7	0.0	17	0.4117647058823529	g	d	0.0	1.0	0.0	10.0	11.0
+366	16938764	8086	D009461	g_d	8086_x_D009461	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d	0.0	1.0	0.0	10.0	11.0
+379	16970037	8086	D009461	g_d	8086_x_D009461	27	gene mutation is/may be associated with disease	19	3.0	24	0.7916666666666666	g	d	0.0	1.0	0.0	10.0	11.0
+571	20200814	8086	D009461	g_d	8086_x_D009461	15	c_2_broken	14	0.0	15	0.9333333333333332	g	d	0.0	1.0	0.0	10.0	11.0
+619	20931227	8086	D009461	g_d	8086_x_D009461	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	1.0	0.0	10.0	11.0
+770	22538409	8086	D009461	g_d	8086_x_D009461	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	1.0	0.0	10.0	11.0
+518	19172511	8086	D009461	g_d	8086_x_D009461	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	1.0	0.0	10.0	11.0
+212	12429595	8086	D009461	g_d	8086_x_D009461	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d	0.0	1.0	0.0	10.0	11.0
+175	11914417	8086	D009461	g_d	8086_x_D009461	21	gene mutation is/may be associated with disease	19	0.0	21	0.9047619047619048	g	d	0.0	1.0	0.0	10.0	11.0
+727	22000320	8086	D009461	g_d	8086_x_D009461	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d	0.0	1.0	0.0	10.0	11.0
+828	23327820	8086	D009461	g_d	8086_x_D009461	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d	0.0	1.0	0.0	10.0	11.0
+254	12793312	5443	D000309	g_d	5443_x_D000309	16	gene relates to disease	11	1.0	15	0.7333333333333333	g	d	6.0	0.0	0.0	1.0	7.0
+257	12793312	5443	D009422	g_d	5443_x_D009422	26	gene relates to disease	9	2.0	24	0.375	g	d	3.0	1.0	3.0	0.0	7.0
+216	12530689	5443	D000309	g_d	5443_x_D000309	16	gene relates to disease	9	0.0	16	0.5625	g	d	6.0	0.0	0.0	1.0	7.0
+895	24139699	5443	D009422	g_d	5443_x_D009422	15	gene has no relation to disease	8	0.0	15	0.5333333333333333	g	d	3.0	1.0	3.0	0.0	7.0
+891	24139699	5443	D000309	g_d	5443_x_D000309	15	gene relates to disease	7	0.0	15	0.4666666666666667	g	d	6.0	0.0	0.0	1.0	7.0
+150	11353896	5443	D009422	g_d	5443_x_D009422	29	gene relates to disease	10	0.0	29	0.3448275862068966	g	d	3.0	1.0	3.0	0.0	7.0
+562	20200814	5443	D009422	g_d	5443_x_D009422	15	gene has no relation to disease	5	0.0	15	0.3333333333333333	g	d	3.0	1.0	3.0	0.0	7.0
+190	12150219	5443	D009422	g_d	5443_x_D009422	15	c_1_broken	6	0.0	15	0.4	g	d	3.0	1.0	3.0	0.0	7.0
+137	11084394	5443	D000309	g_d	5443_x_D000309	15	gene mutation is/may be associated with disease	7	0.0	15	0.4666666666666667	g	d	6.0	0.0	0.0	1.0	7.0
+15	1659963	5443	D009422	g_d	5443_x_D009422	19	gene relates to disease	7	1.0	18	0.3888888888888889	g	d	3.0	1.0	3.0	0.0	7.0
+188	12150219	5443	D000309	g_d	5443_x_D000309	15	gene relates to disease	8	0.0	15	0.5333333333333333	g	d	6.0	0.0	0.0	1.0	7.0
+546	20051279	5443	D009422	g_d	5443_x_D009422	16	gene has no relation to disease	7	0.0	16	0.4375	g	d	3.0	1.0	3.0	0.0	7.0
+560	20200814	5443	D000309	g_d	5443_x_D000309	15	gene relates to disease	5	0.0	15	0.3333333333333333	g	d	6.0	0.0	0.0	1.0	7.0
+93	10068747	5443	D000309	g_d	5443_x_D000309	15	gene relates to disease	5	0.0	15	0.3333333333333333	g	d	6.0	0.0	0.0	1.0	7.0
+721	22000320	8086	D000310	g_d	8086_x_D000310	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	0.0	0.0	6.0	6.0
+612	20931227	8086	D000310	g_d	8086_x_D000310	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d	0.0	0.0	0.0	6.0	6.0
+223	12530689	8086	D000310	g_d	8086_x_D000310	20	gene mutation is/may be associated with disease	18	0.0	20	0.9	g	d	0.0	0.0	0.0	6.0	6.0
+514	19172511	8086	D000310	g_d	8086_x_D000310	20	gene mutation is/may be associated with disease	16	0.0	20	0.8	g	d	0.0	0.0	0.0	6.0	6.0
+206	12429595	8086	D000310	g_d	8086_x_D000310	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	0.0	0.0	6.0	6.0
+824	23327820	8086	D000310	g_d	8086_x_D000310	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d	0.0	0.0	0.0	6.0	6.0
+955	25525276	C544092	D000544	c_d	C544092_x_D000544	15	c_1_broken	15	0.0	15	1.0	c	d	0.0	5.0	0.0	0.0	5.0
+410	17716641	C057651	D018981	c_d	C057651_x_D018981	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d	0.0	5.0	0.0	0.0	5.0
+405	17523137	C057651	D018981	c_d	C057651_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d	0.0	5.0	0.0	0.0	5.0
+271	14633925	C057651	D018981	c_d	C057651_x_D018981	15	c_1_broken	15	0.0	15	1.0	c	d	0.0	5.0	0.0	0.0	5.0
+402	17255094	C544092	D000544	c_d	C544092_x_D000544	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d	0.0	5.0	0.0	0.0	5.0
+20	2510719	C544092	D000544	c_d	C544092_x_D000544	16	c_1_broken	13	0.0	16	0.8125	c	d	0.0	5.0	0.0	0.0	5.0
+534	19608465	C057651	D018981	c_d	C057651_x_D018981	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d	0.0	5.0	0.0	0.0	5.0
+464	18304576	C544092	D000544	c_d	C544092_x_D000544	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d	0.0	5.0	0.0	0.0	5.0
+347	16669732	C544092	D000544	c_d	C544092_x_D000544	15	c_1_broken	13	1.0	14	0.9285714285714286	c	d	0.0	5.0	0.0	0.0	5.0
+485	18712764	C057651	D018981	c_d	C057651_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d	0.0	5.0	0.0	0.0	5.0
+805	23056690	8086	D001342	g_d	8086_x_D001342	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d	0.0	3.0	0.0	1.0	4.0
+825	23327820	8086	D000312	g_d	8086_x_D000312	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d	0.0	0.0	0.0	4.0	4.0
+861	23861206	8086	D001342	g_d	8086_x_D001342	15	c_2_broken	10	0.0	15	0.6666666666666666	g	d	0.0	3.0	0.0	1.0	4.0
+722	22000320	8086	D000312	g_d	8086_x_D000312	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	0.0	0.0	4.0	4.0
+687	21686524	8086	D018908	g_d	8086_x_D018908	15	gene mutation is/may be associated with disease	9	1.0	14	0.6428571428571429	g	d	0.0	0.0	0.0	4.0	4.0
+794	22827796	D002241	D018981	c_d	D002241_x_D018981	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d	0.0	4.0	0.0	0.0	4.0
+966	25781531	8086	D018908	g_d	8086_x_D018908	15	gene mutation is/may be associated with disease	10	0.0	15	0.6666666666666666	g	d	0.0	0.0	0.0	4.0	4.0
+682	21686524	8086	D000224	g_d	8086_x_D000224	15	c_2_broken	11	0.0	15	0.7333333333333333	g	d	0.0	1.0	0.0	3.0	4.0
+613	20931227	8086	D000312	g_d	8086_x_D000312	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d	0.0	0.0	0.0	4.0	4.0
+477	18615337	8086	D018908	g_d	8086_x_D018908	18	gene mutation is/may be associated with disease	7	0.0	18	0.3888888888888889	g	d	0.0	0.0	0.0	4.0	4.0
+419	17880786	8086	D000224	g_d	8086_x_D000224	15	gene mutation is/may be associated with disease	6	0.0	15	0.4	g	d	0.0	1.0	0.0	3.0	4.0
+114	10602363	D002241	D018981	c_d	D002241_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d	0.0	4.0	0.0	0.0	4.0
+382	16970037	8086	D018908	g_d	8086_x_D018908	25	gene mutation is/may be associated with disease	21	1.0	24	0.875	g	d	0.0	0.0	0.0	4.0	4.0
+361	16938764	8086	D000312	g_d	8086_x_D000312	15	gene mutation is/may be associated with disease	11	1.0	14	0.7857142857142857	g	d	0.0	0.0	0.0	4.0	4.0
+110	10486078	D002241	D018981	c_d	D002241_x_D018981	15	c_1_broken	12	0.0	15	0.8	c	d	0.0	4.0	0.0	0.0	4.0
+441	18172684	8086	D001342	g_d	8086_x_D001342	16	c_2_broken	9	0.0	16	0.5625	g	d	0.0	3.0	0.0	1.0	4.0
+319	16264411	8086	D000224	g_d	8086_x_D000224	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d	0.0	1.0	0.0	3.0	4.0
+272	14633925	D002241	D018981	c_d	D002241_x_D018981	16	c_1_broken	16	0.0	16	1.0	c	d	0.0	4.0	0.0	0.0	4.0
+171	11914417	8086	D001342	g_d	8086_x_D001342	21	c_2_broken	18	0.0	21	0.8571428571428571	g	d	0.0	3.0	0.0	1.0	4.0
+446	18175081	8086	D000224	g_d	8086_x_D000224	17	gene mutation is/may be associated with disease	13	0.0	17	0.7647058823529411	g	d	0.0	1.0	0.0	3.0	4.0
+621	20931227	8086	D012021	g_d	8086_x_D012021	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d	0.0	0.0	0.0	3.0	3.0
+380	16970037	8086	D012021	g_d	8086_x_D012021	29	gene mutation is/may be associated with disease	20	1.0	28	0.7142857142857143	g	d	0.0	0.0	0.0	3.0	3.0
+662	21626165	8086	D012021	g_d	8086_x_D012021	17	gene mutation is/may be associated with disease	7	1.0	16	0.4375	g	d	0.0	0.0	0.0	3.0	3.0
+143	11353896	4158	D004931	g_d	4158_x_D004931	29	gene has no relation to disease	14	1.0	28	0.5	g	d	0.0	0.0	1.0	1.0	2.0
+284	15589762	D011134	D018981	c_d	D011134_x_D018981	16	c_1_broken	14	0.0	16	0.875	c	d	0.0	2.0	0.0	0.0	2.0
+282	15589762	C066308	D018981	c_d	C066308_x_D018981	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d	0.0	2.0	0.0	0.0	2.0
+139	11308015	D011134	D018981	c_d	D011134_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d	0.0	2.0	0.0	0.0	2.0
+157	11807674	D006854	D004931	c_d	D006854_x_D004931	18	drug has no relation to disease	11	0.0	18	0.6111111111111112	c	d	0.0	1.0	1.0	0.0	2.0
+133	11084394	4158	D004931	g_d	4158_x_D004931	15	gene mutation is/may be associated with disease	10	0.0	15	0.6666666666666666	g	d	0.0	0.0	1.0	1.0	2.0
+409	17595484	D006854	D004931	c_d	D006854_x_D004931	15	c_1_broken	8	0.0	15	0.5333333333333333	c	d	0.0	1.0	1.0	0.0	2.0
+406	17523137	C066308	D018981	c_d	C066308_x_D018981	15	c_1_broken	15	0.0	15	1.0	c	d	0.0	2.0	0.0	0.0	2.0
+263	12882516	C097320	D000544	c_d	C097320_x_D000544	15	c_1_broken	7	0.0	15	0.4666666666666667	c	d	0.0	2.0	0.0	0.0	2.0
+628	21029306	C084077	D003920	c_d	C084077_x_D003920	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d	0.0	2.0	0.0	0.0	2.0
+626	20965426	D010100	D057165	c_d	D010100_x_D057165	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d	0.0	2.0	0.0	0.0	2.0
+753	22517741	C097320	D000544	c_d	C097320_x_D000544	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d	0.0	2.0	0.0	0.0	2.0
+734	22003057	D010100	D057165	c_d	D010100_x_D057165	15	c_1_broken	12	0.0	15	0.8	c	d	0.0	2.0	0.0	0.0	2.0
+532	19583945	C084077	D003920	c_d	C084077_x_D003920	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d	0.0	2.0	0.0	0.0	2.0
+109	10429369	D009711	D018981	c_d	D009711_x_D018981	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d	0.0	1.0	0.0	0.0	1.0
+17	1815166	D019793	C536289	c_d	D019793_x_C536289	15	c_1_broken	9	0.0	15	0.6	c	d	0.0	1.0	0.0	0.0	1.0
+163	11836161	C056752	D000742	c_d	C056752_x_D000742	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d	0.0	1.0	0.0	0.0	1.0
+32	2854735	D016210	D007239	c_d	D016210_x_D007239	15	drug has no relation to disease	9	1.0	14	0.6428571428571429	c	d	0.0	0.0	1.0	0.0	1.0
+61	8006362	D005227	D000326	c_d	D005227_x_D000326	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d	0.0	1.0	0.0	0.0	1.0
+153	11807674	D006854	C536008	c_d	D006854_x_C536008	18	drug (may) treat(s) disease	9	1.0	17	0.5294117647058824	c	d	0.0	0.0	0.0	1.0	1.0
+151	11353896	5443	D020022	g_d	5443_x_D020022	32	gene relates to disease	12	0.0	32	0.375	g	d	1.0	0.0	0.0	0.0	1.0
+63	8046350	C541943	D001168	c_d	C541943_x_D001168	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d	0.0	1.0	0.0	0.0	1.0
+868	23861206	8086	D055534	g_d	8086_x_D055534	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d	0.0	0.0	0.0	1.0	1.0
+916	24497285	C010686	D009369	c_d	C010686_x_D009369	15	c_1_broken	12	0.0	15	0.8	c	d	0.0	1.0	0.0	0.0	1.0
+873	23956580	28911	D003929	g_d	28911_x_D003929	15	c_1_broken	15	0.0	15	1.0	g	d	0.0	1.0	0.0	0.0	1.0
+919	24517367	C009091	D019636	c_d	C009091_x_D019636	15	c_1_broken	7	0.0	15	0.4666666666666667	c	d	0.0	1.0	0.0	0.0	1.0
+882	24094038	C004848	D000544	c_d	C004848_x_D000544	15	c_1_broken	12	0.0	15	0.8	c	d	0.0	1.0	0.0	0.0	1.0
+885	24115865	D004121	D000860	c_d	D004121_x_D000860	15	c_1_broken	5	0.0	15	0.3333333333333333	c	d	0.0	1.0	0.0	0.0	1.0
+940	24651605	55768	D012640	g_d	55768_x_D012640	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	0.0	0.0	0.0	1.0	1.0
+126	11018092	D007854	D009369	c_d	D007854_x_D009369	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d	0.0	1.0	0.0	0.0	1.0
+121	10858229	D000596	D004403	c_d	D000596_x_D004403	15	c_1_broken	11	1.0	14	0.7857142857142857	c	d	0.0	1.0	0.0	0.0	1.0
+933	24651605	55768	D003677	g_d	55768_x_D003677	16	gene mutation is/may be associated with disease	12	1.0	15	0.8	g	d	0.0	0.0	0.0	1.0	1.0
+896	24139699	5443	D016472	g_d	5443_x_D016472	16	gene has no relation to disease	7	0.0	16	0.4375	g	d	0.0	0.0	1.0	0.0	1.0
+907	24279733	C033171	D008659	c_d	C033171_x_D008659	15	drug (may) treat(s) disease	14	0.0	15	0.9333333333333332	c	d	0.0	0.0	0.0	1.0	1.0
+178	11916319	D003981	D012640	c_d	D003981_x_D012640	15	drug (may) cause(s) disease	6	1.0	14	0.42857142857142855	c	d	0.0	0.0	0.0	1.0	1.0
+949	25331899	C049568	D018981	c_d	C049568_x_D018981	15	c_1_broken	10	1.0	14	0.7142857142857143	c	d	0.0	1.0	0.0	0.0	1.0
+287	15680696	300259	C536008	g_d	300259_x_C536008	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d	0.0	0.0	0.0	1.0	1.0
+258	12872847	C532103	D018981	c_d	C532103_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d	0.0	1.0	0.0	0.0	1.0
+264	12882516	D004967	D000544	c_d	D004967_x_D000544	15	c_1_broken	8	0.0	15	0.5333333333333333	c	d	0.0	1.0	0.0	0.0	1.0
+677	21656342	8086	D012816	g_d	8086_x_D012816	15	c_2_broken	9	0.0	15	0.6	g	d	0.0	1.0	0.0	0.0	1.0
+692	21737679	D005947	D007239	c_d	D005947_x_D007239	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d	0.0	1.0	0.0	0.0	1.0
+647	21494549	D019289	D003920	c_d	D019289_x_D003920	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d	0.0	1.0	0.0	0.0	1.0
+606	20931227	8086	C535883	g_d	8086_x_C535883	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d	0.0	0.0	0.0	1.0	1.0
+579	20447614	4072	D002386	g_d	4072_x_D002386	15	gene has no relation to disease	9	0.0	15	0.6	g	d	0.0	0.0	1.0	0.0	1.0
+578	20447614	4072	C567703	g_d	4072_x_C567703	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d	0.0	0.0	0.0	1.0	1.0
+543	19996411	D019087	D010538	c_d	D019087_x_D010538	15	c_1_broken	15	0.0	15	1.0	c	d	0.0	1.0	0.0	0.0	1.0
+508	19146845	D007501	D018981	c_d	D007501_x_D018981	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d	0.0	1.0	0.0	0.0	1.0
+504	19101627	D006493	D013927	c_d	D006493_x_D013927	15	drug (may) treat(s) disease	9	0.0	15	0.6	c	d	0.0	0.0	0.0	1.0	1.0
+492	19078797	8086	C566307	g_d	8086_x_C566307	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d	0.0	0.0	0.0	1.0	1.0
+489	19011102	D010100	D006467	c_d	D010100_x_D006467	16	c_1_broken	14	0.0	16	0.875	c	d	0.0	1.0	0.0	0.0	1.0
+401	17255094	C115717	D000544	c_d	C115717_x_D000544	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d	0.0	1.0	0.0	0.0	1.0
+399	17197096	D011188	D018981	c_d	D011188_x_D018981	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d	0.0	1.0	0.0	0.0	1.0
+392	17049852	C047217	D018981	c_d	C047217_x_D018981	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d	0.0	1.0	0.0	0.0	1.0
+780	22584989	8086	D006471	g_d	8086_x_D006471	15	gene mutation is/may be associated with disease	6	0.0	15	0.4	g	d	0.0	0.0	0.0	1.0	1.0
+390	16980445	D014614	D012769	c_d	D014614_x_D012769	16	c_1_broken	15	0.0	16	0.9375	c	d	0.0	1.0	0.0	0.0	1.0
+791	22781125	C457213	C535436	c_d	C457213_x_C535436	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d	0.0	1.0	0.0	0.0	1.0
+798	23012188	D003348	C536008	c_d	D003348_x_C536008	18	drug (may) treat(s) disease	16	1.0	17	0.9411764705882352	c	d	0.0	0.0	0.0	1.0	1.0
+799	23012188	D003348	D003680	c_d	D003348_x_D003680	18	drug (may) treat(s) disease	11	1.0	17	0.6470588235294118	c	d	0.0	0.0	0.0	1.0	1.0
+367	16938764	8086	D012735	g_d	8086_x_D012735	15	gene mutation is/may be associated with disease	12	1.0	14	0.8571428571428571	g	d	0.0	0.0	0.0	1.0	1.0
+338	16528113	351	D000309	g_d	351_x_D000309	15	gene mutation is/may be associated with disease	8	0.0	15	0.5333333333333333	g	d	0.0	0.0	0.0	1.0	1.0
+678	21656342	8086	D054969	g_d	8086_x_D054969	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d	0.0	0.0	0.0	1.0	1.0
+285	15623514	D000255	D016506	c_d	D000255_x_D016506	16	c_1_broken	15	0.0	16	0.9375	c	d	0.0	1.0	0.0	0.0	1.0
+812	23077033	D010100	D009410	c_d	D010100_x_D009410	15	c_1_broken	12	0.0	15	0.8	c	d	0.0	1.0	0.0	0.0	1.0
+818	23139742	D004967	D004715	c_d	D004967_x_D004715	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d	0.0	1.0	0.0	0.0	1.0
+278	14675190	D006497	D001768	c_d	D006497_x_D001768	16	c_1_broken	10	0.0	16	0.625	c	d	0.0	1.0	0.0	0.0	1.0
+265	12882516	D009569	D000544	c_d	D009569_x_D000544	15	drug has no relation to disease	8	0.0	15	0.5333333333333333	c	d	0.0	0.0	1.0	0.0	1.0
+3	1299347	D014361	D008232	c_d	D014361_x_D008232	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d	0.0	1.0	0.0	0.0	1.0
+0	1299347	C095810	D008232	c_d	C095810_x_D008232	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+1	1299347	D005944	D008232	c_d	D005944_x_D008232	15	c_1_broken	8	0.0	15	0.5333333333333333	c	d					
+2	1299347	D006020	D008232	c_d	D006020_x_D008232	16	c_1_broken	14	0.0	16	0.875	c	d					
+4	1325164	5443	202200	g_d	5443_x_202200	15	gene has no relation to disease	4	0.0	15	0.26666666666666666	g	d					
+7	1325164	5443	D000224	g_d	5443_x_D000224	15	gene has no relation to disease	6	0.0	15	0.4	g	d					
+9	1325164	5443	D035583	g_d	5443_x_D035583	16	c_2_broken	7	1.0	15	0.4666666666666667	g	d					
+10	1325164	5443	D052439	g_d	5443_x_D052439	15	c_2_broken	6	1.0	14	0.42857142857142855	g	d					
+13	1659963	5443	C536928	g_d	5443_x_C536928	15	c_2_broken	12	1.0	14	0.8571428571428571	g	d					
+16	1815166	6651	C536289	g_d	6651_x_C536289	15	c_1_broken	14	0.0	15	0.9333333333333332	g	d					
+18	1815166	D019793	D000544	c_d	D019793_x_D000544	16	c_1_broken	12	0.0	16	0.75	c	d					
+19	2510719	C065795	D000544	c_d	C065795_x_D000544	15	c_1_broken	12	0.0	15	0.8	c	d					
+21	2854735	D006632	223900	c_d	D006632_x_223900	18	drug relates to disease	7	1.0	17	0.4117647058823529	c	d					
+22	2854735	D006632	C536009	c_d	D006632_x_C536009	17	drug has no relation to disease	10	0.0	17	0.5882352941176471	c	d					
+23	2854735	D006632	D003680	c_d	D006632_x_D003680	15	drug has no relation to disease	7	0.0	15	0.4666666666666667	c	d					
+24	2854735	D006632	D005334	c_d	D006632_x_D005334	15	drug has no relation to disease	7	0.0	15	0.4666666666666667	c	d					
+25	2854735	D006632	D007239	c_d	D006632_x_D007239	15	drug has no relation to disease	10	0.0	15	0.6666666666666666	c	d					
+26	2854735	D006632	D009123	c_d	D006632_x_D009123	15	drug has no relation to disease	7	1.0	14	0.5	c	d					
+27	2854735	D016210	223900	c_d	D016210_x_223900	18	c_1_broken	8	0.0	18	0.4444444444444444	c	d					
+28	2854735	D016210	C536009	c_d	D016210_x_C536009	15	drug has no relation to disease	9	1.0	14	0.6428571428571429	c	d					
+29	2854735	D016210	D003680	c_d	D016210_x_D003680	15	drug has no relation to disease	11	1.0	14	0.7857142857142857	c	d					
+30	2854735	D016210	D005166	c_d	D016210_x_D005166	15	drug has no relation to disease	10	1.0	14	0.7142857142857143	c	d					
+31	2854735	D016210	D005334	c_d	D016210_x_D005334	15	drug has no relation to disease	10	1.0	14	0.7142857142857143	c	d					
+33	2854735	D016210	D009123	c_d	D016210_x_D009123	15	drug has no relation to disease	8	0.0	15	0.5333333333333333	c	d					
+34	2854735	D016210	D017696	c_d	D016210_x_D017696	15	drug has no relation to disease	9	0.0	15	0.6	c	d					
+37	3305576	C012036	C564417	c_d	C012036_x_C564417	15	c_1_broken	12	0.0	15	0.8	c	d					
+38	3305576	C019358	C564417	c_d	C019358_x_C564417	15	c_1_broken	12	0.0	15	0.8	c	d					
+39	3305576	D006493	C564417	c_d	D006493_x_C564417	16	c_1_broken	10	0.0	16	0.625	c	d					
+40	3305576	D007531	C564417	c_d	D007531_x_C564417	15	c_1_broken	9	0.0	15	0.6	c	d					
+41	3305576	D013395	C564417	c_d	D013395_x_C564417	15	c_1_broken	12	0.0	15	0.8	c	d					
+42	3305576	D013481	C564417	c_d	D013481_x_C564417	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+43	3652558	353	202200	g_d	353_x_202200	16	c_1_broken	11	0.0	16	0.6875	g	d					
+44	3652558	353	D004941	g_d	353_x_D004941	15	c_1_broken	8	0.0	15	0.5333333333333333	g	d					
+45	3652558	D000242	D004941	c_d	D000242_x_D004941	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+46	4075537	5443	C562827	g_d	5443_x_C562827	15	gene relates to disease	8	0.0	15	0.5333333333333333	g	d					
+47	4075537	5443	C564577	g_d	5443_x_C564577	15	gene relates to disease	4	0.0	15	0.26666666666666666	g	d					
+48	4075537	5443	D004194	g_d	5443_x_D004194	16	c_1_broken	7	0.0	16	0.4375	g	d					
+50	4075537	5443	D004938	g_d	5443_x_D004938	15	c_2_broken	11	0.0	15	0.7333333333333333	g	d					
+51	4075537	5443	D009410	g_d	5443_x_D009410	15	c_1_broken	5	0.0	15	0.3333333333333333	g	d					
+52	4075537	5443	D051437	g_d	5443_x_D051437	15	gene relates to disease	6	0.0	15	0.4	g	d					
+53	4075537	5443	D056587	g_d	5443_x_D056587	15	gene relates to disease	5	1.0	14	0.35714285714285715	g	d					
+54	7496135	C013059	D018981	c_d	C013059_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+55	7496135	D007501	D000437	c_d	D007501_x_D000437	15	c_1_broken	12	0.0	15	0.8	c	d					
+56	7831797	D005047	D007239	c_d	D005047_x_D007239	15	c_1_broken	12	0.0	15	0.8	c	d					
+60	8006362	C031345	D000326	c_d	C031345_x_D000326	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+62	8006362	D010831	D000326	c_d	D010831_x_D000326	15	c_1_broken	12	0.0	15	0.8	c	d					
+64	8046350	D002241	D001168	c_d	D002241_x_D001168	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+65	8253654	5443	202200	g_d	5443_x_202200	16	c_1_broken	6	0.0	16	0.375	g	d					
+68	8333772	7974	202200	g_d	7974_x_202200	15	c_1_broken	13	0.0	15	0.8666666666666667	g	d					
+69	8740696	D019793	C536009	c_d	D019793_x_C536009	15	c_1_broken	5	0.0	15	0.3333333333333333	c	d					
+70	8740696	D019793	C562827	c_d	D019793_x_C562827	15	c_1_broken	6	0.0	15	0.4	c	d					
+71	8740696	D019793	C566307	c_d	D019793_x_C566307	15	c_1_broken	7	0.0	15	0.4666666666666667	c	d					
+72	8740696	D019793	D007634	c_d	D019793_x_D007634	18	c_1_broken	11	0.0	18	0.6111111111111112	c	d					
+73	8743578	C069126	C535752	c_d	C069126_x_C535752	15	c_1_broken	12	0.0	15	0.8	c	d					
+74	8743578	C116406	C535752	c_d	C116406_x_C535752	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+75	8743578	D002241	C535752	c_d	D002241_x_C535752	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+76	8812498	D002241	C535752	c_d	D002241_x_C535752	15	c_1_broken	12	0.0	15	0.8	c	d					
+77	8924656	7974	202200	g_d	7974_x_202200	15	c_1_broken	14	1.0	14	1.0	g	d					
+78	8981095	C057651	C535752	c_d	C057651_x_C535752	16	c_1_broken	14	0.0	16	0.875	c	d					
+79	8981095	C103998	C535752	c_d	C103998_x_C535752	15	c_1_broken	12	0.0	15	0.8	c	d					
+80	8981095	D002241	C535752	c_d	D002241_x_C535752	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+81	8981095	D009844	C535752	c_d	D009844_x_C535752	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+82	9579803	C000458	C535752	c_d	C000458_x_C535752	15	c_1_broken	15	0.0	15	1.0	c	d					
+83	9579803	C057651	C535752	c_d	C057651_x_C535752	15	c_1_broken	15	0.0	15	1.0	c	d					
+84	9621534	59330	C536008	g_d	59330_x_C536008	15	c_1_broken	8	0.0	15	0.5333333333333333	g	d					
+85	9621534	59330	C536009	g_d	59330_x_C536009	15	gene has no relation to disease	8	1.0	14	0.5714285714285714	g	d					
+86	9621534	59330	D001750	g_d	59330_x_D001750	49	gene has no relation to disease	28	0.0	49	0.5714285714285714	g	d					
+87	9621534	59330	D004931	g_d	59330_x_D004931	15	gene has no relation to disease	5	1.0	14	0.35714285714285715	g	d					
+88	9621534	59330	D005764	g_d	59330_x_D005764	33	c_1_broken	17	1.0	32	0.53125	g	d					
+89	9621534	59330	D014839	g_d	59330_x_D014839	15	c_1_broken	7	0.0	15	0.4666666666666667	g	d					
+90	9710235	C032103	D001172	c_d	C032103_x_D001172	15	c_1_broken	12	0.0	15	0.8	c	d					
+94	10068747	5443	D001037	g_d	5443_x_D001037	19	gene has no relation to disease	14	0.0	19	0.7368421052631579	g	d					
+95	10068747	5443	D003680	g_d	5443_x_D003680	15	gene has no relation to disease	14	0.0	15	0.9333333333333332	g	d					
+96	10068747	5443	D003929	g_d	5443_x_D003929	16	gene has no relation to disease	14	0.0	16	0.875	g	d					
+98	10068747	5443	D009461	g_d	5443_x_D009461	15	gene has no relation to disease	13	0.0	15	0.8666666666666667	g	d					
+99	10068747	5443	D020361	g_d	5443_x_D020361	15	gene has no relation to disease	13	0.0	15	0.8666666666666667	g	d					
+100	10068747	5443	D035583	g_d	5443_x_D035583	22	c_2_broken	10	0.0	22	0.4545454545454545	g	d					
+101	10386614	D002241	C566000	c_d	D002241_x_C566000	15	c_1_broken	12	1.0	14	0.8571428571428571	c	d					
+102	10420116	D002784	D002386	c_d	D002784_x_D002386	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+103	10420116	D004376	D002386	c_d	D004376_x_D002386	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+104	10420116	D005690	D002386	c_d	D005690_x_D002386	15	c_1_broken	9	0.0	15	0.6	c	d					
+105	10420116	D005978	D002386	c_d	D005978_x_D002386	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+106	10420116	D010545	D002386	c_d	D010545_x_D002386	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+107	10420116	D014810	D002386	c_d	D014810_x_D002386	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+108	10426592	D000450	C537197	c_d	D000450_x_C537197	17	c_1_broken	12	0.0	17	0.7058823529411765	c	d					
+111	10547038	D006021	C535744	c_d	D006021_x_C535744	15	c_1_broken	14	1.0	14	1.0	c	d					
+112	10602363	C091414	D018981	c_d	C091414_x_D018981	15	c_1_broken	15	0.0	15	1.0	c	d					
+113	10602363	C493003	D018981	c_d	C493003_x_D018981	15	c_1_broken	15	0.0	15	1.0	c	d					
+115	10602363	D010710	D018981	c_d	D010710_x_D018981	17	c_1_broken	15	0.0	17	0.8823529411764706	c	d					
+116	10714761	17996	D010182	c_d	17996_x_D010182	16	c_1_broken	10	0.0	16	0.625	c	d					
+117	10714761	28925	17996	g_c	28925_x_17996	19	c_1_broken	14	1.0	18	0.7777777777777778	g	c					
+118	10858229	C047902	D004403	c_d	C047902_x_D004403	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+119	10858229	C404789	D004403	c_d	C404789_x_D004403	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+120	10858229	C405262	D004403	c_d	C405262_x_D004403	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+122	10858229	D000954	D004403	c_d	D000954_x_D004403	15	c_1_broken	12	0.0	15	0.8	c	d					
+123	10858229	D009711	D004403	c_d	D009711_x_D004403	16	c_1_broken	14	0.0	16	0.875	c	d					
+124	10858229	D017261	D004403	c_d	D017261_x_D004403	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+125	10858229	D018396	D004403	c_d	D018396_x_D004403	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+127	11018092	D013256	D007249	c_d	D013256_x_D007249	15	c_1_broken	9	0.0	15	0.6	c	d					
+128	11058895	D000949	D018981	c_d	D000949_x_D018981	15	c_1_broken	12	1.0	14	0.8571428571428571	c	d					
+129	11084394	4158	202200	g_d	4158_x_202200	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d					
+130	11084394	4158	C536008	g_d	4158_x_C536008	16	gene mutation is/may be associated with disease	8	0.0	16	0.5	g	d					
+131	11084394	4158	C536009	g_d	4158_x_C536009	15	gene mutation is/may be associated with disease	10	0.0	15	0.6666666666666666	g	d					
+132	11084394	4158	D000309	g_d	4158_x_D000309	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d					
+134	11084394	5443	202200	g_d	5443_x_202200	15	gene mutation is/may be associated with disease	7	0.0	15	0.4666666666666667	g	d					
+140	11353896	4158	202200	g_d	4158_x_202200	30	gene mutation is/may be associated with disease	26	0.0	30	0.8666666666666667	g	d					
+141	11353896	4158	C536008	g_d	4158_x_C536008	29	gene mutation is/may be associated with disease	13	0.0	29	0.4482758620689655	g	d					
+142	11353896	4158	C536009	g_d	4158_x_C536009	29	gene has no relation to disease	14	1.0	28	0.5	g	d					
+144	11353896	4158	D009422	g_d	4158_x_D009422	29	gene has no relation to disease	13	1.0	28	0.4642857142857143	g	d					
+145	11353896	4158	D020022	g_d	4158_x_D020022	26	gene mutation is/may be associated with disease	21	0.0	26	0.8076923076923077	g	d					
+146	11353896	5443	202200	g_d	5443_x_202200	34	gene mutation is/may be associated with disease	18	1.0	33	0.5454545454545454	g	d					
+152	11404002	D010710	D018981	c_d	D010710_x_D018981	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+154	11807674	D006854	C536009	c_d	D006854_x_C536009	18	drug has no relation to disease	12	2.0	16	0.75	c	d					
+155	11807674	D006854	C562827	c_d	D006854_x_C562827	17	drug has no relation to disease	9	0.0	17	0.5294117647058824	c	d					
+156	11807674	D006854	D000309	c_d	D006854_x_D000309	19	drug (may) treat(s) disease	11	2.0	17	0.6470588235294118	c	d					
+158	11807674	D006854	D014839	c_d	D006854_x_D014839	15	drug has no relation to disease	13	0.0	15	0.8666666666666667	c	d					
+159	11836161	C012877	D000742	c_d	C012877_x_D000742	15	c_1_broken	12	0.0	15	0.8	c	d					
+160	11836161	C024032	D000742	c_d	C024032_x_D000742	15	c_1_broken	12	0.0	15	0.8	c	d					
+161	11836161	C025575	D000742	c_d	C025575_x_D000742	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+162	11836161	C036363	D000742	c_d	C036363_x_D000742	16	c_1_broken	13	0.0	16	0.8125	c	d					
+164	11836161	D002241	D000742	c_d	D002241_x_D000742	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+165	11836161	D002518	D000742	c_d	D002518_x_D000742	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+166	11836161	D006021	D000742	c_d	D006021_x_D000742	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+173	11914417	8086	D009134	g_d	8086_x_D009134	21	gene mutation is/may be associated with disease	20	0.0	21	0.9523809523809524	g	d					
+176	11914417	8086	D025063	g_d	8086_x_D025063	21	gene mutation is/may be associated with disease	15	0.0	21	0.7142857142857143	g	d					
+179	11916319	D003981	D013927	c_d	D003981_x_D013927	15	drug has no relation to disease	7	0.0	15	0.4666666666666667	c	d					
+180	11916319	D003981	D018981	c_d	D003981_x_D018981	15	drug (may) treat(s) disease	8	0.0	15	0.5333333333333333	c	d					
+181	12070078	C026406	C567437	c_d	C026406_x_C567437	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+182	12070078	C050801	C567437	c_d	C050801_x_C567437	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+183	12070078	C087567	C567437	c_d	C087567_x_C567437	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+184	12070078	C120688	C567437	c_d	C120688_x_C567437	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+185	12070078	D009844	C567437	c_d	D009844_x_C567437	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+186	12070078	D010695	C567437	c_d	D010695_x_C567437	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+191	12150219	5443	D025063	g_d	5443_x_D025063	15	gene relates to disease	7	0.0	15	0.4666666666666667	g	d					
+192	12164788	C112685	D003550	c_d	C112685_x_D003550	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+193	12164788	D000596	D003550	c_d	D000596_x_D003550	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+194	12164788	D002712	D003550	c_d	D002712_x_D003550	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+195	12164788	D005643	D003550	c_d	D005643_x_D003550	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+196	12164788	D009844	D003550	c_d	D009844_x_D003550	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+197	12185357	1896	D009422	g_d	1896_x_D009422	15	c_1_broken	10	0.0	15	0.6666666666666666	g	d					
+198	12413857	C047217	C567437	c_d	C047217_x_C567437	15	drug (may) treat(s) disease	7	0.0	15	0.4666666666666667	c	d					
+199	12413857	D000949	C567437	c_d	D000949_x_C567437	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+200	12413857	D010710	C567437	c_d	D010710_x_C567437	16	c_1_broken	11	0.0	16	0.6875	c	d					
+201	12429595	8086	607088	g_d	8086_x_607088	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d					
+207	12429595	8086	D002869	g_d	8086_x_D002869	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d					
+208	12429595	8086	D003389	g_d	8086_x_D003389	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d					
+209	12429595	8086	D003929	g_d	8086_x_D003929	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d					
+213	12429595	8086	D009896	g_d	8086_x_D009896	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d					
+217	12530689	5443	D000310	g_d	5443_x_D000310	15	gene relates to disease	9	0.0	15	0.6	g	d					
+219	12530689	5443	D025063	g_d	5443_x_D025063	15	gene relates to disease	10	0.0	15	0.6666666666666666	g	d					
+225	12530689	8086	D006527	g_d	8086_x_D006527	20	c_2_broken	17	0.0	20	0.85	g	d					
+226	12530689	8086	D025063	g_d	8086_x_D025063	20	gene mutation is/may be associated with disease	15	0.0	20	0.75	g	d					
+231	12548737	8086	D002873	g_d	8086_x_D002873	15	gene mutation is/may be associated with disease	5	0.0	15	0.3333333333333333	g	d					
+233	12548737	8086	D009386	g_d	8086_x_D009386	17	c_2_broken	8	0.0	17	0.4705882352941176	g	d					
+234	12548737	8086	D025063	g_d	8086_x_D025063	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d					
+236	12717251	7345	C536008	g_d	7345_x_C536008	15	c_1_broken	7	0.0	15	0.4666666666666667	g	d					
+237	12717251	7345	C537394	g_d	7345_x_C537394	15	gene relates to disease	5	0.0	15	0.3333333333333333	g	d					
+238	12717251	7345	C562827	g_d	7345_x_C562827	15	gene relates to disease	10	0.0	15	0.6666666666666666	g	d					
+239	12717251	7345	D004931	g_d	7345_x_D004931	15	gene relates to disease	9	0.0	15	0.6	g	d					
+240	12717251	7345	D004938	g_d	7345_x_D004938	15	gene relates to disease	7	0.0	15	0.4666666666666667	g	d					
+241	12717251	7345	D005355	g_d	7345_x_D005355	15	c_1_broken	6	0.0	15	0.4	g	d					
+242	12717251	7345	D025063	g_d	7345_x_D025063	15	gene relates to disease	10	0.0	15	0.6666666666666666	g	d					
+243	12717251	7345	D030342	g_d	7345_x_D030342	15	gene relates to disease	10	0.0	15	0.6666666666666666	g	d					
+245	12717251	8086	C537394	g_d	8086_x_C537394	17	c_2_broken	15	1.0	16	0.9375	g	d					
+248	12717251	8086	D004938	g_d	8086_x_D004938	16	gene mutation is/may be associated with disease	11	0.0	16	0.6875	g	d					
+249	12717251	8086	D005355	g_d	8086_x_D005355	16	gene mutation is/may be associated with disease	7	0.0	16	0.4375	g	d					
+250	12717251	8086	D025063	g_d	8086_x_D025063	16	gene mutation is/may be associated with disease	13	0.0	16	0.8125	g	d					
+255	12793312	5443	D001342	g_d	5443_x_D001342	15	gene relates to disease	10	1.0	14	0.7142857142857143	g	d					
+259	12882516	C013059	D000544	c_d	C013059_x_D000544	15	c_1_broken	9	0.0	15	0.6	c	d					
+260	12882516	C014088	D000544	c_d	C014088_x_D000544	16	c_1_broken	7	0.0	16	0.4375	c	d					
+261	12882516	C047902	D000544	c_d	C047902_x_D000544	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+262	12882516	C061951	D000544	c_d	C061951_x_D000544	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+266	12882516	D010710	D000544	c_d	D010710_x_D000544	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+267	12882516	D014530	D000544	c_d	D014530_x_D000544	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+268	12911634	C402931	D000544	c_d	C402931_x_D000544	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+269	12932858	C023888	D010300	c_d	C023888_x_D010300	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+270	12947384	D001897	D009369	c_d	D001897_x_D009369	15	drug (may) treat(s) disease	8	0.0	15	0.5333333333333333	c	d					
+276	14646395	8086	D008607	g_d	8086_x_D008607	24	gene mutation is/may be associated with disease	16	1.0	23	0.6956521739130435	g	d					
+277	14646395	8086	D009386	g_d	8086_x_D009386	16	gene mutation is/may be associated with disease	9	0.0	16	0.5625	g	d					
+279	15133511	D002118	D008659	c_d	D002118_x_D008659	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+280	15194565	D009844	D005355	c_d	D009844_x_D005355	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+281	15589762	C039522	D018981	c_d	C039522_x_D018981	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+283	15589762	D006020	D018981	c_d	D006020_x_D018981	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+286	15623514	D002118	D016506	c_d	D002118_x_D016506	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+288	15680696	300259	C536009	g_d	300259_x_C536009	15	gene mutation is/may be associated with disease	15	0.0	15	1.0	g	d					
+289	15680696	300259	D000309	g_d	300259_x_D000309	16	gene mutation is/may be associated with disease	16	0.0	16	1.0	g	d					
+290	15680696	300259	D000324	g_c	300259_x_D000324	15	c_2_broken	9	0.0	15	0.6	g	c					
+291	15680696	D000324	D000309	c_d	D000324_x_D000309	16	c_1_broken	11	0.0	16	0.6875	c	d					
+292	15761720	D013311	D008223	c_d	D013311_x_D008223	15	drug has no relation to disease	5	0.0	15	0.3333333333333333	c	d					
+293	15804603	C026406	C567437	c_d	C026406_x_C567437	15	c_1_broken	12	0.0	15	0.8	c	d					
+294	15804603	C050801	C567437	c_d	C050801_x_C567437	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+295	15804603	C066723	C567437	c_d	C066723_x_C567437	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+296	15804603	C077052	C567437	c_d	C077052_x_C567437	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+297	15804603	C120688	C567437	c_d	C120688_x_C567437	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+298	15804603	C549769	C567437	c_d	C549769_x_C567437	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+299	15804603	D005944	C567437	c_d	D005944_x_C567437	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+300	15804603	D009844	C567437	c_d	D009844_x_C567437	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+301	15804603	D015057	C567437	c_d	D015057_x_C567437	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+302	16001505	D000588	D004342	c_d	D000588_x_D004342	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+303	16001505	D009844	D004342	c_d	D009844_x_D004342	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+304	16001505	D018396	D004342	c_d	D018396_x_D004342	15	c_1_broken	9	0.0	15	0.6	c	d					
+305	16098009	8086	256600	g_d	8086_x_256600	15	gene mutation is/may be associated with disease	12	1.0	14	0.8571428571428571	g	d					
+311	16098009	8086	D009135	g_d	8086_x_D009135	15	gene mutation is/may be associated with disease	12	1.0	14	0.8571428571428571	g	d					
+313	16098009	8086	D020361	g_d	8086_x_D020361	15	gene mutation is/may be associated with disease	12	1.0	14	0.8571428571428571	g	d					
+314	16197535	5443	D014355	g_d	5443_x_D014355	15	gene has no relation to disease	10	0.0	15	0.6666666666666666	g	d					
+315	16197535	5443	D019578	g_d	5443_x_D019578	18	gene relates to disease	7	0.0	18	0.3888888888888889	g	d					
+320	16264411	8086	D003929	g_d	8086_x_D003929	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d					
+321	16264411	8086	D004827	g_d	8086_x_D004827	16	gene mutation is/may be associated with disease	12	0.0	16	0.75	g	d					
+324	16264411	8086	D014832	g_d	8086_x_D014832	17	gene mutation is/may be associated with disease	15	0.0	17	0.8823529411764706	g	d					
+325	16264411	8086	D018268	g_d	8086_x_D018268	18	c_2_broken	13	0.0	18	0.7222222222222222	g	d					
+326	16264411	8086	D020734	g_d	8086_x_D020734	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d					
+328	16274825	C047712	D008288	c_d	C047712_x_D008288	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+329	16315367	C047192	D018979	c_d	C047192_x_D018979	15	c_1_broken	12	1.0	14	0.8571428571428571	c	d					
+330	16317064	C012877	D018981	c_d	C012877_x_D018981	15	c_1_broken	15	0.0	15	1.0	c	d					
+331	16317064	C050801	D018981	c_d	C050801_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+332	16317064	D007455	D018981	c_d	D007455_x_D018981	15	c_1_broken	15	0.0	15	1.0	c	d					
+333	16317064	D009844	D018981	c_d	D009844_x_D018981	15	c_1_broken	13	1.0	14	0.9285714285714286	c	d					
+334	16372276	D000596	D018981	c_d	D000596_x_D018981	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+335	16372276	D010710	D018981	c_d	D010710_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+336	16510524	D005033	D018981	c_d	D005033_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+337	16510524	D020126	D018981	c_d	D020126_x_D018981	16	c_1_broken	7	0.0	16	0.4375	c	d					
+339	16528113	351	D009135	g_d	351_x_D009135	21	c_1_broken	10	1.0	20	0.5	g	d					
+340	16609705	8086	613385	g_d	8086_x_613385	15	gene mutation is/may be associated with disease	10	0.0	15	0.6666666666666666	g	d					
+343	16609705	8086	C537301	g_d	8086_x_C537301	15	gene mutation is/may be associated with disease	9	0.0	15	0.6	g	d					
+346	16609705	8086	D006527	g_d	8086_x_D006527	15	c_2_broken	12	0.0	15	0.8	g	d					
+348	16714295	C014088	D019636	c_d	C014088_x_D019636	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+349	16915903	D015242	C536009	c_d	D015242_x_C536009	18	drug (may) treat(s) disease	11	1.0	17	0.6470588235294118	c	d					
+350	16915903	D015242	C566307	c_d	D015242_x_C566307	15	drug (may) treat(s) disease	12	0.0	15	0.8	c	d					
+351	16915903	D015242	D003318	c_d	D015242_x_D003318	18	drug (may) treat(s) disease	11	2.0	16	0.6875	c	d					
+354	16937455	5443	D005530	g_d	5443_x_D005530	15	c_2_broken	9	0.0	15	0.6	g	d					
+355	16937455	5443	D007501	g_c	5443_x_D007501	17	gene has no relation to drug	5	1.0	16	0.3125	g	c					
+356	16937455	D007501	D007645	c_d	D007501_x_D007645	16	drug has no relation to disease	7	0.0	16	0.4375	c	d					
+359	16938764	8086	D000303	g_d	8086_x_D000303	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d					
+362	16938764	8086	D004402	g_d	8086_x_D004402	15	gene has no relation to disease	9	0.0	15	0.6	g	d					
+364	16938764	8086	D008107	g_d	8086_x_D008107	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d					
+369	16964526	D014614	D001927	c_d	D014614_x_D001927	15	c_1_broken	12	0.0	15	0.8	c	d					
+370	16964526	D015032	D001927	c_d	D015032_x_D001927	15	c_1_broken	7	0.0	15	0.4666666666666667	c	d					
+376	16970037	8086	D009133	g_d	8086_x_D009133	25	gene mutation is/may be associated with disease	21	1.0	24	0.875	g	d					
+377	16970037	8086	D009386	g_d	8086_x_D009386	15	c_2_broken	9	0.0	15	0.6	g	d					
+381	16970037	8086	D018754	g_d	8086_x_D018754	25	gene mutation is/may be associated with disease	19	1.0	24	0.7916666666666666	g	d					
+383	16970037	8086	D020361	g_d	8086_x_D020361	27	gene mutation is/may be associated with disease	21	0.0	27	0.7777777777777778	g	d					
+384	16970037	8086	D025063	g_d	8086_x_D025063	25	gene mutation is/may be associated with disease	17	1.0	24	0.7083333333333334	g	d					
+386	16980445	D000431	D012769	c_d	D000431_x_D012769	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+387	16980445	D006861	D012769	c_d	D006861_x_D012769	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+388	16980445	D012965	D012769	c_d	D012965_x_D012769	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+389	16980445	D013395	D012769	c_d	D013395_x_D012769	16	c_1_broken	14	0.0	16	0.875	c	d					
+391	17049852	C013059	D018981	c_d	C013059_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+393	17049852	C119435	D018981	c_d	C119435_x_D018981	15	c_1_broken	7	0.0	15	0.4666666666666667	c	d					
+394	17049852	D000949	D018981	c_d	D000949_x_D018981	15	c_1_broken	12	0.0	15	0.8	c	d					
+395	17049852	D010710	D018981	c_d	D010710_x_D018981	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+396	17197096	C013059	D018981	c_d	C013059_x_D018981	15	c_1_broken	12	0.0	15	0.8	c	d					
+397	17197096	C039522	D018981	c_d	C039522_x_D018981	15	c_1_broken	12	0.0	15	0.8	c	d					
+398	17197096	D009844	D018981	c_d	D009844_x_D018981	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+400	17255094	C027576	D000544	c_d	C027576_x_D000544	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+403	17520685	C012877	D018981	c_d	C012877_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+404	17523137	C018824	D018981	c_d	C018824_x_D018981	16	c_1_broken	16	0.0	16	1.0	c	d					
+407	17523137	C068126	D018981	c_d	C068126_x_D018981	15	c_1_broken	15	0.0	15	1.0	c	d					
+408	17523137	C078798	D018981	c_d	C078798_x_D018981	15	c_1_broken	15	0.0	15	1.0	c	d					
+411	17716641	C077052	D018981	c_d	C077052_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+412	17716641	D009844	D018981	c_d	D009844_x_D018981	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+413	17853535	D004298	D010300	c_d	D004298_x_D010300	15	c_1_broken	8	0.0	15	0.5333333333333333	c	d					
+414	17880786	5443	202200	g_d	5443_x_202200	15	c_1_broken	6	0.0	15	0.4	g	d					
+416	17880786	8086	202200	g_d	8086_x_202200	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d					
+422	17880786	8086	D015161	g_d	8086_x_D015161	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d					
+423	17880786	8086	D025063	g_d	8086_x_D025063	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d					
+429	17911039	8086	D009386	g_d	8086_x_D009386	15	gene mutation is/may be associated with disease	8	0.0	15	0.5333333333333333	g	d					
+430	17911039	8086	D025063	g_d	8086_x_D025063	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d					
+432	17986439	D009844	D011471	c_d	D009844_x_D011471	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+433	18171607	C060487	D002908	c_d	C060487_x_D002908	15	c_1_broken	12	0.0	15	0.8	c	d					
+434	18171607	C545158	D002908	c_d	C545158_x_D002908	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+435	18171607	D015032	D002908	c_d	D015032_x_D002908	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+436	18172684	16414	D000309	c_d	16414_x_D000309	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+437	18172684	8086	16414	g_c	8086_x_16414	16	c_2_broken	12	0.0	16	0.75	g	c					
+442	18172684	8086	D025063	g_d	8086_x_D025063	16	gene mutation is/may be associated with disease	15	0.0	16	0.9375	g	d					
+448	18175081	8086	D001480	g_d	8086_x_D001480	17	gene has no relation to disease	11	0.0	17	0.6470588235294118	g	d					
+449	18175081	8086	D003680	g_d	8086_x_D003680	17	gene has no relation to disease	8	0.0	17	0.4705882352941176	g	d					
+453	18175081	8086	D009896	g_d	8086_x_D009896	17	gene mutation is/may be associated with disease	10	0.0	17	0.5882352941176471	g	d					
+454	18175081	8086	D015417	g_d	8086_x_D015417	17	gene mutation is/may be associated with disease	8	0.0	17	0.4705882352941176	g	d					
+455	18175081	8086	D016472	g_d	8086_x_D016472	16	gene has no relation to disease	9	0.0	16	0.5625	g	d					
+456	18175081	8086	D025063	g_d	8086_x_D025063	17	gene mutation is/may be associated with disease	12	0.0	17	0.7058823529411765	g	d					
+458	18258197	C047192	D064420	c_d	C047192_x_D064420	16	c_1_broken	16	0.0	16	1.0	c	d					
+459	18258197	D003035	D064420	c_d	D003035_x_D064420	15	c_1_broken	15	0.0	15	1.0	c	d					
+460	18269265	D000596	D018981	c_d	D000596_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+461	18269265	D005643	D018981	c_d	D005643_x_D018981	15	c_1_broken	12	0.0	15	0.8	c	d					
+462	18269265	D009844	D018981	c_d	D009844_x_D018981	15	c_1_broken	15	0.0	15	1.0	c	d					
+463	18304576	C027576	D000544	c_d	C027576_x_D000544	15	c_1_broken	8	0.0	15	0.5333333333333333	c	d					
+465	18304576	D016229	D000544	c_d	D016229_x_D000544	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+466	18579727	C084077	D012892	c_d	C084077_x_D012892	15	c_1_broken	12	0.0	15	0.8	c	d					
+467	18579727	D001729	D029424	c_d	D001729_x_D029424	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+468	18615337	8086	205100	g_d	8086_x_205100	19	gene has no relation to disease	13	0.0	19	0.6842105263157895	g	d					
+472	18615337	8086	C565957	g_d	8086_x_C565957	15	gene has no relation to disease	8	0.0	15	0.5333333333333333	g	d					
+475	18615337	8086	D009133	g_d	8086_x_D009133	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d					
+476	18615337	8086	D009134	g_d	8086_x_D009134	18	gene has no relation to disease	10	0.0	18	0.5555555555555556	g	d					
+483	18628786	8086	D010523	g_d	8086_x_D010523	16	gene mutation is/may be associated with disease	15	0.0	16	0.9375	g	d					
+484	18642944	D009844	D010051	c_d	D009844_x_D010051	15	c_1_broken	13	1.0	14	0.9285714285714286	c	d					
+486	18712764	D011134	D005633	c_d	D011134_x_D005633	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+487	18773310	D003035	D010300	c_d	D003035_x_D010300	16	c_1_broken	13	0.0	16	0.8125	c	d					
+488	18773310	D006540	D010300	c_d	D006540_x_D010300	15	c_1_broken	7	0.0	15	0.4666666666666667	c	d					
+494	19078797	8086	D000690	g_d	8086_x_D000690	15	gene mutation is/may be associated with disease	7	0.0	15	0.4666666666666667	g	d					
+496	19078797	8086	D009896	g_d	8086_x_D009896	17	gene mutation is/may be associated with disease	13	0.0	17	0.7647058823529411	g	d					
+497	19078797	8086	D025063	g_d	8086_x_D025063	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d					
+499	19101627	D006493	C535740	c_d	D006493_x_C535740	15	drug (may) treat(s) disease	13	0.0	15	0.8666666666666667	c	d					
+500	19101627	D006493	C538273	c_d	D006493_x_C538273	15	drug (may) treat(s) disease	14	0.0	15	0.9333333333333332	c	d					
+501	19101627	D006493	C566029	c_d	D006493_x_C566029	16	drug (may) treat(s) disease	12	0.0	16	0.75	c	d					
+502	19101627	D006493	D006946	c_d	D006493_x_D006946	15	drug (may) treat(s) disease	7	0.0	15	0.4666666666666667	c	d					
+503	19101627	D006493	D008107	c_d	D006493_x_D008107	15	drug (may) treat(s) disease	9	0.0	15	0.6	c	d					
+505	19114101	C014088	D058494	c_d	C014088_x_D058494	15	c_1_broken	12	0.0	15	0.8	c	d					
+506	19114101	C412896	D058494	c_d	C412896_x_D058494	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+507	19114101	D003401	D058494	c_d	D003401_x_D058494	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+509	19172509	668	C536480	g_d	668_x_C536480	24	c_1_broken	17	1.0	23	0.7391304347826086	g	d					
+510	19172511	8086	C535922	g_d	8086_x_C535922	20	gene mutation is/may be associated with disease	15	0.0	20	0.75	g	d					
+516	19172511	8086	D009384	g_d	8086_x_D009384	22	c_2_broken	12	0.0	22	0.5454545454545454	g	d					
+519	19172511	8086	D009711	g_c	8086_x_D009711	21	c_2_broken	16	0.0	21	0.7619047619047619	g	c					
+520	19172511	8086	D009896	g_d	8086_x_D009896	21	gene mutation is/may be associated with disease	18	1.0	20	0.9	g	d					
+521	19172511	8086	D020734	g_d	8086_x_D020734	21	gene mutation is/may be associated with disease	14	1.0	20	0.7	g	d					
+522	19172511	D009711	D009384	c_d	D009711_x_D009384	16	c_1_broken	10	0.0	16	0.625	c	d					
+523	19251655	C047902	D006069	c_d	C047902_x_D006069	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+524	19251655	C061951	D006069	c_d	C061951_x_D006069	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+525	19251655	D000596	D006069	c_d	D000596_x_D006069	15	c_1_broken	12	0.0	15	0.8	c	d					
+527	19322026	8086	D006527	g_d	8086_x_D006527	18	c_2_broken	13	2.0	16	0.8125	g	d					
+528	19322026	8086	D010900	g_d	8086_x_D010900	15	c_2_broken	11	2.0	13	0.8461538461538461	g	d					
+529	19322026	8086	D020022	g_d	8086_x_D020022	15	gene mutation is/may be associated with disease	9	2.0	13	0.6923076923076923	g	d					
+531	19346129	D000109	D002493	c_d	D000109_x_D002493	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+533	19583945	D005947	D003920	c_d	D005947_x_D003920	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+535	19608465	C519074	D018981	c_d	C519074_x_D018981	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+536	19608465	C519691	D018981	c_d	C519691_x_D018981	15	c_1_broken	12	0.0	15	0.8	c	d					
+537	19651599	C509690	D018981	c_d	C509690_x_D018981	15	c_1_broken	12	0.0	15	0.8	c	d					
+538	19729382	C013059	C567437	c_d	C013059_x_C567437	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+539	19880638	D007501	D064420	c_d	D007501_x_D064420	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+540	19996411	C016467	D010538	c_d	C016467_x_D010538	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+541	19996411	C032233	D010538	c_d	C032233_x_D010538	15	c_1_broken	15	0.0	15	1.0	c	d					
+542	19996411	D013864	D010538	c_d	D013864_x_D010538	15	c_1_broken	12	0.0	15	0.8	c	d					
+545	20051279	5443	D003929	g_d	5443_x_D003929	15	gene has no relation to disease	5	0.0	15	0.3333333333333333	g	d					
+547	20051279	5443	D020361	g_d	5443_x_D020361	15	gene mutation is/may be associated with disease	5	0.0	15	0.3333333333333333	g	d					
+550	20051279	8086	C537301	g_d	8086_x_C537301	16	gene mutation is/may be associated with disease	11	0.0	16	0.6875	g	d					
+552	20051279	8086	D003929	g_d	8086_x_D003929	16	gene mutation is/may be associated with disease	11	1.0	15	0.7333333333333333	g	d					
+554	20051279	8086	D020361	g_d	8086_x_D020361	16	gene mutation is/may be associated with disease	13	1.0	15	0.8666666666666667	g	d					
+555	20051279	8086	D025063	g_d	8086_x_D025063	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d					
+556	20186922	C498978	D019636	c_d	C498978_x_D019636	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+557	20186922	C544092	D019636	c_d	C544092_x_D019636	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+558	20186922	D010100	D019636	c_d	D010100_x_D019636	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+563	20200814	5443	D020361	g_d	5443_x_D020361	15	gene has no relation to disease	7	0.0	15	0.4666666666666667	g	d					
+564	20200814	5443	D025063	g_d	5443_x_D025063	15	gene mutation is/may be associated with disease	5	0.0	15	0.3333333333333333	g	d					
+567	20200814	8086	C538339	g_d	8086_x_C538339	15	c_2_broken	14	0.0	15	0.9333333333333332	g	d					
+572	20200814	8086	D020361	g_d	8086_x_D020361	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d					
+573	20200814	8086	D025063	g_d	8086_x_D025063	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d					
+574	20447614	4072	613217	g_d	4072_x_613217	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d					
+575	20447614	4072	C536009	g_d	4072_x_C536009	15	gene has no relation to disease	7	0.0	15	0.4666666666666667	g	d					
+576	20447614	4072	C537470	g_d	4072_x_C537470	15	gene has no relation to disease	8	0.0	15	0.5333333333333333	g	d					
+577	20447614	4072	C562827	g_d	4072_x_C562827	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d					
+580	20447614	4072	D003231	g_d	4072_x_D003231	15	gene mutation is/may be associated with disease	9	0.0	15	0.6	g	d					
+581	20447614	4072	D003967	g_d	4072_x_D003967	22	gene mutation is/may be associated with disease	17	0.0	22	0.7727272727272727	g	d					
+582	20447614	4072	D005355	g_d	4072_x_D005355	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d					
+583	20447614	4072	D005767	g_d	4072_x_D005767	15	gene mutation is/may be associated with disease	8	0.0	15	0.5333333333333333	g	d					
+584	20447614	4072	D006940	g_d	4072_x_D006940	15	gene mutation is/may be associated with disease	8	0.0	15	0.5333333333333333	g	d					
+585	20447614	4072	D006965	g_d	4072_x_D006965	15	gene mutation is/may be associated with disease	6	0.0	15	0.4	g	d					
+586	20447614	4072	D007634	g_d	4072_x_D007634	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d					
+587	20447614	4072	D010241	g_d	4072_x_D010241	15	gene has no relation to disease	8	0.0	15	0.5333333333333333	g	d					
+588	20499090	5443	256600	g_d	5443_x_256600	15	gene mutation is/may be associated with disease	6	0.0	15	0.4	g	d					
+590	20499090	5443	D013958	g_d	5443_x_D013958	17	c_1_broken	6	0.0	17	0.35294117647058826	g	d					
+591	20499090	5443	D020361	g_d	5443_x_D020361	15	gene has no relation to disease	5	0.0	15	0.3333333333333333	g	d					
+592	20499090	8086	256600	g_d	8086_x_256600	16	gene mutation is/may be associated with disease	13	0.0	16	0.8125	g	d					
+597	20499090	8086	D013958	g_d	8086_x_D013958	16	gene mutation is/may be associated with disease	13	0.0	16	0.8125	g	d					
+598	20499090	8086	D020361	g_d	8086_x_D020361	16	gene mutation is/may be associated with disease	15	0.0	16	0.9375	g	d					
+599	20499090	8086	D025063	g_d	8086_x_D025063	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d					
+600	20499090	8086	D054990	g_d	8086_x_D054990	15	c_2_broken	14	0.0	15	0.9333333333333332	g	d					
+601	20523973	D012964	D018981	c_d	D012964_x_D018981	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+602	20631728	C013059	D012878	c_d	C013059_x_D012878	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+603	20631728	C443716	D012878	c_d	C443716_x_D012878	16	c_1_broken	13	0.0	16	0.8125	c	d					
+604	20631728	D051183	D012878	c_d	D051183_x_D012878	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+605	20926387	D006150	D012769	c_d	D006150_x_D012769	15	c_1_broken	12	0.0	15	0.8	c	d					
+609	20931227	8086	C537050	g_d	8086_x_C537050	16	gene mutation is/may be associated with disease	15	0.0	16	0.9375	g	d					
+614	20931227	8086	D002607	g_d	8086_x_D002607	15	gene has no relation to disease	13	0.0	15	0.8666666666666667	g	d					
+615	20931227	8086	D002658	g_d	8086_x_D002658	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d					
+616	20931227	8086	D003711	g_d	8086_x_D003711	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d					
+617	20931227	8086	D009386	g_d	8086_x_D009386	15	c_2_broken	7	0.0	15	0.4666666666666667	g	d					
+620	20931227	8086	D011115	g_d	8086_x_D011115	16	gene has no relation to disease	12	0.0	16	0.75	g	d					
+622	20931227	8086	D013958	g_d	8086_x_D013958	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d					
+623	20931227	8086	D020233	g_d	8086_x_D020233	16	gene mutation is/may be associated with disease	12	0.0	16	0.75	g	d					
+624	20931227	8086	D048089	g_d	8086_x_D048089	15	gene mutation is/may be associated with disease	10	0.0	15	0.6666666666666666	g	d					
+625	20938724	C057651	D052016	c_d	C057651_x_D052016	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+627	21029306	C034856	D003920	c_d	C034856_x_D003920	15	c_1_broken	12	0.0	15	0.8	c	d					
+629	21074897	C059514	D009410	c_d	C059514_x_D009410	16	drug (may) prevent(s) disease	11	1.0	15	0.7333333333333333	c	d					
+630	21074897	C059514	D017096	c_d	C059514_x_D017096	15	drug (may) treat(s) disease	10	0.0	15	0.6666666666666666	c	d					
+631	21074897	C077829	D009410	c_d	C077829_x_D009410	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+632	21074897	C077829	D017096	c_d	C077829_x_D017096	15	c_1_broken	8	1.0	14	0.5714285714285714	c	d					
+633	21315133	C002968	D018981	c_d	C002968_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+634	21315133	C013059	D018981	c_d	C013059_x_D018981	15	c_1_broken	15	0.0	15	1.0	c	d					
+635	21315133	C018439	D018981	c_d	C018439_x_D018981	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+636	21315133	C038433	D018981	c_d	C038433_x_D018981	15	c_1_broken	15	0.0	15	1.0	c	d					
+637	21315133	D004286	D018981	c_d	D004286_x_D018981	15	c_1_broken	15	0.0	15	1.0	c	d					
+638	21315133	D009844	D018981	c_d	D009844_x_D018981	15	c_1_broken	15	0.0	15	1.0	c	d					
+639	21460210	C457213	D058494	c_d	C457213_x_D058494	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+640	21494549	C046669	D003920	c_d	C046669_x_D003920	16	c_1_broken	13	0.0	16	0.8125	c	d					
+641	21494549	C097320	D003920	c_d	C097320_x_D003920	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+642	21494549	D000117	D003920	c_d	D000117_x_D003920	15	c_1_broken	8	0.0	15	0.5333333333333333	c	d					
+643	21494549	D005944	D003920	c_d	D005944_x_D003920	15	drug (may) exacerbate(s) disease	5	0.0	15	0.3333333333333333	c	d					
+644	21494549	D005947	D003920	c_d	D005947_x_D003920	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+645	21494549	D006595	D003920	c_d	D006595_x_D003920	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+646	21494549	D014530	D003920	c_d	D014530_x_D003920	15	c_1_broken	9	0.0	15	0.6	c	d					
+648	21494549	D019344	D003920	c_d	D019344_x_D003920	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+654	21565631	8086	D020022	g_d	8086_x_D020022	15	gene mutation is/may be associated with disease	11	1.0	14	0.7857142857142857	g	d					
+655	21565631	8086	D025063	g_d	8086_x_D025063	15	gene mutation is/may be associated with disease	12	1.0	14	0.8571428571428571	g	d					
+657	21615270	C000593135	D019636	c_d	C000593135_x_D019636	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+658	21615270	D005978	D012735	c_d	D005978_x_D012735	15	c_2_broken	7	0.0	15	0.4666666666666667	c	d					
+659	21615270	D005978	D019636	c_d	D005978_x_D019636	15	c_1_broken	6	0.0	15	0.4	c	d					
+663	21656342	8086	260300	g_d	8086_x_260300	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d					
+666	21656342	8086	C538104	g_d	8086_x_C538104	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d					
+669	21656342	8086	D002526	g_d	8086_x_D002526	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d					
+670	21656342	8086	D003072	g_d	8086_x_D003072	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d					
+671	21656342	8086	D004194	g_d	8086_x_D004194	15	gene mutation is/may be associated with disease	14	1.0	14	1.0	g	d					
+672	21656342	8086	D004700	g_d	8086_x_D004700	16	c_2_broken	6	1.0	15	0.4	g	d					
+674	21656342	8086	D004941	g_d	8086_x_D004941	16	gene mutation is/may be associated with disease	16	0.0	16	1.0	g	d					
+676	21656342	8086	D010523	g_d	8086_x_D010523	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d					
+684	21686524	8086	D005221	g_d	8086_x_D005221	15	gene mutation is/may be associated with disease	8	0.0	15	0.5333333333333333	g	d					
+685	21686524	8086	D017495	g_d	8086_x_D017495	15	gene mutation is/may be associated with disease	9	1.0	14	0.6428571428571429	g	d					
+686	21686524	8086	D018382	g_d	8086_x_D018382	15	gene mutation is/may be associated with disease	14	1.0	14	1.0	g	d					
+689	21732316	C014088	D000544	c_d	C014088_x_D000544	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+690	21737679	C027693	D007239	c_d	C027693_x_D007239	15	c_1_broken	12	0.0	15	0.8	c	d					
+691	21737679	C107241	D007239	c_d	C107241_x_D007239	16	c_1_broken	14	0.0	16	0.875	c	d					
+693	21737679	D009844	D007239	c_d	D009844_x_D007239	15	c_1_broken	12	0.0	15	0.8	c	d					
+694	21737679	D010695	D007239	c_d	D010695_x_D007239	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+695	21739997	D011188	C531617	c_d	D011188_x_C531617	16	c_1_broken	13	0.0	16	0.8125	c	d					
+696	21739997	D013481	C565957	c_d	D013481_x_C565957	15	c_1_broken	12	0.0	15	0.8	c	d					
+700	21744492	8086	C563939	g_d	8086_x_C563939	15	gene mutation is/may be associated with disease	6	0.0	15	0.4	g	d					
+701	21744492	8086	C564052	g_d	8086_x_C564052	15	c_2_broken	8	0.0	15	0.5333333333333333	g	d					
+702	21744492	8086	D003072	g_d	8086_x_D003072	15	gene mutation is/may be associated with disease	6	0.0	15	0.4	g	d					
+704	21744492	8086	D008607	g_d	8086_x_D008607	15	gene has no relation to disease	10	1.0	14	0.7142857142857143	g	d					
+705	21744492	8086	D020361	g_d	8086_x_D020361	15	gene has no relation to disease	7	1.0	14	0.5	g	d					
+706	21744492	8086	D038901	g_d	8086_x_D038901	15	gene has no relation to disease	8	1.0	14	0.5714285714285714	g	d					
+707	21744492	8086	D060825	g_d	8086_x_D060825	15	gene has no relation to disease	6	1.0	14	0.42857142857142855	g	d					
+708	21804002	C049714	D014406	c_d	C049714_x_D014406	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+709	21804002	C075238	D014406	c_d	C075238_x_D014406	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+710	21804002	D009844	D014406	c_d	D009844_x_D014406	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+711	21804002	D010710	D014406	c_d	D010710_x_D014406	15	c_1_broken	15	0.0	15	1.0	c	d					
+712	21823215	D002395	D066126	c_d	D002395_x_D066126	15	drug (may) cause(s) disease	4	0.0	15	0.26666666666666666	c	d					
+713	21823215	D007545	D066126	c_d	D007545_x_D066126	15	drug (may) cause(s) disease	5	0.0	15	0.3333333333333333	c	d					
+714	21852685	C121358	D005355	c_d	C121358_x_D005355	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+715	21967333	D000596	D009369	c_d	D000596_x_D009369	15	c_1_broken	11	1.0	14	0.7857142857142857	c	d					
+716	21981382	D000496	D024801	c_d	D000496_x_D024801	15	c_1_broken	6	0.0	15	0.4	c	d					
+719	22000320	8086	C536450	g_d	8086_x_C536450	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d					
+724	22000320	8086	D009135	g_d	8086_x_D009135	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d					
+725	22000320	8086	D009386	g_d	8086_x_D009386	15	c_2_broken	7	0.0	15	0.4666666666666667	g	d					
+728	22000320	8086	D016472	g_d	8086_x_D016472	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d					
+729	22000320	8086	D019578	g_d	8086_x_D019578	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d					
+730	22000320	8086	D020269	g_d	8086_x_D020269	15	gene mutation is/may be associated with disease	10	0.0	15	0.6666666666666666	g	d					
+731	22000320	8086	D056587	g_d	8086_x_D056587	16	gene mutation is/may be associated with disease	11	0.0	16	0.6875	g	d					
+732	22003057	C415129	D057165	c_d	C415129_x_D057165	15	c_1_broken	12	0.0	15	0.8	c	d					
+733	22003057	D000255	D057165	c_d	D000255_x_D057165	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+735	22045558	C014088	D000544	c_d	C014088_x_D000544	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+736	22126980	D000431	D017098	c_d	D000431_x_D017098	15	c_1_broken	9	0.0	15	0.6	c	d					
+737	22223164	D005947	D000860	c_d	D005947_x_D000860	15	c_1_broken	9	0.0	15	0.6	c	d					
+738	22223164	D010100	D000860	c_d	D010100_x_D000860	15	c_1_broken	12	0.0	15	0.8	c	d					
+739	22223164	D014614	D000860	c_d	D014614_x_D000860	15	c_1_broken	12	0.0	15	0.8	c	d					
+740	22370090	C060915	D000544	c_d	C060915_x_D000544	15	c_1_broken	15	0.0	15	1.0	c	d					
+741	22370090	C434743	D000544	c_d	C434743_x_D000544	16	c_1_broken	16	0.0	16	1.0	c	d					
+742	22370090	C508300	D000544	c_d	C508300_x_D000544	15	c_1_broken	15	0.0	15	1.0	c	d					
+743	22370090	D007854	D000544	c_d	D007854_x_D000544	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+744	22450329	D014614	D009436	c_d	D014614_x_D009436	15	c_1_broken	12	0.0	15	0.8	c	d					
+745	22492991	D009711	C567437	c_d	D009711_x_C567437	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+746	22496764	D002701	D007710	c_d	D002701_x_D007710	15	drug (may) treat(s) disease	10	0.0	15	0.6666666666666666	c	d					
+747	22496764	D011188	D007710	c_d	D011188_x_D007710	15	c_1_broken	12	0.0	15	0.8	c	d					
+748	22496764	D047090	D007710	c_d	D047090_x_D007710	15	drug (may) treat(s) disease	5	0.0	15	0.3333333333333333	c	d					
+749	22516760	D010100	D064420	c_d	D010100_x_D064420	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+750	22517741	C014088	D000544	c_d	C014088_x_D000544	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+751	22517741	C064589	D000544	c_d	C064589_x_D000544	15	c_1_broken	12	0.0	15	0.8	c	d					
+752	22517741	C076831	D000544	c_d	C076831_x_D000544	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+754	22538409	8086	613385	g_d	8086_x_613385	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d					
+757	22538409	8086	C537301	g_d	8086_x_C537301	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d					
+758	22538409	8086	C538582	g_d	8086_x_C538582	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d					
+760	22538409	8086	D000168	g_d	8086_x_D000168	15	gene mutation is/may be associated with disease	9	0.0	15	0.6	g	d					
+762	22538409	8086	D001766	g_d	8086_x_D001766	15	gene mutation is/may be associated with disease	9	0.0	15	0.6	g	d					
+763	22538409	8086	D003286	g_d	8086_x_D003286	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d					
+764	22538409	8086	D004194	g_d	8086_x_D004194	15	gene mutation is/may be associated with disease	7	1.0	14	0.5	g	d					
+766	22538409	8086	D007022	g_d	8086_x_D007022	15	gene mutation is/may be associated with disease	12	1.0	14	0.8571428571428571	g	d					
+767	22538409	8086	D007172	g_d	8086_x_D007172	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d					
+768	22538409	8086	D009358	g_d	8086_x_D009358	15	c_2_broken	9	0.0	15	0.6	g	d					
+771	22538409	8086	D013575	g_d	8086_x_D013575	15	gene mutation is/may be associated with disease	8	0.0	15	0.5333333333333333	g	d					
+772	22538409	8086	D014987	g_d	8086_x_D014987	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d					
+773	22538409	8086	D018450	g_d	8086_x_D018450	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d					
+779	22584989	8086	D006470	g_d	8086_x_D006470	16	gene has no relation to disease	8	1.0	15	0.5333333333333333	g	d					
+781	22584989	8086	D025063	g_d	8086_x_D025063	15	gene mutation is/may be associated with disease	10	0.0	15	0.6666666666666666	g	d					
+783	22632969	D011188	D010300	c_d	D011188_x_D010300	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+784	22645345	C097188	D001791	c_d	C097188_x_D001791	15	c_1_broken	12	1.0	14	0.8571428571428571	c	d					
+785	22717794	C015473	D018981	c_d	C015473_x_D018981	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+786	22717794	C026406	C536108	c_d	C026406_x_C536108	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+787	22717794	D013185	D018981	c_d	D013185_x_D018981	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+788	22728164	C054149	D000860	c_d	C054149_x_D000860	15	c_1_broken	12	0.0	15	0.8	c	d					
+789	22728164	D009569	D000860	c_d	D009569_x_D000860	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+790	22728164	D020123	D000860	c_d	D020123_x_D000860	15	c_1_broken	7	0.0	15	0.4666666666666667	c	d					
+792	22781125	D000116	C535436	c_d	D000116_x_C535436	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+793	22781125	D011134	C535436	c_d	D011134_x_C535436	16	c_1_broken	13	0.0	16	0.8125	c	d					
+795	22827796	D009841	D018981	c_d	D009841_x_D018981	16	c_1_broken	13	0.0	16	0.8125	c	d					
+796	22962013	D010100	D002282	c_d	D010100_x_D002282	15	c_1_broken	9	0.0	15	0.6	c	d					
+797	22991164	D009844	D018981	c_d	D009844_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+800	23012188	D003348	D006331	c_d	D003348_x_D006331	19	c_2_broken	9	1.0	18	0.5	c	d					
+806	23056690	8086	D002658	g_d	8086_x_D002658	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d					
+808	23056690	8086	D009135	g_d	8086_x_D009135	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d					
+810	23056690	8086	D014832	g_d	8086_x_D014832	15	gene mutation is/may be associated with disease	12	0.0	15	0.8	g	d					
+811	23056690	8086	D019636	g_d	8086_x_D019636	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d					
+813	23077033	D011188	D009410	c_d	D011188_x_D009410	15	c_1_broken	12	0.0	15	0.8	c	d					
+814	23093985	D005978	D010195	c_d	D005978_x_D010195	15	c_2_broken	9	0.0	15	0.6	c	d					
+815	23139742	C004479	D004715	c_d	C004479_x_D004715	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+816	23139742	C121720	D004715	c_d	C121720_x_D004715	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+817	23139742	D000596	D004715	c_d	D000596_x_D004715	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+819	23139742	D009711	D004715	c_d	D009711_x_D004715	15	c_1_broken	15	0.0	15	1.0	c	d					
+820	23139742	D024502	D004715	c_d	D024502_x_D004715	15	c_1_broken	15	0.0	15	1.0	c	d					
+827	23327820	8086	D009386	g_d	8086_x_D009386	15	c_2_broken	9	0.0	15	0.6	g	d					
+829	23327820	8086	D020734	g_d	8086_x_D020734	15	gene mutation is/may be associated with disease	13	1.0	14	0.9285714285714286	g	d					
+831	23372685	C006780	D003924	c_d	C006780_x_D003924	15	c_1_broken	7	0.0	15	0.4666666666666667	c	d					
+832	23372685	C009462	D003924	c_d	C009462_x_D003924	15	c_1_broken	12	0.0	15	0.8	c	d					
+833	23372685	C089739	D003924	c_d	C089739_x_D003924	15	drug (may) increase(s) risk of disease	7	0.0	15	0.4666666666666667	c	d					
+834	23372685	C544092	D003924	c_d	C544092_x_D003924	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+835	23372685	D003915	D003924	c_d	D003915_x_D003924	15	c_1_broken	15	0.0	15	1.0	c	d					
+836	23372685	D010100	D003924	c_d	D010100_x_D003924	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+837	23430875	C082768	D018981	c_d	C082768_x_D018981	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+838	23430875	C471076	D018981	c_d	C471076_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+839	23430875	D016685	D018981	c_d	D016685_x_D018981	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+840	23506892	C013059	C535747	c_d	C013059_x_C535747	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+841	23506892	C067869	C535747	c_d	C067869_x_C535747	15	c_1_broken	15	0.0	15	1.0	c	d					
+842	23506892	D000250	C535747	c_d	D000250_x_C535747	15	c_1_broken	15	0.0	15	1.0	c	d					
+843	23506892	D009705	C535747	c_d	D009705_x_C535747	15	c_1_broken	15	0.0	15	1.0	c	d					
+844	23506892	D009711	C535747	c_d	D009711_x_C535747	15	c_1_broken	15	0.0	15	1.0	c	d					
+845	23506892	D011756	C535747	c_d	D011756_x_C535747	15	c_1_broken	15	0.0	15	1.0	c	d					
+846	23536801	C072553	C536954	c_d	C072553_x_C536954	15	c_2_broken	6	0.0	15	0.4	c	d					
+847	23536801	D005978	D000544	c_d	D005978_x_D000544	16	c_1_broken	14	0.0	16	0.875	c	d					
+848	23608659	C016885	D006973	c_d	C016885_x_D006973	15	c_1_broken	15	0.0	15	1.0	c	d					
+849	23608659	C069545	D006973	c_d	C069545_x_D006973	15	c_1_broken	15	0.0	15	1.0	c	d					
+850	23608659	D000804	D006973	c_d	D000804_x_D006973	15	c_1_broken	12	0.0	15	0.8	c	d					
+851	23608659	D005947	D006973	c_d	D005947_x_D006973	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+852	23608659	D010100	D006973	c_d	D010100_x_D006973	16	c_1_broken	15	0.0	16	0.9375	c	d					
+853	23608659	D014415	D006973	c_d	D014415_x_D006973	15	drug has no relation to disease	6	0.0	15	0.4	c	d					
+856	23861206	8086	C537017	g_d	8086_x_C537017	15	gene mutation is/may be associated with disease	10	0.0	15	0.6666666666666666	g	d					
+857	23861206	8086	C538339	g_d	8086_x_C538339	16	c_2_broken	11	0.0	16	0.6875	g	d					
+860	23861206	8086	D000690	g_d	8086_x_D000690	16	gene has no relation to disease	11	0.0	16	0.6875	g	d					
+863	23861206	8086	D004941	g_d	8086_x_D004941	15	gene mutation is/may be associated with disease	9	0.0	15	0.6	g	d					
+864	23861206	8086	D009386	g_d	8086_x_D009386	15	c_2_broken	6	0.0	15	0.4	g	d					
+865	23861206	8086	D016472	g_d	8086_x_D016472	15	gene has no relation to disease	9	0.0	15	0.6	g	d					
+866	23861206	8086	D020734	g_d	8086_x_D020734	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d					
+869	23865579	C578980	D018981	c_d	C578980_x_D018981	15	c_1_broken	15	0.0	15	1.0	c	d					
+870	23865579	D022622	D018981	c_d	D022622_x_D018981	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+871	23904445	D012643	D064420	c_d	D012643_x_D064420	15	c_1_broken	8	0.0	15	0.5333333333333333	c	d					
+872	23904445	D017279	D064420	c_d	D017279_x_D064420	15	c_1_broken	9	0.0	15	0.6	c	d					
+874	23985544	D008550	D001750	c_d	D008550_x_D001750	16	drug relates to disease	4	0.0	16	0.25	c	d					
+875	23985544	D008550	D003072	c_d	D008550_x_D003072	15	drug (may) prevent(s) disease	7	0.0	15	0.4666666666666667	c	d					
+876	23985544	D008550	D019636	c_d	D008550_x_D019636	15	drug relates to disease	6	0.0	15	0.4	c	d					
+877	23985544	D008550	D028361	c_d	D008550_x_D028361	15	drug has no relation to disease	8	0.0	15	0.5333333333333333	c	d					
+878	23993988	C077118	D012507	c_d	C077118_x_D012507	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+879	23993988	C511596	D012507	c_d	C511596_x_D012507	15	c_1_broken	15	0.0	15	1.0	c	d					
+880	23993988	C544092	D012507	c_d	C544092_x_D012507	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+881	24037837	D000596	C536108	c_d	D000596_x_C536108	16	c_1_broken	10	1.0	15	0.6666666666666666	c	d					
+883	24094038	C415129	D000544	c_d	C415129_x_D000544	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+884	24113653	C095293	D024801	c_d	C095293_x_D024801	16	c_1_broken	15	0.0	16	0.9375	c	d					
+886	24115865	D005947	D000860	c_d	D005947_x_D000860	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+887	24115865	D008316	D000860	c_d	D008316_x_D000860	15	c_1_broken	12	0.0	15	0.8	c	d					
+888	24139699	5443	202200	g_d	5443_x_202200	16	gene relates to disease	7	1.0	15	0.4666666666666667	g	d					
+892	24139699	5443	D000690	g_d	5443_x_D000690	15	gene has no relation to disease	10	0.0	15	0.6666666666666666	g	d					
+893	24139699	5443	D003680	g_d	5443_x_D003680	15	gene relates to disease	7	0.0	15	0.4666666666666667	g	d					
+897	24139699	5443	D019282	g_d	5443_x_D019282	17	gene has no relation to disease	7	1.0	16	0.4375	g	d					
+898	24139699	5443	D020361	g_d	5443_x_D020361	15	gene has no relation to disease	6	0.0	15	0.4	g	d					
+899	24139699	5443	D025063	g_d	5443_x_D025063	15	gene relates to disease	12	0.0	15	0.8	g	d					
+900	24153356	C021319	D018981	c_d	C021319_x_D018981	18	c_1_broken	16	0.0	18	0.8888888888888888	c	d					
+901	24153356	D012794	D018981	c_d	D012794_x_D018981	17	c_1_broken	14	0.0	17	0.8235294117647058	c	d					
+902	24248470	C015978	D006816	c_d	C015978_x_D006816	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+903	24248470	D004187	D006816	c_d	D004187_x_D006816	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+904	24248470	D013481	D006816	c_d	D013481_x_D006816	16	c_1_broken	13	0.0	16	0.8125	c	d					
+905	24248470	D014199	D006816	c_d	D014199_x_D006816	16	c_1_broken	10	0.0	16	0.625	c	d					
+906	24279733	C033171	D005693	c_d	C033171_x_D005693	15	drug (may) treat(s) disease	14	0.0	15	0.9333333333333332	c	d					
+908	24279733	C033171	D064420	c_d	C033171_x_D064420	15	drug (may) treat(s) disease	6	0.0	15	0.4	c	d					
+909	24416370	D011134	D003092	c_d	D011134_x_D003092	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+910	24416370	D016264	D007249	c_d	D016264_x_D007249	15	c_1_broken	7	0.0	15	0.4666666666666667	c	d					
+911	24417481	C000593135	D012769	c_d	C000593135_x_D012769	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+912	24417481	D010100	D012769	c_d	D010100_x_D012769	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+913	24417481	D013438	D012769	c_d	D013438_x_D012769	15	c_1_broken	12	0.0	15	0.8	c	d					
+914	24481335	C510621	D002386	c_d	C510621_x_D002386	15	c_1_broken	5	0.0	15	0.3333333333333333	c	d					
+915	24481335	D002118	D019636	c_d	D002118_x_D019636	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+917	24497285	D006020	D009369	c_d	D006020_x_D009369	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+918	24517367	C004931	D019636	c_d	C004931_x_D019636	16	c_1_broken	13	0.0	16	0.8125	c	d					
+920	24517367	C010643	D019636	c_d	C010643_x_D019636	16	c_1_broken	10	0.0	16	0.625	c	d					
+921	24517367	C024343	D019636	c_d	C024343_x_D019636	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+922	24517367	C544092	D019636	c_d	C544092_x_D019636	16	c_1_broken	14	0.0	16	0.875	c	d					
+923	24517367	D007501	D019636	c_d	D007501_x_D019636	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+924	24517367	D010100	D019636	c_d	D010100_x_D019636	15	c_1_broken	11	0.0	15	0.7333333333333333	c	d					
+925	24517367	D015032	D019636	c_d	D015032_x_D019636	16	c_1_broken	9	0.0	16	0.5625	c	d					
+926	24527708	C039522	D018981	c_d	C039522_x_D018981	15	c_1_broken	15	0.0	15	1.0	c	d					
+927	24527708	D006020	D018981	c_d	D006020_x_D018981	17	c_1_broken	17	0.0	17	1.0	c	d					
+928	24651605	55768	606217	g_d	55768_x_606217	17	c_2_broken	9	1.0	16	0.5625	g	d					
+929	24651605	55768	C536009	g_d	55768_x_C536009	15	gene mutation is/may be associated with disease	12	1.0	14	0.8571428571428571	g	d					
+930	24651605	55768	C536108	g_d	55768_x_C536108	16	gene mutation is/may be associated with disease	13	1.0	15	0.8666666666666667	g	d					
+931	24651605	55768	C562827	g_d	55768_x_C562827	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d					
+932	24651605	55768	D002658	g_d	55768_x_D002658	17	gene mutation is/may be associated with disease	12	1.0	16	0.75	g	d					
+934	24651605	55768	D008107	g_d	55768_x_D008107	16	gene mutation is/may be associated with disease	13	1.0	15	0.8666666666666667	g	d					
+935	24651605	55768	D008831	g_d	55768_x_D008831	16	gene mutation is/may be associated with disease	14	0.0	16	0.875	g	d					
+936	24651605	55768	D009069	g_d	55768_x_D009069	17	gene mutation is/may be associated with disease	12	1.0	16	0.75	g	d					
+937	24651605	55768	D009123	g_d	55768_x_D009123	15	gene mutation is/may be associated with disease	10	1.0	14	0.7142857142857143	g	d					
+938	24651605	55768	D009422	g_d	55768_x_D009422	15	gene mutation is/may be associated with disease	11	0.0	15	0.7333333333333333	g	d					
+939	24651605	55768	D009461	g_d	55768_x_D009461	16	gene mutation is/may be associated with disease	13	1.0	15	0.8666666666666667	g	d					
+941	24651605	55768	D025063	g_d	55768_x_D025063	15	gene mutation is/may be associated with disease	12	1.0	14	0.8571428571428571	g	d					
+942	24651605	55768	D025861	g_d	55768_x_D025861	17	gene mutation is/may be associated with disease	11	1.0	16	0.6875	g	d					
+943	24651605	55768	D030342	g_d	55768_x_D030342	15	gene mutation is/may be associated with disease	13	0.0	15	0.8666666666666667	g	d					
+944	24741456	C026560	D020734	c_d	C026560_x_D020734	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+945	24741456	D015655	D010300	c_d	D015655_x_D010300	15	c_1_broken	9	0.0	15	0.6	c	d					
+946	24834210	D000324	D005317	c_d	D000324_x_D005317	17	c_1_broken	9	0.0	17	0.5294117647058824	c	d					
+947	25106632	C023888	612336	c_d	C023888_x_612336	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+948	25206537	D010100	D000208	c_d	D010100_x_D000208	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+950	25331899	C107044	D018981	c_d	C107044_x_D018981	15	c_1_broken	12	0.0	15	0.8	c	d					
+951	25331899	C428906	D018981	c_d	C428906_x_D018981	15	c_1_broken	12	0.0	15	0.8	c	d					
+952	25478884	C544092	D019636	c_d	C544092_x_D019636	15	c_1_broken	13	0.0	15	0.8666666666666667	c	d					
+953	25478884	D005986	D017772	c_d	D005986_x_D017772	15	c_1_broken	10	0.0	15	0.6666666666666666	c	d					
+954	25525276	C065795	D000544	c_d	C065795_x_D000544	15	c_1_broken	15	0.0	15	1.0	c	d					
+956	25639459	D002118	D000544	c_d	D002118_x_D000544	15	c_1_broken	12	0.0	15	0.8	c	d					
+957	25701757	C047192	D064420	c_d	C047192_x_D064420	15	c_1_broken	14	0.0	15	0.9333333333333332	c	d					
+958	25781531	8086	202200	g_d	8086_x_202200	18	gene mutation is/may be associated with disease	11	0.0	18	0.6111111111111112	g	d					
+964	25781531	8086	D011628	g_d	8086_x_D011628	15	gene mutation is/may be associated with disease	10	0.0	15	0.6666666666666666	g	d					
+965	25781531	8086	D017495	g_d	8086_x_D017495	15	c_2_broken	8	0.0	15	0.5333333333333333	g	d					
+967	25781531	8086	D025063	g_d	8086_x_D025063	15	gene mutation is/may be associated with disease	14	0.0	15	0.9333333333333332	g	d					
+968	25859006	C059514	C535819	c_d	C059514_x_C535819	15	drug (may) treat(s) disease	13	1.0	14	0.9285714285714286	c	d					
+969	25859006	C059514	D007249	c_d	C059514_x_D007249	15	c_2_broken	11	0.0	15	0.7333333333333333	c	d					
+970	25859006	D001241	C535819	c_d	D001241_x_C535819	15	drug (may) treat(s) disease	14	1.0	14	1.0	c	d					
+971	25859006	D001241	D007249	c_d	D001241_x_D007249	15	c_2_broken	6	1.0	14	0.42857142857142855	c	d					
+972	26053138	C029973	D005693	c_d	C029973_x_D005693	15	c_1_broken	15	0.0	15	1.0	c	d					
+973	26053138	D005690	D005693	c_d	D005690_x_D005693	15	c_1_broken	6	0.0	15	0.4	c	d					
+974	26143117	D014531	D014842	c_d	D014531_x_D014842	15	c_2_broken	7	0.0	15	0.4666666666666667	c	d					
